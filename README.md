@@ -1,7 +1,4 @@
-My academic Web site: http://cbrocha.com. 
+# dhruvbalwada.github.io
 
-To publish: 
 
-    $ rake publish
-
-When adding a new year's paper, don't forget to edit /_pages/publications.md.
+An oceanographer's portfolio built with the help of [minimal-mistakes](https://mmistakes.github.io/minimal-mistakes/), and some details from [GLW's GitHub](https://github.com/glwagner/glwagner.github.io).
