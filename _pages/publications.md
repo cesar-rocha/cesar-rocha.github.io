@@ -13,6 +13,10 @@ header:
 
 A full publication list will be published soon. For now, please check out my google scholar profile linked above.
 
+0. [Vertical structure, energetics, and dynamics of the Brazil Current System ][2]  
+    **C. B. Rocha**, I. C. A. da Silveira, B. M. Castro, J. A. M. Lima  & *Journal of Geophysical Research Oceans (2014)* 
+{: reversed="reversed"}
+
 0. [Traditional Quasi-geostrophic modes and surface Quasi-geostrophic solutions in the Southwestern Atlantic][1]  
     **C. B. Rocha**, A. Tandon, I. C. A. da Silveira, J. A. M. Lima  & *Journal of Geophysical Research Oceans (2013)* 
 {: reversed="reversed"}
@@ -22,4 +26,6 @@ A full publication list will be published soon. For now, please check out my goo
 
 
 [mail]: mailto:cesar.rocha@usp.br
-[1]: assets/documents/rocha_etal2013.pdf
+[1]: /assets/documents/rocha_etal2013.pdf
+[2]: /assets/documents/rocha_etal2014.pdf
+

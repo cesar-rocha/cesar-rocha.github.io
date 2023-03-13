@@ -18,6 +18,7 @@ header:
 - General circulation of the South Atlantic
 
 <br />
+<br />
 
 ## Geophysical fluid dynamics
 <div style="width:500px; float: right">
