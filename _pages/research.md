@@ -9,7 +9,7 @@ header:
 ---
 
 ## Ocean and climate physics
-<div style="width:350px; float: left">
+<div style="width:500px; float: left">
     {% include video id="807468817" provider="vimeo" %}
 </div>
 
@@ -20,7 +20,7 @@ header:
 <br />
 
 ## Geophysical fluid dynamics
-<div style="width:350px; float: right">
+<div style="width:500px; float: right">
     {% include video id="148827022" provider="vimeo" %}
 </div>
 
