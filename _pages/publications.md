@@ -13,7 +13,7 @@ header:
 
 A full publication list will be published soon. For now, please check out my google scholar profile linked above.
 
-O. [Traditional Quasi-geostrophic modes and surface Quasi-geostrophic solutions in the Southwestern Atlantic][1]  
+0. [Traditional Quasi-geostrophic modes and surface Quasi-geostrophic solutions in the Southwestern Atlantic][1]  
     **C. B. Rocha**, A. Tandon, I. C. A. da Silveira, J. A. M. Lima  & *Journal of Geophysical Research Oceans (2013)* 
 {: reversed="reversed"}
 
