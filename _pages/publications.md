@@ -76,16 +76,20 @@ header:
 ### Gray literature
 
 0. [S-MODE: The Sub-Mesoscale Ocean Dynamics Experiment](/assets/documents/zaron_rocha_2018.pdf) 
+
 J. T. Farrar et al., *Proceedings of the IEEE International Geoscience and Remote Sensing Symposium (2020)* 
 
 0. [Internal Gravity Waves and Meso/Sub-mesoscale Currents in the Ocean: anticipating high-resolution observations from the Surface Water & Ocean Topography (SWOT) swath altimeter mission](https://ieeexplore.ieee.org/document/9323112) 
+
 E. Zaron & **C. B. Rocha**, *Bulleting of American Meteorological Society (2020)* 
 
 0. [Open Code Policy for NASA Space Science: A perspective from NASA-supported ocean modeling and ocean data analysis](https://nap.nationalacademies.org/resource/25217/whitepapers/pdf/41_GilleSarahT.pdf)
+
 S. T. Gille, R. Abernathey, T. Chereskin, B. Cornuelle, P. Heimbach, M. Mazloff, **C. B. Rocha**, S. Soares, M. Sonnewald, B. Villas Boas, J. Wang, *Open Source Software Policy Options for NASA Earth and Space Sciences, The National Academies Press (2018)* 
 
 
 0. [The turbulent and wavy upper ocean: transition from geostrophic flows to internal waves and stimulated generation of near-inertial waves](https://escholarship.org/content/qt4m893890/qt4m893890.pdf)
+
  **C. B. Rocha**, *Ph.D. Dissertation (2018)* 
 {: reversed="reversed"}
 
