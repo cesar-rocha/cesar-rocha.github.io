@@ -75,11 +75,11 @@ header:
 
 ### Gray literature
 
-0. [S-MODE: The Sub-Mesoscale Ocean Dynamics Experiment](/assets/documents/zaron_rocha_2018.pdf) 
+0. [S-MODE: The Sub-Mesoscale Ocean Dynamics Experiment](https://ieeexplore.ieee.org/document/9323112) 
 
 J. T. Farrar et al., *Proceedings of the IEEE International Geoscience and Remote Sensing Symposium (2020)* 
 
-0. [Internal Gravity Waves and Meso/Sub-mesoscale Currents in the Ocean: anticipating high-resolution observations from the Surface Water & Ocean Topography (SWOT) swath altimeter mission](https://ieeexplore.ieee.org/document/9323112) 
+0. [Internal Gravity Waves and Meso/Sub-mesoscale Currents in the Ocean: anticipating high-resolution observations from the Surface Water & Ocean Topography (SWOT) swath altimeter mission](https://journals.ametsoc.org/view/journals/bams/99/9/bams-d-18-0133.1.xml) 
 
 E. Zaron & **C. B. Rocha**, *Bulleting of American Meteorological Society (2020)* 
 
