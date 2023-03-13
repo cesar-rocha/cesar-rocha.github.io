@@ -116,15 +116,18 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       #url: ""
-    - label: "Website"
+    - label: "CV"
       icon: "fas fa-fw fa-link"
-      url: "https://cesar-rocha.github.io"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/o_oceanografo"
+      url: "_LINK_TO_CV"
+    - label: "Lattes"
+      icon: "fas fa-fw fa-link"
+      url: "https://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4255611T5&tokenCaptchar=03AFY_a8WMZkikCnGfc0Tsjd2VRYLXECe58jV3i39XYuPJOuab81hBjK--r53POI7laenmQ0oykDWyhjE4sMTIfmNi-LTfd0DuKnwpXQ6MiEBPK9k3JlHb5gPrj-jM9RVbpBy2g7Rzh3CchggwMcQ3i3eiYjQVt4-0PU5-qsvT3_SvhAPPCnRD6VTa82-5UmbSczPVJoPDJoNiVZHG1fbD7_RN1z_xOnAGzyJZ-2iuNqaH3PjT7-RtyOpxkFHDlDbKxuf1d1FPIZoIv02hMH4jPHOlacvHGygw7D_hPpxuqnM4Pxn3K77fYDMvnWB4Mdz-uqG3conHAEJjCrIlPrtNMizy-sRuzI9J1qDmGSf0TFAVy8iNdTbJ223KW4SNWJ_nV1yIoaoNMlXxZr9y0TfDyKfMNbx3JX7wCTIpRsg4uxYhh6ChrnBTiBFZyRGQaW-wt5YrXVCauMf6fAgofBABKx6qTtwt38-1XGPYVANxJYgn4OgPzpWt_YJpsgPBocxZUJBewEi9l9N6DF-UfEEwkxbONhCIjQ6d2NLE8gzD-iX28CdhoHHL6bBpJrXn1gfKFJZnvxUyV0EjxLahkcLRk2NTAsvIy_PSow"      
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/cesar-rocha"
+    # - label: "Twitter"
+    #   icon: "fab fa-fw fa-twitter-square"
+    #   url: "https://twitter.com/o_oceanografo"
 
 # Site Footer
 footer:
