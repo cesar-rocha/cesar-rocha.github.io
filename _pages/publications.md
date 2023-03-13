@@ -109,7 +109,7 @@ S. T. Gille, R. Abernathey, T. Chereskin, B. Cornuelle, P. Heimbach, M. Mazloff,
 [17]: /assets/documents/chini_etal2022.pdf
 [18]: /assets/documents/soares_etal2022.pdf
 [19]: /assets/documents/rocha_simoessousa_2022.pdf
-[20]: /assets/documents/silveira_etal2023.pdf
+[20]: https://www.sciencedirect.com/science/article/pii/S0079661122001847?via%3Dihub
 
 [g1]: https://escholarship.org/content/qt4m893890/qt4m893890.pdf
 
