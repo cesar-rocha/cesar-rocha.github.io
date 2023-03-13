@@ -10,7 +10,7 @@ header:
 
 ## Ocean and climate physics
 <div style="width:350px; float: left">
-    {% include video id="148832252" provider="vimeo" %}
+    {% include video id="118875151" provider="vimeo" %}
 </div>
 
 - Mesoscale and submesoscale ocean dynamics
@@ -19,9 +19,10 @@ header:
 
 
 ## Geophysical fluid dynamics
-<!-- <div style="width:350px; float: right">
-{% include video id="" provider="youtube" %}
-</div> -->
+<div style="width:350px; float: right">
+    {% include video id="148832252" provider="vimeo" %}
+</div>
+
 
 - Horizontal convection
 - Waves, mean flows and their interactions
