@@ -11,6 +11,6 @@ header:
 
 ### Peer Reviewed Publications
 
-A full publication list will be published soon. For now, please checkout my google scholar profile linked above.
+A full publication list will be published soon. For now, please check out my google scholar profile linked above.
 
 [mail]: mailto:cesar.rocha@usp.br
