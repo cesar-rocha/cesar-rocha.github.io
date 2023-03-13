@@ -8,18 +8,24 @@ header:
   image: /assets/images/vorticity.png
 ---
 
-## Submesoscale ocean dynamics
+## Ocean and climate physics
 <!-- <div style="width:350px; float: left">
     {% include video id="" provider="vimeo" %}
 </div> -->
 
-## Internal waves
+- Mesoscale and submesoscale ocean dynamics
+- Internal waves, turbulence and mixing
+- General circulation of the South Atlantic
+
+
+## Geophysical fluid dynamics
 <!-- <div style="width:350px; float: right">
 {% include video id="" provider="youtube" %}
 </div> -->
 
-## South Atlantic general circulation and its role in climate
-<!-- <div style="width:350px; float: right">
-{% include video id="" provider="youtube" %}
-</div> -->
+- Horizontal convection
+- Waves, mean flows and their interactions
+
+
+
 
