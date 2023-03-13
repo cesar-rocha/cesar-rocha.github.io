@@ -17,7 +17,7 @@ header:
 - Internal waves, turbulence and mixing
 - General circulation of the South Atlantic
 
-
+<br />
 
 ## Geophysical fluid dynamics
 <div style="width:350px; float: right">

@@ -15,10 +15,11 @@ A full publication list will be published soon. For now, please check out my goo
 
 O. [Traditional Quasi-geostrophic modes and surface Quasi-geostrophic solutions in the Southwestern Atlantic][1]  
     **C. B. Rocha**, A. Tandon, I. C. A. da Silveira, J. A. M. Lima  & *Journal of Geophysical Research Oceans (2013)* 
-
 {: reversed="reversed"}
+
+### Gray literature
 
 
 
 [mail]: mailto:cesar.rocha@usp.br
-[1]: assets/documents/rocha_etal2013
+[1]: assets/documents/rocha_etal2013.pdf
