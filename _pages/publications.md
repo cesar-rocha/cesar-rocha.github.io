@@ -75,7 +75,7 @@ header:
 
 ### Gray literature
 
-0. [Internal Gravity Waves and Meso/Sub-mesoscale Currents in the Ocean: anticipating high-resolution observations from the Surface Water & Ocean Topography (SWOT) swath altimeter mission](https://escholarship.org/content/qt4m893890/qt4m893890.pdf) 
+0. [Internal Gravity Waves and Meso/Sub-mesoscale Currents in the Ocean: anticipating high-resolution observations from the Surface Water & Ocean Topography (SWOT) swath altimeter mission](/assets/documents/zaron_rocha_2018.pdf) 
 E. Zaron, **C. B. Rocha**, *Bulleting of American Meteorological Society (2018)* 
 
 0. [The turbulent and wavy upper ocean: transition from geostrophic flows to internal waves and stimulated generation of near-inertial waves](https://escholarship.org/content/qt4m893890/qt4m893890.pdf)
