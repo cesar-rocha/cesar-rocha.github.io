@@ -54,7 +54,7 @@ header:
 0. [Stimulated generation: extraction of energy from balanced flow by near-inertial waves][7]  
     **C. B. Rocha**, G. Wagner, & W. R. Young, *Journal of Fluid Mechanics (2018)* 
 
-0. [Mesoscale to submesoscale wavenumber spectra in Drake Passage][6]  
+0. [Small-scale open ocean currents have large effects on wind wave heights][6]  
     F. Ardhuin, S. T. Gille, D. Menemenlis, **C. B. Rocha**, N. Rascle, B. Chapron, J. Gula, & J. Mokemaker, *Journal of Geophysical Research Oceans (2017)* 
 
 0. [Seasonality of submesoscale dynamics in the Kuroshio Extension][5]  
@@ -90,24 +90,24 @@ S. T. Gille, R. Abernathey, T. Chereskin, B. Cornuelle, P. Heimbach, M. Mazloff,
 {: reversed="reversed"}
 
 [mail]: mailto:cesar.rocha@usp.br
-[1]: /assets/documents/rocha_etal2013.pdf
-[2]: /assets/documents/rocha_etal2014.pdf
-[3]: /assets/documents/rocha_etal2016a.pdf
-[4]: /assets/documents/rocha_etal2016b.pdf
-[5]: /assets/documents/rocha_etal2016c.pdf
-[6]: /assets/documents/ardhuin_etal2017.pdf
-[7]: /assets/documents/rocha_etal2018.pdf
-[8]: /assets/documents/napolitano_etal2019.pdf
-[9]: /assets/documents/paradise_etal2019.pdf
-[10]: /assets/documents/chereskin_etal2019.pdf
-[11]: /assets/documents/rocha_etal2020a.pdf
-[12]: /assets/documents/rocha_etal2020b.pdf
-[13]: /assets/documents/mahiques_etal2021.pdf
-[14]: /assets/documents/napolitano_etal2021.pdf
-[15]: /assets/documents/Stevens_etal2021.pdf
-[16]: /assets/documents/mahiques_etal2022.pdf
+[1]: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/jgrc.20214
+[2]: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2013JC009143
+[3]: https://journals.ametsoc.org/view/journals/phoc/46/2/jpo-d-15-0087.1.xml
+[4]: https://journals.ametsoc.org/view/journals/phoc/46/1/jpo-d-15-0073.1.xml
+[5]: https://agupubs.onlinelibrary.wiley.com/doi/10.1002/2016GL071349
+[6]: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2016JC012413
+[7]: https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/stimulated-generation-extraction-of-energy-from-balanced-flow-by-nearinertial-waves/900227E2C12AA98ECEBBE64F4FF21C43
+[8]: https://journals.ametsoc.org/view/journals/phoc/49/12/jpo-d-19-0011.1.xml
+[9]: /https://www.google.com/search?client=safari&rls=en&q=Blocking+Statistics+in+a+Varying+Climate%3A+Lessons+from+a+%E2%80%9CTraffic+Jam%E2%80%9D+Model+with+Pseudostochastic+Forcing&ie=UTF-8&oe=UTF-8
+[10]: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2018JC014583
+[11]: https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/improved-bounds-on-horizontal-convection/23D4D31EC5E900F7BFC2E3F6355FBC36
+[12]: https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/nusselt-numbers-of-horizontal-convection/4A56213E017FE5101A520077A44CF0D8
+[13]: https://os.copernicus.org/articles/17/1213/2021/
+[14]: https://link.springer.com/article/10.1007/s10236-020-01437-6
+[15]: https://essd.copernicus.org/articles/13/4067/2021/
+[16]: /https://www.sciencedirect.com/science/article/pii/S0025322721002978
 [17]: https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/abs/exploiting-selforganized-criticality-in-strongly-stratified-turbulence/8079196D550A0A8D48B28DFEA2E557CF
-[18]: /assets/documents/soares_etal2022.pdf
+[18]: https://www.google.com/search?client=safari&rls=en&q=Transition+from+Balanced+to+Unbalanced+Motion+in+the+Eastern+Tropical+Pacific&ie=UTF-8&oe=UTF-8
 [19]: https://www.mdpi.com/2072-4292/14/22/5781
 [20]: https://www.sciencedirect.com/science/article/pii/S0079661122001847?via%3Dihub
 
