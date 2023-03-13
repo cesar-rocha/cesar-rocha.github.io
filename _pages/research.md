@@ -18,11 +18,11 @@ header:
 - General circulation of the South Atlantic
 
 
+
 ## Geophysical fluid dynamics
 <div style="width:350px; float: right">
-    {% include video id="148832252" provider="vimeo" %}
+    {% include video id="118875067" provider="vimeo" %}
 </div>
-
 
 - Horizontal convection
 - Waves, mean flows and their interactions
