@@ -106,7 +106,7 @@ S. T. Gille, R. Abernathey, T. Chereskin, B. Cornuelle, P. Heimbach, M. Mazloff,
 [14]: /assets/documents/napolitano_etal2021.pdf
 [15]: /assets/documents/Stevens_etal2021.pdf
 [16]: /assets/documents/mahiques_etal2022.pdf
-[17]: /assets/documents/chini_etal2022.pdf
+[17]: https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/abs/exploiting-selforganized-criticality-in-strongly-stratified-turbulence/8079196D550A0A8D48B28DFEA2E557CF
 [18]: /assets/documents/soares_etal2022.pdf
 [19]: /assets/documents/rocha_simoessousa_2022.pdf
 [20]: https://www.sciencedirect.com/science/article/pii/S0079661122001847?via%3Dihub
