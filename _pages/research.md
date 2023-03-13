@@ -9,9 +9,9 @@ header:
 ---
 
 ## Ocean and climate physics
-<!-- <div style="width:350px; float: left">
-    {% include video id="" provider="vimeo" %}
-</div> -->
+<div style="width:350px; float: left">
+    {% include video id="148832252" provider="vimeo" %}
+</div>
 
 - Mesoscale and submesoscale ocean dynamics
 - Internal waves, turbulence and mixing
