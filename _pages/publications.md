@@ -85,7 +85,7 @@ E. Zaron & **C. B. Rocha**, *Bulleting of American Meteorological Society (2020)
 S. T. Gille, R. Abernathey, T. Chereskin, B. Cornuelle, P. Heimbach, M. Mazloff, **C. B. Rocha**, S. Soares, M. Sonnewald, B. Villas Boas, J. Wang, *Open Source Software Policy Options for NASA Earth and Space Sciences, The National Academies Press (2018)* 
 
 
-0. [The turbulent and wavy upper ocean: transition from geostrophic flows to internal waves and stimulated generation of near-inertial waves](https://escholarship.org/content/qt4m893890/qt4m893890.pdf)
+0. [The turbulent and wavy upper ocean: transition from geostrophic flows to internal waves and stimulated generation of near-inertial waves][g1]
  **C. B. Rocha**, *Ph.D. Dissertation (2018)* 
 {: reversed="reversed"}
 
@@ -110,5 +110,7 @@ S. T. Gille, R. Abernathey, T. Chereskin, B. Cornuelle, P. Heimbach, M. Mazloff,
 [18]: /assets/documents/soares_etal2022.pdf
 [19]: /assets/documents/rocha_simoessousa_2022.pdf
 [20]: /assets/documents/silveira_etal2023.pdf
+
+[g1]: https://escholarship.org/content/qt4m893890/qt4m893890.pdf
 
 
