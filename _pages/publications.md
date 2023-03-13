@@ -18,10 +18,8 @@ header:
 0. [Compact Mesoscale Eddies in the South Brazil Bight][19]  
    **C. B. Rocha**, I. T. Simões-Sousa & *Remote Sensing (2022)* 
 
-
 0. [Transition from balanced to unbalanced motion in the eastern tropical Pacific][18]  
   S. M. Soares, S. T. Gille, T. K. Chereskin, E. Firing, J. Hummon, **C. B. Rocha**& *Journal of Physical Oceanography (2022)* 
-
 
 0. [ Exploiting self-organized criticality in strongly stratified turbulence][17]  
    G. P. Chini, G. Michel, K. Julien, **C. B. Rocha**, C. P. Caulfield & *Journal of Fluid Mechanics (2022)* 
@@ -77,7 +75,11 @@ header:
 
 ### Gray literature
 
+0. [Internal Gravity Waves and Meso/Sub-mesoscale Currents in the Ocean: anticipating high-resolution observations from the Surface Water & Ocean Topography (SWOT) swath altimeter mission](https://escholarship.org/content/qt4m893890/qt4m893890.pdf) 
+E. Zaron, **C. B. Rocha**  & *Bulleting of American Meteorological Society (2018)* 
 
+0. [The turbulent and wavy upper ocean: transition from geostrophic flows to internal waves and stimulated generation of near-inertial waves](https://escholarship.org/content/qt4m893890/qt4m893890.pdf) **C. B. Rocha**  & *Ph.D. Dissertation (2018)* 
+{: reversed="reversed"}
 
 [mail]: mailto:cesar.rocha@usp.br
 [1]: /assets/documents/rocha_etal2013.pdf
