@@ -13,8 +13,12 @@ header:
 
 A full publication list will be published soon. For now, please check out my google scholar profile linked above.
 
-O. [...][1]  
-    **C. B. Rocha**, I. C. A. da Silveira,  & *Journal of Geophysical Research Oceans (2013)* 
+O. [Traditional Quasi-geostrophic modes and surface Quasi-geostrophic solutions in the Southwestern Atlantic][1]  
+    **C. B. Rocha**, A. Tandon, I. C. A. da Silveira, J. A. M. Lima  & *Journal of Geophysical Research Oceans (2013)* 
+
+{: reversed="reversed"}
+
 
 
 [mail]: mailto:cesar.rocha@usp.br
+[1]: assets/documents/rocha_etal2013
