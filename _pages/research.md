@@ -1,12 +1,11 @@
 ---
 title: "Research"
-layout: collection
+#layout: collection
 permalink: /research/
-collection: research
-entries_layout: grid
+#collection: research
+#entries_layout: grid
 header:
   image: /assets/images/vorticity.png
-  caption: "
 ---
 
 Soon.
