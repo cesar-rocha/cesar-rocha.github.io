@@ -5,7 +5,7 @@ permalink: /research/
 # collection: research
 # entries_layout: grid
 header:
-  image: /assets/images/vorticity_1km.jpg
+  image: /assets/images/vorticity.png
   caption: "
 ---
 
