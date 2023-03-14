@@ -9,6 +9,13 @@ header:
 [Google Scholar Profile](https://scholar.google.com/citations?user=7U3g940AAAAJ&hl=pt-BR&oi=ao)
 
 
+### Submitted
+
+0. [Nusselt Number Scaling in Horizontal Convection: Boundary Conditions and Dimensionality][s1]  
+   N. Constantinou, **C. B. Rocha**, S. G. Llewellyn Smith, & W. R. Young, *Journal of Fluid Mechanics (submitted in January 2023)* 
+{: reversed="reversed"}
+
+
 ### Peer-reviewed publications
 
 
@@ -112,5 +119,7 @@ S. T. Gille, R. Abernathey, T. Chereskin, B. Cornuelle, P. Heimbach, M. Mazloff,
 [20]: https://www.sciencedirect.com/science/article/pii/S0079661122001847?via%3Dihub
 
 [g1]: https://escholarship.org/content/qt4m893890/qt4m893890.pdf
+
+[s1]: https://arxiv.org/abs/2301.03122
 
 
