@@ -120,6 +120,6 @@ S. T. Gille, R. Abernathey, T. Chereskin, B. Cornuelle, P. Heimbach, M. Mazloff,
 
 [g1]: https://escholarship.org/content/qt4m893890/qt4m893890.pdf
 
-[s1]: https://arxiv.org/abs/2301.03122
+[s1]: https://arxiv.org/abs/2301.03122p
 
 
