@@ -21,7 +21,7 @@ header:
 <br />
 
 ## Geophysical fluid dynamics
-<div style="width:500px; float: right">
+<div style="width:500px; float: left">
     {% include video id="148827022" provider="vimeo" %}
 </div>
 
