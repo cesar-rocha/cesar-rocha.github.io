@@ -21,7 +21,7 @@ title_separator          : "|"
 subtitle                 : "Ocean and climate physics at USP" # site tagline that appears below site title in masthead
 name                     : "Cesar B Rocha"
 description              : "Physical Oceanography, Geophysical Fluid Dynamics, Climate Variability."
-url                      : "https://dhruvbalwada.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://cesar-rocha.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "cesar-rocha/cesar-rocha.github.id"  # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
