@@ -296,6 +296,7 @@ defaults:
     values:
       layout: single
       author_profile: true
+      permalink: /:title/
 
 # _portfolio
   - scope:
@@ -305,7 +306,6 @@ defaults:
       layout: single
       author_profile: true
       share: true
-
 
 # Add collections (https://mmistakes.github.io/minimal-mistakes/docs/collections/)
 collections:
