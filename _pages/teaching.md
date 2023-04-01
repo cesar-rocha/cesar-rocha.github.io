@@ -16,7 +16,8 @@ header:
 
 ## University of Connecticut
 
-- MARN5061: Advanced Dynamical Oceanography (2022)
+- MARN5061: Advanced Dynamical Oceanography ([2022](https://github.com/cesar-rocha/MARN-5061))
 - MARN5895: Research Computing in Marine Sciences ([2021](https://github.com/MARN-5895))
-- MARN3002: Foundations of Marine Sciences II (2021-2023)
+- MARN3002: Foundations of Marine Sciences II ([2021][3002-1]-2023)
 
+[3002-1]: https://github.com/cesar-rocha/MARN3002-Physics/blob/main/README.md
