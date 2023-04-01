@@ -1,5 +1,5 @@
 ---
-layout: collection
+layout: single
 title: "Research"
 permalink: /research/
 header:
