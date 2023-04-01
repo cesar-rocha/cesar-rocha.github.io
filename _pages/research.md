@@ -22,7 +22,7 @@ header:
 
 ## Geophysical fluid dynamics
 <div style="width:500px; float: right">
-    {% include video id="813736293" provider="vimeo" %}
+    {% include video id="148827022" provider="vimeo" %}
 </div>
 
 - Horizontal convection
