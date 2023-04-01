@@ -1,12 +1,11 @@
-  ---
+---
+layout: single
 title: "Research"
-#layout: collection
 permalink: /research/
-#collection: research
-#entries_layout: grid
 header:
   image: /assets/images/vorticity.png
 ---
+
 
 ## Ocean and climate physics
 <div style="width:500px; float: left">
@@ -24,6 +23,7 @@ header:
 <div style="width:500px; float: left">
     {% include video id="148827022" provider="vimeo" %}
 </div>
+
 - Horizontal convection
 - Waves, mean flows and their interactions
 
