@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Group"
+title: "Research Group"
 permalink: /group/
 header:
   image: /assets/images/vorticity.png

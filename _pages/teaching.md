@@ -9,12 +9,14 @@ header:
 
 ## Universidade de São Paulo
 
-- IOF0287: Oceanografia Física I (2023)
+- IOF0287: Oceanografia Física I ([2023][1])
+
+[1]: https://edisciplinas.usp.br/course/view.php?id=106133
 
 
 ## University of Connecticut
 
 - MARN5061: Advanced Dynamical Oceanography (2022)
-- MARN5895: Research Computing in Marine Sciences (2021)
+- MARN5895: Research Computing in Marine Sciences ([2021](https://github.com/MARN-5895))
 - MARN3002: Foundations of Marine Sciences II (2021-2023)
 
