@@ -17,6 +17,6 @@ I'm always looking for motivated people to work with. Please, email me if you'd 
 
 ### Useful reading for prospective group members
 
-- [Waiting for the motivation fairy, *Natureg*](https://www.nature.com/articles/nj7341-127a)
+- [Waiting for the motivation fairy, *Nature*](https://www.nature.com/articles/nj7341-127a)
 - [Elements of style, *Nature Physics*](https://www.nature.com/articles/nphys724)
 
