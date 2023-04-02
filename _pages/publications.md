@@ -6,7 +6,7 @@ header:
   image: /assets/images/vorticity.png
 ---
 
-[Google Scholar Profile](https://scholar.google.com/citations?user=7U3g940AAAAJ&hl=pt-BR&oi=ao)
+[[Google Scholar](https://scholar.google.com/citations?user=7U3g940AAAAJ&hl=pt-BR&oi=ao), [ORCID](https://orcid.org/0000-0003-4063-5468)]
 
 
 ### Submitted
@@ -120,6 +120,6 @@ S. T. Gille, R. Abernathey, T. Chereskin, B. Cornuelle, P. Heimbach, M. Mazloff,
 
 [g1]: https://escholarship.org/content/qt4m893890/qt4m893890.pdf
 
-[s1]: https://arxiv.org/abs/2301.03122p
+[s1]: https://arxiv.org/pdf/2301.03122.pdf
 
 
