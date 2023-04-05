@@ -23,7 +23,7 @@ I'm always looking for motivated people to work with. Please, email me if you'd 
 
 #### Long pieces
 - [Is email making professors stupid?](https://www.chronicle.com/article/is-email-making-professors-stupid/), Cal Newport, *The Chronicle of Higher Education*
-- [The question we've stopped asking about teen-ager and social media](https://www.newyorker.com/culture/office-space/the-question-weve-stopped-asking-about-teen-agers-and-social-media), Cal Newport, *The New Yorker*
+- [The question we've stopped asking about teen-agers and social media](https://www.newyorker.com/culture/office-space/the-question-weve-stopped-asking-about-teen-agers-and-social-media), Cal Newport, *The New Yorker*
 
 #### Books
 
