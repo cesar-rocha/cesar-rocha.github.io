@@ -6,7 +6,7 @@ header:
   image: /assets/images/vorticity.png
 ---
 
-[[Google Scholar](https://scholar.google.com/citations?user=7U3g940AAAAJ&hl=pt-BR&oi=ao), [ORCID](https://orcid.org/0000-0003-4063-5468)]
+[[Google Scholar](https://scholar.google.com/citations?user=7U3g940AAAAJ&hl=pt-BR&oi=ao), [ORCID](https://orcid.org/0000-0003-4063-5468), [Web of Science](https://www.webofscience.com/wos/author/record/AAH-9720-2019)]
 
 
 ### Submitted
