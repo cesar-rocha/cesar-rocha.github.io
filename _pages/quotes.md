@@ -8,7 +8,7 @@ header:
 
 Russ Davis (quoted by Chelton in the Russ Davis Memorial Symposium):
 
->Don't read a lot of papers, most of them are useless. 
+>Don't read a lot of papers. Most of them are worthless. 
 
 >Those clowns have turned this into a cottage industry.
 
