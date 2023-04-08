@@ -6,7 +6,7 @@ header:
   image: /assets/images/vorticity.png
 ---
 
-Russ Davis (quoted by D. Chelton in Russ Davis Memorial Symposium):
+Russ Davis (quoted by D. Chelton in the Russ Davis Memorial Symposium):
 
 >Don't read a lot of papers, most of them are useless. 
 
