@@ -6,7 +6,7 @@ header:
   image: /assets/images/vorticity.png
 ---
 
-Russ Davis (1941-2022):
+Russ Davis (quoted by D. Chelton in Russ Davis Memorial Symposium):
 
 >Don't read a lot of papers, most of them are useless. 
 
