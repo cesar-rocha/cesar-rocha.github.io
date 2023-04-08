@@ -14,4 +14,4 @@ Russ Davis (1941-2022):
 
 Lev Landau (quoted by Narlikar and Burbidge in Facts and Speculations in Cosmology, CUP):
 
->Cosmologists are often wrong but never in doubt
+>Cosmologists are often wrong but never in doubt.
