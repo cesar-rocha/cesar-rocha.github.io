@@ -15,7 +15,7 @@ Originally from São Paulo and a graduate of USP, I earned in 2018 a Ph.D. in Ph
 I'm always looking for motivated people to work with. Please, email me if you'd like to join my group or collaborate on a project.
 
 
-### Useful reading for those who would like to work with me
+### Useful reading 
 
 #### Short pieces
 - [Waiting for the motivation fairy](https://www.nature.com/articles/nj7341-127a), *Nature*
