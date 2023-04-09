@@ -16,7 +16,7 @@ short.
 
 We live in weird times.  An increasing number scientists confuse posting and browsing on social media with work.  I believe individual scientists do not need Twitter, Facebook, Instagram or TikTok. Certainly not for work. (Let institutions take care of outreach.) More than ever, we need social interactions, at seminars, at coffee time,  and at the board. In  those interactions, learning happens. And there lie the seeds of new discoveries.
 
-Below are a few snapshots of our favorite social media.
+Below are a few snapshots of my favorite social media.
 
 
 ## Universidade de São Paulo
