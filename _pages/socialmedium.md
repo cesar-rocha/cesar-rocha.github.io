@@ -134,7 +134,7 @@ heading of an S-MODE Pilot planning session defy dry-erasing.</small>
         <img class="img-fluid rounded z-depth-1" src="/assets/images/greenboard1.png" alt="" title="example image" />
     </div>
 </div>
-<div class="caption"> In 2015, while I was a graduate student at Scripps, my advisor bought a chalkboard for my office at Keck Research Center. We found this green one at sale for USD 50 at the UCSD Surplus Store, a real bargain. This is our first session at this chalkboard, in which we discussed the so-called Nakamura method for estimating an effective difussivity.
+<div class="caption"> In 2015, while I was a graduate student at Scripps, my advisor bought a chalkboard for my office at Keck Research Center. We found this green one at sale for USD 50 at the UCSD Surplus Store, a real bargain. The picture captured our first session at this chalkboard, in which we discussed the so-called Nakamura method for estimating an effective difussivity.
     <small></small>
 </div>
 
