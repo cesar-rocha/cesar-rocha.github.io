@@ -99,3 +99,28 @@ some GFD. In this session, we briefly discussed PV conservation in the single-la
 flat-bottomed shallow water model. On the top left, a reminder that <ins><a href="https://www.wired.com/2008/01/su-whiteboards">whiteboards suck</a></ins>: the remnants of the
 heading of an S-MODE Pilot planning session defy dry-erasing.</small>
 </div>
+
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+
+## Woods Hole Oceanographic Institution
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="/assets/images/blackboard3.png" alt="" title="example image" />
+    </div>
+</div>
+<div class="caption">
+    <small>This is a picture I took in Summer 2015 from a blackboard at the back of the main room at Walsh Cottage, which house the Geophysical Fluid Dynamics Program every Summer since 1959. The board filled up with scribbles of equations over a few days of brainstorming sessions among several people, some of the brigthest people I've ever met. The topic of [2015 GFD Summer Program](https://gfd.whoi.edu/gfd-publications/gfd-proceedings-volumes/2015-2/), of which I was a fellow, was Stochastic Processes in Atmospheric and Oceanic Dynamics.</small>
+</div>
+
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
