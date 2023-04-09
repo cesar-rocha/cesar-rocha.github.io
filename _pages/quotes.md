@@ -6,7 +6,6 @@ header:
   image: /assets/images/vorticity.png
 ---
 
-## A list of quotes from scientists that I have accumulated over the years. 
 
 Richard Feynman:
 
