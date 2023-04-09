@@ -50,7 +50,7 @@ Below are a few snapshots of my favorite social media.
     </div>
 </div>
 <div class="caption">
-    <small>I recently replaced the old whiteboard in my office with a blackboard (a high
+    <small>In 2021 I replaced the old whiteboard in my UConn office with a blackboard (a high
     quality Quartet chalkboard). This is the last boardwork on the old
     whiteboard from a weekly check-in meeting with Ph.D. student Paban Bhuyan. 
     On it, a Fourier series from a teaching session with Paban and some brainstorming 
