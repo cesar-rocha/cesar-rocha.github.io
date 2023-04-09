@@ -115,7 +115,27 @@ heading of an S-MODE Pilot planning session defy dry-erasing.</small>
     </div>
 </div>
 <div class="caption">
-    <small>This is a picture I took in Summer 2015 from a blackboard at the back of the main room at Walsh Cottage, which house the Geophysical Fluid Dynamics Program every Summer since 1959. The board filled up with scribbles of equations over a few days of brainstorming sessions among several people, some of the brigthest scientists I've ever met. The topic of [2015 GFD Summer Program](https://gfd.whoi.edu/gfd-publications/gfd-proceedings-volumes/2015-2/), of which I was a fellow, was Stochastic Processes in Atmospheric and Oceanic Dynamics.</small>
+    <small>This is a picture I took in Summer 2015 from a blackboard at the back of the main room at Walsh Cottage, which house the Geophysical Fluid Dynamics Program every Summer since 1959. The board filled up with scribbles of equations over a few days of brainstorming sessions among several people, some of the brigthest scientists I've ever met. The topic of 2015 GFD Summer Program, of which I was a fellow, was Stochastic Processes in Atmospheric and Oceanic Dynamics.</small>
+</div>
+
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+
+
+
+## Scripps Institution of Oceanography
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="/assets/images/greenboard1.png" alt="" title="example image" />
+    </div>
+</div>
+<div class="caption"> In 2015, while I was a graduate student at Scripps, my advisor bought a chalkboard for my office at Keck Research Center. We found this green one at sale for USD 50 at the UCSD Surplus Store, a real bargain. This is our first session at this chalkboard, in which we discussed the so-called Nakamura method for estimating an effective difussivity.
+    <small></small>
 </div>
 
 <p></p>
