@@ -115,7 +115,7 @@ heading of an S-MODE Pilot planning session defy dry-erasing.</small>
     </div>
 </div>
 <div class="caption">
-    <small>This is a picture I took in Summer 2015 from a blackboard at the back of the main room at Walsh Cottage, which house the Geophysical Fluid Dynamics Program every Summer since 1959. The board filled up with scribbles of equations over a few days of brainstorming sessions among several people, some of the brigthest scientists I've ever met. The topic of 2015 GFD Summer Program, of which I was a fellow, was Stochastic Processes in Atmospheric and Oceanic Dynamics.</small>
+    <small>This is a picture I took in Summer 2015 from a blackboard at the back of the main room at Walsh Cottage, which houses the Geophysical Fluid Dynamics Program every Summer since 1959. The board filled up with scribbles of equations over a few days of brainstorming sessions among several people, some of the brigthest scientists I've ever met. The topic of 2015 GFD Summer Program, of which I was a fellow, was Stochastic Processes in Atmospheric and Oceanic Dynamics.</small>
 </div>
 
 <p></p>
