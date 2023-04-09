@@ -28,7 +28,7 @@ Below are a few snapshots of my favorite social media.
     </div>
 </div>
 <div class="caption">
-    <small>I recently crossed the street with two Oceanography doctoral students. By crossing the street I mean going to the Math Department, which houses the best outdoor blackboards I've ever seen anywhere in the world. We discussed the beta = 0 solution in Stommel's seminal 1948 paper, a solution we hardly see in course notes or textbooks. I particularly like this problem because it gives me an opportunity to talk about a few math tricks that avoid tedious algebra.</small>
+    <small>I recently crossed the street with two Oceanography doctoral students. By crossing the street I mean going to the Math Department, which houses the best outdoor blackboards I've ever seen anywhere in the world. We discussed the beta = 0 solution in Stommel's seminal 1948 paper, a solution we hardly see in course notes or textbooks. I particularly like this problem because it gives me an opportunity to talk about a few math tricks to avoid tedious algebra.</small>
 </div>
 
 <p></p>
