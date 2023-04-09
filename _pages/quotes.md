@@ -9,6 +9,8 @@ header:
 
 Richard Feynman:
 
+> The first rule is not to fool yourself --- and you are the easiest person to fool.
+
 > Never confuse education with intelligence. You can have a Ph.D. and still be an idiot. 
 
 Russ Davis (quoted by Chelton in the Russ Davis Memorial Symposium):
