@@ -25,6 +25,6 @@ I'm always looking for motivated people to work with. Please, email me if you'd 
 - [Is email making professors stupid?](https://www.chronicle.com/article/is-email-making-professors-stupid/), Cal Newport, *The Chronicle of Higher Education*
 - [The question we've stopped asking about teen-agers and social media](https://www.newyorker.com/culture/office-space/the-question-weve-stopped-asking-about-teen-agers-and-social-media), Cal Newport, *The New Yorker*
 
-#### Books
+#### Advisory
 
-I also recommend you read the book [*Ten Arguments for Deleting Your Social Media Accounts Right Now*](https://www.amazon.com.br/Arguments-Deleting-Social-Media-Accounts/dp/125019668X) by Jaron Lanier.
+I also recommend you read the US Surgeon General Advisory on [*Social Media and Youth Mental Health*](https://www.hhs.gov/sites/default/files/sg-youth-mental-health-social-media-advisory.pdf).
