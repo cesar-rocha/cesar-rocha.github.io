@@ -8,7 +8,7 @@ header:
 
 
 ### Office 
-My office is Room 182 in [Instituto Oceanográfico](https://www.io.usp.br)'s main building, located across the street from IME ([Instituto de Matemática e Estatística](https://www.ime.usp.br/en/home/)) and about 200 m down the street from IF ([Instituto de Física](http://portal.if.usp.br/ifusp/)) and IAG ([Instituto de Astronomia, Geofísica e Ciências Atmosféricas](https://www.iag.usp.br/international/)).
+My office is Room 189 in [Instituto Oceanográfico](https://www.io.usp.br)'s main building, located across the street from IME ([Instituto de Matemática e Estatística](https://www.ime.usp.br/en/home/)) and about 200 m down the street from IF ([Instituto de Física](http://portal.if.usp.br/ifusp/)) and IAG ([Instituto de Astronomia, Geofísica e Ciências Atmosféricas](https://www.iag.usp.br/international/)).
 
 ### Mail address 
 Prof. Dr. César Barbedo Rocha\\
