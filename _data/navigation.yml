@@ -12,6 +12,8 @@ main:
     url: /research/
   - title: "Teaching"
     url: /teaching/
+  - title: "Oportunidades"
+    url: /opportunities/
  
  
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
