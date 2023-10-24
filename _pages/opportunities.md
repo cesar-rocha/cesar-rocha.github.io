@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Oportunidades"
+title: "Opportunities"
 permalink: /opportunities/
 header:
   image: /assets/images/vorticity.png
