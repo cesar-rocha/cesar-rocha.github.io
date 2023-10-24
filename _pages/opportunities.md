@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Oportunidades"
-permalink: /oportunities/
+permalink: /opportunities/
 header:
   image: /assets/images/vorticity.png
 ---
