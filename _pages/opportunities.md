@@ -54,9 +54,9 @@ Estou recrutando pós-graduandos em nível de mestrado e doutorado para início 
 
 ### Datas-chave
 
-- Prazo para inscrições para Mestrado: **17/11**
+- Prazo para inscrições para Mestrado: **17/11/23**
 
-- Prova de Cálculo Diferencial e Integral: **29/11**
+- Prova de Cálculo Diferencial e Integral: **29/11/23**
 
 (A prova poderá ser realizada em sua cidade mediante a requisição antecipada feita à CPG-IO.)
 
