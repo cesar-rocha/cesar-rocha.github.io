@@ -47,7 +47,7 @@ Estou recrutando pós-graduandos em nível de mestrado e doutorado para início 
 
 - Mestrado em Engenharias, Matemática, Física, Oceanografia, Metereologia ou áreas correlatas
 
-- Conhecimento de Cálculo Diferencial e Integral, estatísica e  Física Clássica
+- Conhecimento de Cálculo Diferencial e Integral, Estatísica e  Física Clássica
 
 - Experiência com programação em Python ou linguagem similar
 
