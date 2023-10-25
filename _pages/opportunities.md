@@ -14,7 +14,7 @@ Venha aplicar seus conhecimentos de física, matemática e programação em pesq
 ### Vantagens
 
 - Disponibilidade de bolsas CAPES do Programa de Pós-graduação ou de outras bolsas através dos meus projetos de pesquisa ([Serrapilheira/Fapesp](https://serrapilheira.org/serrapilheira-apoiara-32-jovens-cientistas-com-r-22-milhoes-em-parceria-com-faps/)). 
-- Grupo de pesquisa internacionalizado, colaborativo e acolhedor.
+- Grupo de pesquisa diverso, acolhedor, internacionalizado e colaborativo.
 - Possibilidade de bolsa BEPE (FAPESP) ou  sanduíche (CAPES) com os colaboradores dos projetos nos EUA (Woods Hole Oceanographic Institution e Jet Propulsion Laboratory/NASA), França (Université de Bretagne Occidentale) e Alemanha (Helmholtz-Zentrum Hereon).
 - Formação sólida em dinâmica de fluidos, modelagem computacional e análise de dados.
 - Desenvolvimento de habilidades e competências altamente valiosas em pesquisa acadêmica e transferíveis para várias profissões no mercado de trabalho.
