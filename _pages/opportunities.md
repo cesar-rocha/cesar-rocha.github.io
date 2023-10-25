@@ -68,7 +68,7 @@ Estou recrutando pós-graduandos em nível de mestrado e doutorado para início 
 
 - Entre em contato comigo via [email](mailto:cesar.rocha@usp.br)
 
-- Entre em contato com a secretaria de pós-graduação via [email](cpg_io@usp.br)
+- Entre em contato com a secretaria de pós-graduação via [email](cpg-io@usp.br)
 
 - Página do [Programa de Pós-graduação em Oceanografia/Oceanografia Física]()
 
