@@ -9,7 +9,7 @@ header:
 
 ## Programa de Pós-graduação em Oceanografia da USP (Conceito CAPES 7)
 
-Venha aplicar seus conhecimentos de física, matemática e programação em pesquisas fundamentais sobre o oceano e seu papel no clima global.  Em particular, estou recrutando pós-graduandos em nível de mestrado e doutorado para início em fevereiro de 2024. O deadline para inscrição no processo seletivo 2024 é **17/11**. Ver detalhes abaixo.
+Estou recrutando pós-graduandos em nível de mestrado e doutorado para início em fevereiro de 2024. O deadline para inscrição no processo seletivo 2024 é **17/11/23**. Ver detalhes abaixo.
 
 ### Vantagens
 
