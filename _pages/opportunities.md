@@ -17,7 +17,7 @@ Estou recrutando pós-graduandos em nível de mestrado e doutorado para início 
 
 - Grupo de pesquisa diverso, acolhedor, internacionalizado e colaborativo
 
-- Possibilidade de bolsa BEPE (FAPESP) ou  sanduíche (CAPES) com os colaboradores dos projetos nos EUA (Woods Hole Oceanographic Institution e Jet Propulsion Laboratory/NASA), França (Université de Bretagne Occidentale) e Alemanha (Helmholtz-Zentrum Hereon)
+- Possibilidade de bolsa BEPE (FAPESP) ou  sanduíche (CAPES) com os colaboradores dos meus projetos nos EUA (Woods Hole Oceanographic Institution e Jet Propulsion Laboratory/NASA), França (Université de Bretagne Occidentale) e Alemanha (Helmholtz-Zentrum Hereon)
 
 - Formação sólida em dinâmica de fluidos, modelagem computacional e análise de dados
 
