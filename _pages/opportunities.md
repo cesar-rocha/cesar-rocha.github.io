@@ -37,7 +37,7 @@ Estou recrutando pós-graduandos em nível de mestrado e doutorado para início 
 
 #### Para mestrado ou doutorado direto
 
-- Bacharelado em Engenharias, Matemática, Física, Oceanografia, Meteorologia ou áreas correlatas
+- Bacharelado em Engenharias, Matemática, Física, Meteorologia, Oceanografia ou áreas correlatas
 
 - Conhecimento de Cálculo Diferencial e Integral, Estatísica e  Física Clássica
 
@@ -45,7 +45,7 @@ Estou recrutando pós-graduandos em nível de mestrado e doutorado para início 
 
 #### Para doutorado
 
-- Mestrado em Engenharias, Matemática, Física, Oceanografia, Meteorologia ou áreas correlatas
+- Mestrado em Engenharias, Matemática, Física, Meteorologia, Oceanografia ou áreas correlatas
 
 - Conhecimento de Cálculo Diferencial e Integral, Estatísica e  Física Clássica
 
