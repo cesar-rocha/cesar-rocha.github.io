@@ -15,7 +15,7 @@ Estou recrutando pós-graduandos em nível de mestrado e doutorado para início 
 
 - Disponibilidade de bolsas CAPES do Programa de Pós-graduação ou de outras bolsas através dos meus projetos de pesquisa ([Serrapilheira/Fapesp](https://serrapilheira.org/serrapilheira-apoiara-32-jovens-cientistas-com-r-22-milhoes-em-parceria-com-faps/))
 
-- Grupo de pesquisa diverso, acolhedor, internacionalizado e colaborativo
+- Grupo de pesquisa diverso, acolhedor, colaborativo e internacionalmente inserido.
 
 - Possibilidade de bolsa BEPE (FAPESP) ou  sanduíche (CAPES) com os colaboradores dos meus projetos nos EUA (Woods Hole Oceanographic Institution e Jet Propulsion Laboratory/NASA), França (Université de Bretagne Occidentale) e Alemanha (Helmholtz-Zentrum Hereon)
 
@@ -33,7 +33,7 @@ Estou recrutando pós-graduandos em nível de mestrado e doutorado para início 
 
 - Interação entre vórtices de mesoescala e ondas internas
 
-### Requisitos desejáveis
+### Requisitos mínimos
 
 #### Para mestrado ou doutorado direto
 
