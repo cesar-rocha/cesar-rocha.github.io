@@ -18,7 +18,7 @@ header:
 
 ### Peer-reviewed publications
 
-0. (Lateral shift from turbidite- to contourite-dominated continental slope, a case study from southeast Brazil slope)[21]
+0. [Lateral shift from turbidite- to contourite-dominated continental slope, a case study from southeast Brazil slope](21)
   U. Schattner, **C.B. Rocha**, R.B. Ramos, N. Shtober-Zisu, F.J. Lobo, M.M. de Mahiques
 
 0. [The Brazil Current Quasi-Stationary Unstable Meanders at 22S-23S][20]  
@@ -119,7 +119,7 @@ S. T. Gille, R. Abernathey, T. Chereskin, B. Cornuelle, P. Heimbach, M. Mazloff,
 [18]: https://www.google.com/search?client=safari&rls=en&q=Transition+from+Balanced+to+Unbalanced+Motion+in+the+Eastern+Tropical+Pacific&ie=UTF-8&oe=UTF-8
 [19]: https://www.mdpi.com/2072-4292/14/22/5781
 [20]: https://www.sciencedirect.com/science/article/pii/S0079661122001847?via%3Dihub
-[21]: https://pdf.sciencedirectassets.com/271791/AIP/1-s2.0-S0169555X23004294/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIQDSUpkPFPdN3%2FzhD5A4KREx9P9flNpn02S0cwNsLy1xQQIgQywrYTFjXVjFb%2F%2FXZRFe9Wt6FTXLhB8W3sNjn1vt26wqsgUIZhAFGgwwNTkwMDM1NDY4NjUiDPGLGg4btstydEu6miqPBXpAqi1c0NeqZEvEcL9guJSFGBZfF%2FyjtV3geshUEZjZmbTAWO0K0IAZlLtx3TTKeeTlNL%2Bb9Gx%2FygIlOwVM70UWIckY%2BkCmxljq93GNMHEYj9Hvw8TubYA%2BxYH2N3L8P7Y%2Be7c3W9pIzBlYYHiT%2F8y9cVyNcyAO%2BbPjiu%2Blo4dpG7tDVbUoGXiPtb%2FSAYd%2FSDmYf16ABfripB1KWq3Wt5HcQ6nTGRERG5rKOThApjQ0WfuK5%2BPIzifr84BWKNNnJEuSQt3i8plUWWiEs8I9Y3%2BmnveliQ2fqtA4lUk0NBKp85ufYhVHlJi1A%2BcsD1WqYfBhPKM4BETPhjv1aQ%2BVvFWV8n8u9hXU%2FpKg1KIxZipbTTiU0IpTFrMq9XPSJgjEk1q91a0yhyrj7YdjStIv8SZEChjQdP7109nKgMJB6JVA2Owzb1OHqbP1rwh03H%2F8P6ec3ysm036i6FyXAViDBxYX1flcyr4ITzaoLmMwUpoROJEz%2Fbtn4dk2SY6Jd5TZMHqPGhQteJfiz3rhP3V3Y%2Bm6bOpJJPgDPjSfwJZALQvSr7QpEey%2FzhaCaMSK30XqIEWIeO%2BEYmlh%2FYY1IAW%2BGR4wQY1xbu%2BToDuuueHZTYxpBrHiLmvngev1LaQxKlWZNNDwxYBMMU9y5bzzmY3XJl3t%2FgMrUJ6tgA%2B5ipksf4kzPaZfewuvylQZM5wA0siW73fw75jEbvr4fX07KBbK9yoazb5zI9Q7nlx182fBXUJR84%2FoReTI5mooOFL19qDqNh5GmcIMzxF9WH%2ByR8M%2FNjrw3Nw3mQLsR%2Fy8mkXYHDFdeRp%2Bvj7IdPcD4MAK6nvhlt9V6YnvxU7n94xJ%2FnDDe7fLeoetGxD%2FQNhOvZGR0Hkw%2B9TtqwY6sQH95343fubuJZAqKqQBbeEjMNEhb1jNtOZ75%2FQiHfHkhlu%2FUAJpGADv7XaLAAu6E5MkKQFkM%2B0KVqzRkDPSziZabgzmNRfwG%2BNH7KcY%2FlJHtdQvjQ129PNxxOAYgw0zsyUQlYrRPkE1HyGy%2F2U32AUgG2ybpujBFqrivVhLqP3B2u9UT0Rkc3kapksydIDDYUWMk79R7Xltblzsp36LUtNsiI250hTT7TBiMItivGnv%2Ba0%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20231214T214102Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTY3HSYAP2X%2F20231214%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=8be1c8e469d02e62088c15ad9f7e3947e1f4f29ffb7ff629aa71efd4c75d48c1&hash=62758c46ae73a70f8f9c93f62c5bc628169ac2f8be6c61dde9e1ac229ee90b1a&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S0169555X23004294&tid=spdf-5d41a741-506b-4be0-b6ae-78a64be7cb32&sid=a7a7cbbd391808481e4b41723dae846ebb79gxrqa&type=client&tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&ua=041d585c545d5a0507&rr=83599bd1bbc34d53&cc=br
+[21]: https://www.sciencedirect.com/science/article/pii/S0169555X23004294?via%3Dihub
 
 
 [g1]: https://escholarship.org/content/qt4m893890/qt4m893890.pdf
