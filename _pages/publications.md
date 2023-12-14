@@ -11,15 +11,24 @@ header:
 
 ### Submitted
 
+0. [Intriguing Warming of Abyssal Waters in the Argentine Basin from January 2019 to January 2023][s4]  
+   E. Campos, **C. B. Rocha**, A. Piola, M. van Caspel, O. Sato, P. Polito, M. P. Chidichimo, R. Perez, S. Dong, T. Bilo, *Scientific Reports (submitted)* 
+
+0. [On the mechanisms driving latent heat fluxvariations in the north-west Tropical Atlantic][s3]  
+   P. Fernández, S. Speich, D. Lange-Vega, J. Karstensen, D. Zhang, **C. B. Rocha**, *Journal of Geophysical Research Oceans (submitted)* 
+
+0. [Temporal trends and causes of deoxygenation in the northwest Atlantic shelf ][s2]  
+   H. Nguyen, S. Siedlecki, **C. B. Rocha**, Z. Chen, E. Curchitser, *Journal of Geophysical Research Oceans (submitted)* 
+
 0. [Nusselt Number Scaling in Horizontal Convection: Boundary Conditions and Dimensionality][s1]  
-   N. Constantinou, **C. B. Rocha**, S. G. Llewellyn Smith, & W. R. Young, *Journal of Fluid Mechanics (submitted in January 2023)* 
+   N. Constantinou, **C. B. Rocha**, S. G. Llewellyn Smith, & W. R. Young, *Journal of Fluid Mechanics (submitted)* 
 {: reversed="reversed"}
 
 
 ### Peer-reviewed publications
 
-0. [Lateral shift from turbidite- to contourite-dominated continental slope, a case study from southeast Brazil slope](21)
-  U. Schattner, **C.B. Rocha**, R.B. Ramos, N. Shtober-Zisu, F.J. Lobo, M.M. de Mahiques
+0. [Lateral shift from turbidite- to contourite-dominated continental slope, a case study from southeast Brazil slope][21]
+  U. Schattner, **C.B. Rocha**, R.B. Ramos, N. Shtober-Zisu, F.J. Lobo, & M.M. de Mahiques, **Geomorphology** (in press)
 
 0. [The Brazil Current Quasi-Stationary Unstable Meanders at 22S-23S][20]  
    I. C. A. da Silveira, F. Pereira, G. R. Flierl, I. T. Simões-Sousa, A. Palóczy, M. Borges-Silva, & **C. B. Rocha**, *Progress in Oceanography (2023)* 
@@ -125,5 +134,6 @@ S. T. Gille, R. Abernathey, T. Chereskin, B. Cornuelle, P. Heimbach, M. Mazloff,
 [g1]: https://escholarship.org/content/qt4m893890/qt4m893890.pdf
 
 [s1]: https://arxiv.org/pdf/2301.03122.pdf
-
-
+[s2]: 
+[s3]:
+[s4]: https://www.researchsquare.com/article/rs-3609456/v1
