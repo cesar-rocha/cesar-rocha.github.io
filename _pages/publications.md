@@ -11,6 +11,9 @@ header:
 
 ### Submitted
 
+0. [Submarine Geomorphology and Processes: from coast to deep abyssal plains][s5]  
+   F. J. Lobo, J. L. dos Passos, R. Durán, A. López-Quirós, J. Guillén, F. Pereira, **C. B. Rocha**, M. M. de Mahiques, **Geomorphology**
+
 0. [Intriguing Warming of Abyssal Waters in the Argentine Basin from January 2019 to January 2023][s4]  
    E. Campos, **C. B. Rocha**, A. Piola, M. van Caspel, O. Sato, P. Polito, M. P. Chidichimo, R. Perez, S. Dong, T. Bilo, *Scientific Reports (submitted)* 
 
@@ -134,6 +137,6 @@ S. T. Gille, R. Abernathey, T. Chereskin, B. Cornuelle, P. Heimbach, M. Mazloff,
 [g1]: https://escholarship.org/content/qt4m893890/qt4m893890.pdf
 
 [s1]: https://arxiv.org/pdf/2301.03122.pdf
-[s2]: 
-[s3]:
+[s2]: https://
+[s3]:https://
 [s4]: https://www.researchsquare.com/article/rs-3609456/v1
