@@ -11,6 +11,9 @@ header:
 
 ### Submitted
 
+0. [Ocean fine-scale fronts driven by a freshwater Amazon plume during wintertime][s6]
+  S. Coadou-Chaventon, S. Speich, D. Zhang, **C.B. Rocha**, S. Swart, **Journal of Geophysical Research Oceans (submitted)** 
+
 0. [Submarine Geomorphology and Processes: from coast to deep abyssal plains][s5]  
    F. J. Lobo, J. L. dos Passos, R. Durán, A. López-Quirós, J. Guillén, F. Pereira, **C. B. Rocha**, M. M. de Mahiques, *Geomorphology (submitted)*
 
