@@ -11,8 +11,14 @@ header:
 
 ### Submitted
 
+0. [The Rio Grande Rise Circulation: Dynamics of an Internal Tide Conversion Hotspot][s8]  
+   P. W. M. Souza-Neto, I. C. A. da Silveira, **C. B. Rocha**, C. Z. Lazaneo, P. H. R. Calil, *Progress in Oceanography (submitted)* 
+
+0. [A Deep Learning Approach to Estimate Ocean Salinity with Data Sampled with Expendable Bathythermographs][s7]  
+   E. Campos, **C. B. Rocha**, M. Goes, S. Dong, H. Lopez, G. Goni, *Applied Ocean Research (submitted)* 
+
 0. [Ocean fine-scale fronts driven by a freshwater Amazon plume during wintertime][s6]
-  S. Coadou-Chaventon, S. Speich, D. Zhang, **C.B. Rocha**, S. Swart, **Journal of Geophysical Research Oceans (submitted)** 
+  S. Coadou-Chaventon, S. Speich, D. Zhang, **C.B. Rocha**, S. Swart, *Journal of Geophysical Research Oceans (submitted)*
 
 0. [Submarine Geomorphology and Processes: from coast to deep abyssal plains][s5]  
    F. J. Lobo, J. L. dos Passos, R. Durán, A. López-Quirós, J. Guillén, F. Pereira, **C. B. Rocha**, M. M. de Mahiques, *Geomorphology (submitted)*
@@ -145,4 +151,5 @@ S. T. Gille, R. Abernathey, T. Chereskin, B. Cornuelle, P. Heimbach, M. Mazloff,
 [s4]: https://www.researchsquare.com/article/rs-3609456/v1
 [s5]:https://
 [s6]:https://
-
+[s7]:https://
+[s8]:https://
