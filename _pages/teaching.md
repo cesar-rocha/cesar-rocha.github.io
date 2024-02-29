@@ -9,9 +9,21 @@ header:
 
 ## Universidade de São Paulo
 
-- IOF0287: Oceanografia Física I ([2023][1])
+- IOF0287: Oceanografia Física I ([2023][1a], [2024][1b])
+- IOF0290: Oceano e criosfera em um clima em mudança ([2024][2a])
+- 2100122: Oceanografia Integrativa I (Dados) ([2024][3a])
+- IOC5813: Special Topics in Physical Oceanography ([2023][5a])
+- IOF1223: Circulação Geral dos Oceanos ([2023][6])
+- 2100121: Oceanografia Integrativa II ([2023][7])
 
-[1]: https://edisciplinas.usp.br/course/view.php?id=106133
+
+[1a]: https://edisciplinas.usp.br/course/view.php?id=106133
+[1b]: https://edisciplinas.usp.br/course/view.php?id=118137 
+[2a]: https://edisciplinas.usp.br/enrol/index.php?id=118380
+[3a]: https://classroom.google.com/u/0/c/NjU1NTg1MDg3OTU5?hl=pt-BR
+[5a]: https://portalservicos.usp.br/janus/componente/disciplinasOferecidasInicial.jsf?action=3&sgldis=IOC5813&idioma=en
+[6]: https://edisciplinas.usp.br/course/view.php?id=114781
+[7]: https://edisciplinas.usp.br/course/view.php?id=112233&section=0
 
 
 ## University of Connecticut
