@@ -8,7 +8,7 @@ header:
 
 Appereances in the media (mostly in Brazil)
 
-Jan.  2024: RedeTV News (https://youtu.be/VpzVkUa2eOE?t=469)
+Jan.  2024: [RedeTV News](https://youtu.be/VpzVkUa2eOE?t=469)
 
 Jan.  2024: Portal Metrópoles (https://www.metropoles.com/sao-paulo/obras-contencao-litoral-especies)
 
