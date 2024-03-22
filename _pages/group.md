@@ -9,9 +9,19 @@ header:
 
 ## Present
 
+### Graduate students
+- [Rafael Couto Martins](), *Master's student at USP* (2024-present).
 - [Mackenzie Blanusa](https://twitter.com/MackinMocean), *Master's student at UConn* (2021-present).
 - [Paban Bhuyan](https://in.linkedin.com/in/paban-bhuyan-71610768), *PhD student at UConn* (2021-present), co-advised with [Leonel Romero](https://leonelromero.com).
 
+### Undergrads
+
+- [Murilo Vaz Caetité]()
+- [Lara Medeiros Schlumbom]()
+- [Pamela Batista dos Anjos]()
+- [Mariana de Souza Barros]()
+- [Camile Chiodini]()
+- [Natália Rossi Jorge]()
 
 ## Alumni
 
