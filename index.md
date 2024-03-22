@@ -16,7 +16,7 @@ I'm always looking for motivated people to work with. Please, email me if you'd 
 
 I'm actively recruiting a **postdoc** and **graduate students** with strong background in physics, math and programming. No previous experience with Oceanography or GFD required. Email me if interested.
 
-### Useful reading 
+<!-- ### Useful reading 
 
 #### Short pieces
 - [Waiting for the motivation fairy](https://www.nature.com/articles/nj7341-127a), *Nature*
@@ -28,4 +28,4 @@ I'm actively recruiting a **postdoc** and **graduate students** with strong back
 
 #### Advisory
 
-I also recommend you read the US Surgeon General Advisory on [*Social Media and Youth Mental Health*](https://www.hhs.gov/sites/default/files/sg-youth-mental-health-social-media-advisory.pdf).
+I also recommend you read the US Surgeon General Advisory on [*Social Media and Youth Mental Health*](https://www.hhs.gov/sites/default/files/sg-youth-mental-health-social-media-advisory.pdf). -->
