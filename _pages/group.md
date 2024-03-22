@@ -11,6 +11,8 @@ header:
 
 ### Graduate students
 - [Rafael Couto Martins](), *Master's student at USP* (2024-present).
+- [Pedro Walfir Neto](), *PhD student at USP* (2024-present), co-advised with [Ilson Silveira]().
+- [João Pedro Amorin](), *PhD student at USP* (2024-present), co-advised with [Ilson Silveira]().
 - [Mackenzie Blanusa](https://twitter.com/MackinMocean), *Master's student at UConn* (2021-present).
 - [Paban Bhuyan](https://in.linkedin.com/in/paban-bhuyan-71610768), *PhD student at UConn* (2021-present), co-advised with [Leonel Romero](https://leonelromero.com).
 
