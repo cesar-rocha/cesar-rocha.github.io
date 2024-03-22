@@ -6,7 +6,7 @@ header:
   image: /assets/images/vorticity.png
 ---
 
-*Comments, interviews and articles in the media (mostly in Brazil)*
+*Articles, commentary and interviews in the media (mostly in Brazil)*
 
 **Jan.  2024: RedeTV News**, [Estudo revela que mar pode engolir parte de Santos até 2050](https://youtu.be/VpzVkUa2eOE?t=469)
 
