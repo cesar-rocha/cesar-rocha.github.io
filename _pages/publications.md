@@ -14,9 +14,6 @@ header:
 0. [The Rio Grande Rise Circulation: Dynamics of an Internal Tide Conversion Hotspot][s8]  
    P. W. M. Souza-Neto, I. C. A. da Silveira, **C. B. Rocha**, C. Z. Lazaneo, P. H. R. Calil, *Progress in Oceanography (submitted)* 
 
-0. [A Deep Learning Approach to Estimate Ocean Salinity with Data Sampled with Expendable Bathythermographs][s7]  
-   E. Campos, **C. B. Rocha**, M. Goes, S. Dong, H. Lopez, G. Goni, *Applied Ocean Research (submitted)* 
-
 0. [Ocean fine-scale fronts driven by a freshwater Amazon plume during wintertime][s6]
   S. Coadou-Chaventon, S. Speich, D. Zhang, **C.B. Rocha**, S. Swart, *Journal of Geophysical Research Oceans (submitted)*
 
@@ -25,9 +22,6 @@ header:
 
 0. [Intriguing Warming of Abyssal Waters in the Argentine Basin from January 2019 to January 2023][s4]  
    E. Campos, **C. B. Rocha**, A. Piola, M. van Caspel, O. Sato, P. Polito, M. P. Chidichimo, R. Perez, S. Dong, T. Bilo, *Scientific Reports (submitted)* 
-
-0. [On the mechanisms driving latent heat fluxvariations in the north-west Tropical Atlantic][s3]  
-   P. Fernández, S. Speich, D. Lange-Vega, J. Karstensen, D. Zhang, **C. B. Rocha**, *Journal of Geophysical Research Oceans (submitted)* 
 
 0. [Temporal trends and causes of deoxygenation in the northwest Atlantic shelf ][s2]  
    H. Nguyen, S. Siedlecki, **C. B. Rocha**, Z. Chen, E. Curchitser, *Journal of Geophysical Research Oceans (submitted)* 
@@ -39,8 +33,14 @@ header:
 
 ### Peer-reviewed publications
 
+0. [On the mechanisms driving latent heat fluxvariations in the north-west Tropical Atlantic][23]  
+   P. Fernández, S. Speich, D. Lange-Vega, J. Karstensen, D. Zhang, **C. B. Rocha**, *Journal of Geophysical Research Oceans (in press)* 
+
+0. [A Deep Learning Approach to Estimate Ocean Salinity with Data Sampled with Expendable Bathythermographs][22]  
+   E. Campos, **C. B. Rocha**, M. Goes, S. Dong, H. Lopez, G. Goni, *Applied Ocean Research (in press)* 
+
 0. [Lateral shift from turbidite- to contourite-dominated continental slope, a case study from southeast Brazil slope][21]
-  U. Schattner, **C.B. Rocha**, R.B. Ramos, N. Shtober-Zisu, F.J. Lobo, & M.M. de Mahiques, **Geomorphology** (in press)
+  U. Schattner, **C.B. Rocha**, R.B. Ramos, N. Shtober-Zisu, F.J. Lobo, & M.M. de Mahiques, **Geomorphology (2024)**
 
 0. [The Brazil Current Quasi-Stationary Unstable Meanders at 22S-23S][20]  
    I. C. A. da Silveira, F. Pereira, G. R. Flierl, I. T. Simões-Sousa, A. Palóczy, M. Borges-Silva, & **C. B. Rocha**, *Progress in Oceanography (2023)* 
@@ -140,8 +140,9 @@ S. T. Gille, R. Abernathey, T. Chereskin, B. Cornuelle, P. Heimbach, M. Mazloff,
 [18]: https://www.google.com/search?client=safari&rls=en&q=Transition+from+Balanced+to+Unbalanced+Motion+in+the+Eastern+Tropical+Pacific&ie=UTF-8&oe=UTF-8
 [19]: https://www.mdpi.com/2072-4292/14/22/5781
 [20]: https://www.sciencedirect.com/science/article/pii/S0079661122001847?via%3Dihub
-[21]: https://www.sciencedirect.com/science/article/pii/S0169555X23004294?via%3Dihub
-
+[21]: https://www.sciencedirect.com/science/article/pii/S0169555X23004294
+[22]: https://authors.elsevier.com/tracking/article/details.do?aid=103997&jid=APOR&surname=Campos
+[23]: https://authors.elsevier.com/tracking/article/details.do?aid=103997&jid=APOR&surname=Camposhttps://essopenarchive.org/users/699371/articles/686765-on-the-mechanisms-driving-latent-heat-flux-variations-in-the-northwest-tropical-atlantic
 
 [g1]: https://escholarship.org/content/qt4m893890/qt4m893890.pdf
 
