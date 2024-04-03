@@ -12,7 +12,7 @@ header:
     {% include video id="807468817" provider="vimeo" %}
 </div>
 
-- Mesoscale and submesoscale ocean dynamics
+- Submesoscale dynamics and cross-scale interactions
 - Internal waves, turbulence and mixing
 - General circulation of the South Atlantic
 
@@ -25,6 +25,7 @@ header:
 </div>
 
 - Horizontal convection
+- Strongly stratified turbulence
 - Waves, mean flows and their interactions
 
 
