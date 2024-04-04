@@ -33,7 +33,7 @@ header:
 
 ### Peer-reviewed publications
 
-0. [On the mechanisms driving latent heat fluxvariations in the north-west Tropical Atlantic][23]  
+0. [On the mechanisms driving latent heat flux variations in the north-west Tropical Atlantic][23]  
    P. Fernández, S. Speich, D. Lange-Vega, J. Karstensen, D. Zhang, **C. B. Rocha**, *Journal of Geophysical Research Oceans (in press)* 
 
 0. [A Deep Learning Approach to Estimate Ocean Salinity with Data Sampled with Expendable Bathythermographs][22]  
