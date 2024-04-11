@@ -143,7 +143,7 @@ S. T. Gille, R. Abernathey, T. Chereskin, B. Cornuelle, P. Heimbach, M. Mazloff,
 [21]: https://www.sciencedirect.com/science/article/pii/S0169555X23004294
 [22]: https://authors.elsevier.com/tracking/article/details.do?aid=103997&jid=APOR&surname=Campos
 [23]: https://authors.elsevier.com/tracking/article/details.do?aid=103997&jid=APOR&surname=Camposhttps://essopenarchive.org/users/699371/articles/686765-on-the-mechanisms-driving-latent-heat-flux-variations-in-the-northwest-tropical-atlantic
-[s8]:https://
+[24]:https://
 
 
 [g1]: https://escholarship.org/content/qt4m893890/qt4m893890.pdf
