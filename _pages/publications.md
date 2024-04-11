@@ -40,7 +40,7 @@ header:
    E. Campos, **C. B. Rocha**, M. Goes, S. Dong, H. Lopez, G. Goni, *Applied Ocean Research (in press)* 
 
 0. [Lateral shift from turbidite- to contourite-dominated continental slope, a case study from southeast Brazil slope][21]
-   U. Schattner, **C.B. Rocha**, R.B. Ramos, N. Shtober-Zisu, F.J. Lobo, & M.M. de Mahiques, *Geomorphology (2024)*
+    U. Schattner, **C.B. Rocha**, R.B. Ramos, N. Shtober-Zisu, F.J. Lobo, & M.M. de Mahiques, *Geomorphology (2024)*
 
 0. [The Brazil Current Quasi-Stationary Unstable Meanders at 22S-23S][20]  
    I. C. A. da Silveira, F. Pereira, G. R. Flierl, I. T. Simões-Sousa, A. Palóczy, M. Borges-Silva, & **C. B. Rocha**, *Progress in Oceanography (2023)* 
