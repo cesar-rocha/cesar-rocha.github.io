@@ -11,9 +11,6 @@ header:
 
 ### Submitted
 
-0. [The Rio Grande Rise Circulation: Dynamics of an Internal Tide Conversion Hotspot][s8]  
-   P. W. M. Souza-Neto, I. C. A. da Silveira, **C. B. Rocha**, C. Z. Lazaneo, P. H. R. Calil, *Progress in Oceanography (submitted)* 
-
 0. [Ocean fine-scale fronts driven by a freshwater Amazon plume during wintertime][s6]
   S. Coadou-Chaventon, S. Speich, D. Zhang, **C.B. Rocha**, S. Swart, *Journal of Geophysical Research Oceans (submitted)*
 
@@ -32,6 +29,9 @@ header:
 
 
 ### Peer-reviewed publications
+
+0. [The Rio Grande Rise Circulation: Dynamics of an Internal Tide Conversion Hotspot][24]  
+   P. W. M. Souza-Neto, I. C. A. da Silveira, **C. B. Rocha**, C. Z. Lazaneo, P. H. R. Calil, *Progress in Oceanography (submitted)* 
 
 0. [On the mechanisms driving latent heat flux variations in the north-west Tropical Atlantic][23]  
    P. Fernández, S. Speich, D. Lange-Vega, J. Karstensen, D. Zhang, **C. B. Rocha**, *Journal of Geophysical Research Oceans (in press)* 
@@ -143,6 +143,8 @@ S. T. Gille, R. Abernathey, T. Chereskin, B. Cornuelle, P. Heimbach, M. Mazloff,
 [21]: https://www.sciencedirect.com/science/article/pii/S0169555X23004294
 [22]: https://authors.elsevier.com/tracking/article/details.do?aid=103997&jid=APOR&surname=Campos
 [23]: https://authors.elsevier.com/tracking/article/details.do?aid=103997&jid=APOR&surname=Camposhttps://essopenarchive.org/users/699371/articles/686765-on-the-mechanisms-driving-latent-heat-flux-variations-in-the-northwest-tropical-atlantic
+[s8]:https://
+
 
 [g1]: https://escholarship.org/content/qt4m893890/qt4m893890.pdf
 
@@ -153,4 +155,3 @@ S. T. Gille, R. Abernathey, T. Chereskin, B. Cornuelle, P. Heimbach, M. Mazloff,
 [s5]:https://
 [s6]:https://
 [s7]:https://
-[s8]:https://
