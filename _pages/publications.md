@@ -31,7 +31,7 @@ header:
 ### Peer-reviewed publications
 
 0. [The Rio Grande Rise Circulation: Dynamics of an Internal Tide Conversion Hotspot][24]  
-   P. W. M. Souza-Neto, I. C. A. da Silveira, **C. B. Rocha**, C. Z. Lazaneo, P. H. R. Calil, *Progress in Oceanography (submitted)* 
+   P. W. M. Souza-Neto, I. C. A. da Silveira, **C. B. Rocha**, C. Z. Lazaneo, P. H. R. Calil, *Progress in Oceanography (in press)* 
 
 0. [On the mechanisms driving latent heat flux variations in the north-west Tropical Atlantic][23]  
    P. Fernández, S. Speich, D. Lange-Vega, J. Karstensen, D. Zhang, **C. B. Rocha**, *Journal of Geophysical Research Oceans (in press)* 
