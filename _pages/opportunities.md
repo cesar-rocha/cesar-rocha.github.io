@@ -15,6 +15,8 @@ I am recruiting an ambitious and autonomous postdoc to conduct research as part 
 2. Experience with analysis and visualization of observations and model outputs.
 3. Excellent verbal and written communication skills in English.
 
+If you are interested in this position, please contact me by [email](mailto:cesar.rocha@usp.br).
+
 ## Programa de Pós-graduação em Oceanografia da USP (Conceito CAPES 7)
 
 Estou recrutando pós-graduandos em nível de mestrado e doutorado para início em fevereiro de 2025. A inscrição no processo seletivo 2025 será em outubro/novembro.
