@@ -11,6 +11,10 @@ header:
 
 ### Submitted
 
+0. [Ocean fine-scale fronts driven by a freshwater Amazon plume during wintertime][s3]
+ M. Zhou, J. Granger, **C.B. Rocha**, S. Siedlecki, B. Barone, A. While, *Global Biogeochemical Cycles (submitted)*
+
+
 0. [Ocean fine-scale fronts driven by a freshwater Amazon plume during wintertime][s6]
   S. Coadou-Chaventon, S. Speich, D. Zhang, **C.B. Rocha**, S. Swart, *Journal of Geophysical Research Oceans (submitted)*
 
@@ -143,7 +147,7 @@ S. T. Gille, R. Abernathey, T. Chereskin, B. Cornuelle, P. Heimbach, M. Mazloff,
 [21]: https://www.sciencedirect.com/science/article/pii/S0169555X23004294
 [22]: https://authors.elsevier.com/tracking/article/details.do?aid=103997&jid=APOR&surname=Campos
 [23]: https://authors.elsevier.com/tracking/article/details.do?aid=103997&jid=APOR&surname=Camposhttps://essopenarchive.org/users/699371/articles/686765-on-the-mechanisms-driving-latent-heat-flux-variations-in-the-northwest-tropical-atlantic
-[24]:https://
+[24]: https://www.sciencedirect.com/science/article/pii/S0079661124000703
 
 
 [g1]: https://escholarship.org/content/qt4m893890/qt4m893890.pdf
