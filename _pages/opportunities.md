@@ -7,13 +7,20 @@ header:
 ---
 
 
-## Pós-doutorado 
+## Postdoc 
 
-I am recruiting an ambitious and autonomous postdoc to conduct research as part of my FAPESP Young Investigator Award. The ideal candidate will have:
+I am recruiting an ambitious and autonomous postdoc to conduct research as part of my FAPESP Young Investigator Award. The minimal qualifications are:
 
 1. A Ph.D. in Physical Oceanography, Meteorology, Applied Mathematics or related field.
 2. Experience with analysis and visualization of observations and model outputs.
 3. Excellent verbal and written communication skills in English.
+
+Additionaly, desired qualifications are:
+
+1. Strong background in geophysical fluid dynamics.
+2. Excellent computational skills, including programming in Python or Julia.
+3. Experience with the set up and execution of idealized and realistic numerical simulations.
+
 
 If you are interested in this position, please contact me by [email](mailto:cesar.rocha@usp.br).
 
