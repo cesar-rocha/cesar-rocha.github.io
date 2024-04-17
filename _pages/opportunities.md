@@ -9,11 +9,11 @@ header:
 
 ## Postdoc 
 
-I am recruiting an ambitious and autonomous postdoc to conduct research as part of my FAPESP Young Investigator Award. The minimal qualifications are:
+I am recruiting an ambitious and autonomous postdoc to conduct research as part of my FAPESP Young Investigator Award on submesoscale eddy transport. The minimal qualifications are:
 
 1. A Ph.D. in Physical Oceanography, Meteorology, Applied Mathematics or related field.
 2. Experience with analysis and visualization of observations and model outputs.
-3. Excellent verbal and written communication skills in English.
+3. Excellent verbal and written communication in English.
 
 Additionaly, desired qualifications are:
 
