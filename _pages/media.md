@@ -8,7 +8,7 @@ header:
 
 *Articles, commentary and interviews in the media (mostly in Brazil)*
 
-**Apr. 2024: TV Vanguarda (Globo)**, [USP identifica elevação do nível do mar no litoral de SP](https://globoplay.globo.com/v/12527321/)
+**Apr. 2024: Jornal Vanguarda (TV Vanguarda/Globo)**, [USP identifica elevação do nível do mar no litoral de SP](https://globoplay.globo.com/v/12527321/)
 
 **Jan.  2024: RedeTV News**, [Estudo revela que mar pode engolir parte de Santos até 2050](https://youtu.be/VpzVkUa2eOE?t=469)
 
