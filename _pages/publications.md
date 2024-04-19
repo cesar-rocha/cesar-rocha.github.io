@@ -11,7 +11,7 @@ header:
 
 ### Submitted
 
-0. [Ocean fine-scale fronts driven by a freshwater Amazon plume during wintertime][s3]
+0. [Nitrogen biogeochemistry of adjacent mesoscale eddies in the North Pacific Subtropical Gyre][s3]
    M. Zhou, J. Granger, **C.B. Rocha**, S. Siedlecki, B. Barone, A. While, *Global Biogeochemical Cycles (submitted)*
 
 
