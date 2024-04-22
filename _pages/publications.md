@@ -18,9 +18,6 @@ header:
 0. [Ocean fine-scale fronts driven by a freshwater Amazon plume during wintertime][s6]
   S. Coadou-Chaventon, S. Speich, D. Zhang, **C.B. Rocha**, S. Swart, *Journal of Geophysical Research Oceans (submitted)*
 
-0. [Submarine Geomorphology and Processes: from coast to deep abyssal plains][s5]  
-   F. J. Lobo, J. L. dos Passos, R. Durán, A. López-Quirós, J. Guillén, F. Pereira, **C. B. Rocha**, M. M. de Mahiques, *Geomorphology (submitted)*
-
 0. [Intriguing Warming of Abyssal Waters in the Argentine Basin from January 2019 to January 2023][s4]  
    E. Campos, **C. B. Rocha**, A. Piola, M. van Caspel, O. Sato, P. Polito, M. P. Chidichimo, R. Perez, S. Dong, T. Bilo, *Scientific Reports (submitted)* 
 
@@ -33,6 +30,9 @@ header:
 
 
 ### Peer-reviewed publications
+
+0. [Submarine Geomorphology and Processes: from coast to deep abyssal plains][25]  
+   F. J. Lobo, J. L. dos Passos, R. Durán, A. López-Quirós, J. Guillén, F. Pereira, **C. B. Rocha**, M. M. de Mahiques, *Geomorphology (in press)*
 
 0. [The Rio Grande Rise Circulation: Dynamics of an Internal Tide Conversion Hotspot][24]  
    P. W. M. Souza-Neto, I. C. A. da Silveira, **C. B. Rocha**, C. Z. Lazaneo, P. H. R. Calil, *Progress in Oceanography (in press)* 
@@ -148,13 +148,14 @@ S. T. Gille, R. Abernathey, T. Chereskin, B. Cornuelle, P. Heimbach, M. Mazloff,
 [22]: https://www.sciencedirect.com/science/article/pii/S0141118724001196?dgcid=author
 [23]: https://authors.elsevier.com/tracking/article/details.do?aid=103997&jid=APOR&surname=Camposhttps://essopenarchive.org/users/699371/articles/686765-on-the-mechanisms-driving-latent-heat-flux-variations-in-the-northwest-tropical-atlantic
 [24]: https://www.sciencedirect.com/science/article/pii/S0079661124000703
+[25]: 
 
 
 [g1]: https://escholarship.org/content/qt4m893890/qt4m893890.pdf
 
 [s1]: https://arxiv.org/pdf/2301.03122.pdf
 [s2]: https://
-[s3]:https://
+[s3]: https://essopenarchive.org/users/771310/articles/853119-nitrogen-biogeochemistry-of-adjacent-mesoscale-eddies-in-the-north-pacific-subtropical-gyre
 [s4]: https://www.researchsquare.com/article/rs-3609456/v1
 [s5]:https://
 [s6]:https://
