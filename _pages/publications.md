@@ -11,6 +11,11 @@ header:
 
 ### Submitted
 
+0. [Thermohaline gradients galore in the northwestern Tropical Atlantic][s7]
+   D. Napolitano, J. Gula, S. Coadou-Chaventon, S. Speich, J. McWilliams, , **C. Rocha**, D. Zhang, X. Carton, *Geophysical Research Letters (submitted)*
+
+
+
 0. [Nitrogen biogeochemistry of adjacent mesoscale eddies in the North Pacific Subtropical Gyre][s3]
    M. Zhou, J. Granger, **C.B. Rocha**, S. Siedlecki, B. Barone, A. While, *Global Biogeochemical Cycles (submitted)*
 
@@ -24,9 +29,9 @@ header:
 0. [Temporal trends and causes of deoxygenation in the northwest Atlantic shelf ][s2]  
    H. Nguyen, S. Siedlecki, **C. B. Rocha**, Z. Chen, E. Curchitser, *Journal of Geophysical Research Oceans (submitted)* 
 
-0. [Nusselt Number Scaling in Horizontal Convection: Boundary Conditions and Dimensionality][s1]  
+<!-- 0. [Nusselt Number Scaling in Horizontal Convection: Boundary Conditions and Dimensionality][s1]  
    N. Constantinou, **C. B. Rocha**, S. G. Llewellyn Smith, & W. R. Young, *Journal of Fluid Mechanics (submitted)* 
-{: reversed="reversed"}
+{: reversed="reversed"} -->
 
 
 ### Peer-reviewed publications
