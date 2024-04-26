@@ -12,12 +12,10 @@ header:
 ### Submitted
 
 0. [Thermohaline gradients galore in the northwestern Tropical Atlantic][s7]
-   D. Napolitano, J. Gula, S. Coadou-Chaventon, S. Speich, J. McWilliams, , **C. Rocha**, D. Zhang, X. Carton, *Geophysical Research Letters (submitted)*
-
-
+    D. Napolitano, J. Gula, S. Coadou-Chaventon, S. Speich, J. McWilliams, **C. Rocha**, D. Zhang, X. Carton, *Geophysical Research Letters (submitted)*
 
 0. [Nitrogen biogeochemistry of adjacent mesoscale eddies in the North Pacific Subtropical Gyre][s3]
-   M. Zhou, J. Granger, **C.B. Rocha**, S. Siedlecki, B. Barone, A. While, *Global Biogeochemical Cycles (submitted)*
+    M. Zhou, J. Granger, **C.B. Rocha**, S. Siedlecki, B. Barone, A. While, *Global Biogeochemical Cycles (submitted)*
 
 
 0. [Ocean fine-scale fronts driven by a freshwater Amazon plume during wintertime][s6]
