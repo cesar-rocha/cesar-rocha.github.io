@@ -35,7 +35,7 @@ header:
 ### Peer-reviewed publications
 
 0. [Submarine Geomorphology and Processes: from coast to deep abyssal plains][25]  
-   F. J. Lobo, J. L. dos Passos, R. Durán, A. López-Quirós, J. Guillén, F. Pereira, **C. B. Rocha**, M. M. de Mahiques, *Geomorphology (in press)*
+   F. J. Lobo, J. L. dos Passos, R. Durán, A. López-Quirós, J. Guillén, F. Pereira, **C. B. Rocha**, M. M. de Mahiques, *Geomorphology (2024)*
 
 0. [The Rio Grande Rise Circulation: Dynamics of an Internal Tide Conversion Hotspot][24]  
    P. W. M. Souza-Neto, I. C. A. da Silveira, **C. B. Rocha**, C. Z. Lazaneo, P. H. R. Calil, *Progress in Oceanography (2024)* 
