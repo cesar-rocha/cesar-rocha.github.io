@@ -11,6 +11,9 @@ header:
 
 ### Submitted
 
+0. [Exploring the Characteristics of Ocean Surface Winds at High Resolution with Doppler Scatterometry][s8]
+    A. Wineteer, E. Rodriguez, D. Perkovic-Martin, H. Torres, F. Polverani, R. Akbar, **C. Rocha**, *Geophysical Research Letters (submitted)*
+
 0. [Thermohaline gradients galore in the northwestern Tropical Atlantic][s7]
     D. Napolitano, J. Gula, S. Coadou-Chaventon, S. Speich, J. McWilliams, **C. Rocha**, D. Zhang, X. Carton, *Geophysical Research Letters (submitted)*
 
@@ -163,3 +166,4 @@ S. T. Gille, R. Abernathey, T. Chereskin, B. Cornuelle, P. Heimbach, M. Mazloff,
 [s5]:https://
 [s6]:https://
 [s7]:https://
+[s8]:https://
