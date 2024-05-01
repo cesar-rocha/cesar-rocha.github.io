@@ -24,8 +24,8 @@ header:
 0. [Ocean fine-scale fronts driven by a freshwater Amazon plume during wintertime][s6]
   S. Coadou-Chaventon, S. Speich, D. Zhang, **C.B. Rocha**, S. Swart, *Journal of Geophysical Research Oceans (submitted)*
 
-0. [Intriguing Warming of Abyssal Waters in the Argentine Basin from January 2019 to January 2023][s4]  
-   E. Campos, **C. B. Rocha**, A. Piola, M. van Caspel, O. Sato, P. Polito, M. P. Chidichimo, R. Perez, S. Dong, T. Bilo, *Scientific Reports (submitted)* 
+<!-- 0. [Intriguing Warming of Abyssal Waters in the Argentine Basin from January 2019 to January 2023][s4]  
+   E. Campos, **C. B. Rocha**, A. Piola, M. van Caspel, O. Sato, P. Polito, M. P. Chidichimo, R. Perez, S. Dong, T. Bilo, *Scientific Reports (submitted)*  -->
 
 0. [Temporal trends and causes of deoxygenation in the northwest Atlantic shelf ][s2]  
    H. Nguyen, S. Siedlecki, **C. B. Rocha**, Z. Chen, E. Curchitser, *Journal of Geophysical Research Oceans (submitted)* 
