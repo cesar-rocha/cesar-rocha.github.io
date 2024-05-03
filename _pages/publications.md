@@ -47,7 +47,7 @@ header:
    P. Fernández, S. Speich, D. Lange-Vega, J. Karstensen, D. Zhang, **C. B. Rocha**, *Journal of Geophysical Research Oceans (2024)* 
 
 0. [A Deep Learning Approach to Estimate Ocean Salinity with Data Sampled with Expendable Bathythermographs][22]  
-   E. Campos, **C. B. Rocha**, M. Goes, S. Dong, H. Lopez, G. Goni, *Applied Ocean Research (in press)* 
+   E. Campos, **C. B. Rocha**, M. Goes, S. Dong, H. Lopez, G. Goni, *Applied Ocean Research (2024)* 
 
 0. [Lateral shift from turbidite- to contourite-dominated continental slope, a case study from southeast Brazil slope][21]
     U. Schattner, **C.B. Rocha**, R.B. Ramos, N. Shtober-Zisu, F.J. Lobo, & M.M. de Mahiques, *Geomorphology (2024)*
@@ -151,7 +151,7 @@ S. T. Gille, R. Abernathey, T. Chereskin, B. Cornuelle, P. Heimbach, M. Mazloff,
 [19]: https://www.mdpi.com/2072-4292/14/22/5781
 [20]: https://www.sciencedirect.com/science/article/pii/S0079661122001847?via%3Dihub
 [21]: https://www.sciencedirect.com/science/article/pii/S0169555X23004294
-[22]: https://www.sciencedirect.com/science/article/pii/S0141118724001196?dgcid=author
+[22]: https://www.sciencedirect.com/science/article/pii/S0141118724001196
 [23]: https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023JC020658
 [24]: https://www.sciencedirect.com/science/article/pii/S0079661124000703
 [25]: https://www.sciencedirect.com/science/article/pii/S0169555X2400165X?via%3Dihub
