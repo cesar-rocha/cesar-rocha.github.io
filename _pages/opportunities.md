@@ -15,7 +15,7 @@ I am recruiting an ambitious and autonomous postdoc to conduct research as part 
 2. Experience with analysis and visualization of observations and model outputs.
 3. Excellent verbal and written communication in English.
 
-Additionaly, desired qualifications are:
+Additionally, desired qualifications are:
 
 1. Strong background in geophysical fluid dynamics.
 2. Excellent computational skills, including programming in Python or Julia.
