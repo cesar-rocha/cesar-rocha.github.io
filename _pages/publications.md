@@ -11,6 +11,10 @@ header:
 
 ### Submitted
 
+0. [S-MODE: the Sub-Mesoscale Ocean Dynamics Experiment][s9]
+     J. Thomas Farrar, E. D'Asaro; E. Rodríguez, A. Shcherbina, L. Lenain; M. Omand, A. Wineteer, P. Bhuyan, F. Bingham, A. B. Villas Boas, E. Czech, J. D'Addezio, M. Freilich, L. Grare, D. Hypolite, G. Jacobs, P. Klein, S. Lang, I. M. Leyba, A. Mahadevan, J. McWilliams, D. Menemenlis, L. Middleton, J. Molemaker, L. O'Neill, D. Perkovic-Martin, N. Pizzo, L. Rainville, **C. Rocha**, R. M. Samelson, I. Simoes-Sousa, N. Statom, A. Thompson, D. Thompson, H. Torres, I. Uchoa, J. Wenegrat, E. Westbrook, 
+     *Bulletin of the American Meteorological Society (submitted)*
+
 0. [Exploring the Characteristics of Ocean Surface Winds at High Resolution with Doppler Scatterometry][s8]
     A. Wineteer, E. Rodriguez, D. Perkovic-Martin, H. Torres, F. Polverani, R. Akbar, **C. Rocha**, *Geophysical Research Letters (submitted)*
 
