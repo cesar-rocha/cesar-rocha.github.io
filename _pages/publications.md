@@ -25,9 +25,6 @@ header:
     M. Zhou, J. Granger, **C.B. Rocha**, S. Siedlecki, B. Barone, A. While, *Global Biogeochemical Cycles (submitted)*
 
 
-0. [Ocean fine-scale fronts driven by a freshwater Amazon plume during wintertime][s6]
-  S. Coadou-Chaventon, S. Speich, D. Zhang, **C.B. Rocha**, S. Swart, *Journal of Geophysical Research Oceans (submitted)*
-
 0. [Temporal trends and causes of deoxygenation in the northwest Atlantic shelf ][s2]  
    H. Nguyen, S. Siedlecki, **C. B. Rocha**, Z. Chen, E. Curchitser, *Journal of Geophysical Research Oceans (submitted)* 
 
@@ -40,6 +37,10 @@ header:
 
 
 ### Peer-reviewed publications
+
+
+0. [Ocean fine-scale fronts driven by a freshwater Amazon plume during wintertime][26]
+  S. Coadou-Chaventon, S. Speich, D. Zhang, **C.B. Rocha**, S. Swart, *Journal of Geophysical Research Oceans (2024)*
 
 0. [Submarine Geomorphology and Processes: from coast to deep abyssal plains][25]  
    F. J. Lobo, J. L. dos Passos, R. Durán, A. López-Quirós, J. Guillén, F. Pereira, **C. B. Rocha**, M. M. de Mahiques, *Geomorphology (2024)*
@@ -159,7 +160,7 @@ S. T. Gille, R. Abernathey, T. Chereskin, B. Cornuelle, P. Heimbach, M. Mazloff,
 [23]: https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023JC020658
 [24]: https://www.sciencedirect.com/science/article/pii/S0079661124000703
 [25]: https://www.sciencedirect.com/science/article/pii/S0169555X2400165X?via%3Dihub
-
+[26]: http://dx.doi.org/10.1029/2024JC021326
 
 [g1]: https://escholarship.org/content/qt4m893890/qt4m893890.pdf
 
