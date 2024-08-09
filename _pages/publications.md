@@ -11,7 +11,7 @@ header:
 
 ### Submitted
 
-0. [S-MODE: the Sub-Mesoscale Ocean Dynamics Experiment][s9]
+<!-- 0. [S-MODE: the Sub-Mesoscale Ocean Dynamics Experiment][s9]
      J. Thomas Farrar, E. D'Asaro; E. Rodríguez, A. Shcherbina, L. Lenain; M. Omand, A. Wineteer, P. Bhuyan, F. Bingham, A. B. Villas Boas, E. Czech, J. D'Addezio, M. Freilich, L. Grare, D. Hypolite, G. Jacobs, P. Klein, S. Lang, I. M. Leyba, A. Mahadevan, J. McWilliams, D. Menemenlis, L. Middleton, J. Molemaker, L. O'Neill, D. Perkovic-Martin, N. Pizzo, L. Rainville, **C. Rocha**, R. M. Samelson, I. Simoes-Sousa, N. Statom, A. Thompson, D. Thompson, H. Torres, I. Uchoa, J. Wenegrat, E. Westbrook, 
      *Bulletin of the American Meteorological Society (submitted)*
 
@@ -22,8 +22,7 @@ header:
     D. Napolitano, J. Gula, S. Coadou-Chaventon, S. Speich, J. McWilliams, **C. Rocha**, D. Zhang, X. Carton, *Geophysical Research Letters (submitted)*
 
 0. [Nitrogen biogeochemistry of adjacent mesoscale eddies in the North Pacific Subtropical Gyre][s3]
-    M. Zhou, J. Granger, **C.B. Rocha**, S. Siedlecki, B. Barone, A. While, *Global Biogeochemical Cycles (submitted)*
-
+    M. Zhou, J. Granger, **C.B. Rocha**, S. Siedlecki, B. Barone, A. While, *Global Biogeochemical Cycles (submitted)* -->
 
 0. [Temporal trends and causes of deoxygenation in the northwest Atlantic shelf ][s2]  
    H. Nguyen, S. Siedlecki, **C. B. Rocha**, Z. Chen, E. Curchitser, *Journal of Geophysical Research Oceans (submitted)* 
