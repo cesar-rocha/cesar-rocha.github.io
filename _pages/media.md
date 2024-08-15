@@ -8,7 +8,7 @@ header:
 
 *Articles, commentary and interviews in the media (mostly in Brazil)*
 
-**Aug. 20024: Folha de São Paulo**, ['Prisão' de iceberg é fenômeno contraintuitivo e intriga cientistas](https://www1.folha.uol.com.br/ambiente/2024/08/prisao-de-iceberg-e-fenomeno-contraintuitivo-e-intriga-cientistas.shtml) 
+**Aug. 20024: Folha de São Paulo, Planeta em transe**, ['Prisão' de iceberg é fenômeno contraintuitivo e intriga cientistas](https://www1.folha.uol.com.br/ambiente/2024/08/prisao-de-iceberg-e-fenomeno-contraintuitivo-e-intriga-cientistas.shtml) 
 
 **May. 2024: Revista Pesquisa FAPESP (Ed. 339)**, [O Elo Fraco da Corrente: Derretimento do gelo na Groenlândia põe em risco funcionamento da Amoc, a principal circulação oceânica do Atlântico](https://revistapesquisa.fapesp.br/aquecimento-global-ameaca-principal-sistema-de-correntes-marinhas-do-atlantico/)
 
