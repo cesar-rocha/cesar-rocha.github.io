@@ -8,6 +8,8 @@ header:
 
 *Articles, commentary and interviews in the media (mostly in Brazil)*
 
+**Aug. 2024: Blog Ciência Fundamental, Folha de São Paulo**, [As verdadeiras ondas gigantes](https://www1.folha.uol.com.br/blogs/ciencia-fundamental/2024/08/as-verdadeiras-ondas-gigantes.shtml#:~:text=As%20maiores%20ondas%20internas%20observadas,desaparecer%20da%20vis%C3%A3o%20dos%20sat%C3%A9lites.) 
+
 **Aug. 2024: Folha de São Paulo, Planeta em transe**, ['Prisão' de iceberg é fenômeno contraintuitivo e intriga cientistas](https://www1.folha.uol.com.br/ambiente/2024/08/prisao-de-iceberg-e-fenomeno-contraintuitivo-e-intriga-cientistas.shtml) 
 
 **May. 2024: Revista Pesquisa FAPESP (Ed. 339)**, [O Elo Fraco da Corrente: Derretimento do gelo na Groenlândia põe em risco funcionamento da Amoc, a principal circulação oceânica do Atlântico](https://revistapesquisa.fapesp.br/aquecimento-global-ameaca-principal-sistema-de-correntes-marinhas-do-atlantico/)
