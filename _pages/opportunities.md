@@ -30,7 +30,7 @@ Estou recrutando pós-graduandos em nível de mestrado e doutorado para início 
 
 ### Vantagens
 
-- Disponibilidade de bolsas CAPES do Programa de Pós-graduação ou de outras bolsas através dos meus projetos de pesquisa ([Serrapilheira/Fapesp](https://serrapilheira.org/serrapilheira-apoiara-32-jovens-cientistas-com-r-22-milhoes-em-parceria-com-faps/)).
+- Possibilidade de bolsas CAPES do Programa de Pós-graduação ou de outras bolsas através dos meus projetos de pesquisa ([Serrapilheira/Fapesp](https://serrapilheira.org/serrapilheira-apoiara-32-jovens-cientistas-com-r-22-milhoes-em-parceria-com-faps/)).
 
 - Grupo de pesquisa diverso, acolhedor, colaborativo e internacionalmente inserido.
 
@@ -43,7 +43,9 @@ Estou recrutando pós-graduandos em nível de mestrado e doutorado para início 
 ### Exemplos de projetos disponíveis
 
 
-- O papel de fenômenos de submesoescala na circulação oceânica de grande escala e no clima global
+- Transporte turbulento e mistura em submesoescala.
+
+- Interação ar-mar em submesoescala.
 
 - Interação entre vórtices de mesoescala e ondas internas
 
