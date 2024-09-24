@@ -26,7 +26,7 @@ If you are interested in this position, please contact me by [email](mailto:cesa
 
 ## Programa de Pós-graduação em Oceanografia da USP (Conceito CAPES 7)
 
-Estou recrutando pós-graduandos em nível de mestrado e doutorado para início em fevereiro de 2025. Confira o [edital de inscrição para o processo seletivo de 2025](https://www.io.usp.br/index.php/pos-graduacao/programa-de-pos-graduacao/edital-2025-mestrado.html) e me escreve se estiver interesse em meu grupo de pesquisa.
+Estou recrutando pós-graduandos em nível de mestrado e doutorado para início em fevereiro de 2025. Confira o [edital de inscrição para o processo seletivo de 2025](https://www.io.usp.br/index.php/pos-graduacao/programa-de-pos-graduacao/edital-2025-mestrado.html).
 
 ### Vantagens
 
