@@ -6,7 +6,7 @@ header:
   image: /assets/images/vorticity.png
 ---
 
-
+<!-- 
 ## Postdoc 
 
 I am recruiting an ambitious and autonomous postdoc to conduct research as part of my FAPESP Young Investigator Award on submesoscale eddy transport. The minimal qualifications are:
@@ -22,11 +22,11 @@ Additionally, desired qualifications are:
 3. Experience with the set up and execution of idealized and realistic numerical simulations.
 
 
-If you are interested in this position, please contact me by [email](mailto:cesar.rocha@usp.br).
+If you are interested in this position, please contact me by [email](mailto:cesar.rocha@usp.br). -->
 
 ## Programa de Pós-graduação em Oceanografia da USP (Conceito CAPES 7)
 
-Estou recrutando pós-graduandos em nível de mestrado e doutorado para início em fevereiro de 2025. A inscrição no processo seletivo 2025 será em outubro/novembro.
+Estou recrutando pós-graduandos em nível de mestrado e doutorado para início em fevereiro de 2025. Confira o [edital de inscrição para o processo seletivo de 2025](https://www.io.usp.br/index.php/pos-graduacao/programa-de-pos-graduacao/edital-2025-mestrado.html) e me escreve se estiver interesse em meu grupo de pesquisa.
 
 ### Vantagens
 
@@ -34,7 +34,7 @@ Estou recrutando pós-graduandos em nível de mestrado e doutorado para início 
 
 - Grupo de pesquisa diverso, acolhedor, colaborativo e internacionalmente inserido.
 
-- Possibilidade de bolsa BEPE (FAPESP) ou  sanduíche (CAPES) com os colaboradores dos meus projetos nos EUA (Woods Hole Oceanographic Institution e Jet Propulsion Laboratory/NASA), França (Université de Bretagne Occidentale) e Alemanha (Helmholtz-Zentrum Hereon).
+- Possibilidade de bolsa BEPE (FAPESP) ou  sanduíche (CAPES) com os colaboradores dos meus projetos nos EUA (Woods Hole Oceanographic Institution e Jet Propulsion Laboratory/NASA) ou na França (Université de Bretagne Occidentale).
 
 - Formação sólida em dinâmica de fluidos, modelagem computacional e análise de dados.
 
@@ -42,13 +42,15 @@ Estou recrutando pós-graduandos em nível de mestrado e doutorado para início 
 
 ### Exemplos de projetos disponíveis
 
-- O papel da mistura turbulenta na variabilidade da Circulação Meridional de Revolvimento do Atlântico (AMOC) e, consequentemente, do clima global
-
-- Estrutura e variabilidade do ramo superior da AMOC no Atlântico Sul
 
 - O papel de fenômenos de submesoescala na circulação oceânica de grande escala e no clima global
 
 - Interação entre vórtices de mesoescala e ondas internas
+
+- O papel da mistura turbulenta na variabilidade da Circulação Meridional de Revolvimento do Atlântico (AMOC) e, consequentemente, do clima global
+
+- Estrutura e variabilidade do ramo superior da AMOC no Atlântico Sul
+
 
 ### Requisitos mínimos
 
@@ -58,7 +60,7 @@ Estou recrutando pós-graduandos em nível de mestrado e doutorado para início 
 
 - Conhecimento de Cálculo Diferencial e Integral, Estatísica e  Física Clássica.
 
-- Experiência em programação em Python ou linguagem similar.
+- Experiência em programação  (Python ou linguagem similar).
 
 #### Para doutorado
 
@@ -71,7 +73,7 @@ Estou recrutando pós-graduandos em nível de mestrado e doutorado para início 
 
 ### Datas-chave
 
-- Prazo para inscrições para Mestrado: **a ser decidido**
+- Prazo para inscrições para Mestrado: **18 de novembro de 2024**
 
 - Prova de Cálculo Diferencial e Integral: **a ser decidido**
 
@@ -79,7 +81,7 @@ Estou recrutando pós-graduandos em nível de mestrado e doutorado para início 
 
 ### Mais informações
 
-- [Leia o edital de seleção](https://www.io.usp.br/index.php/pos-graduacao/programa-de-pos-graduacao/edital-2024-mestrado.html)
+- [Leia o edital de seleção](https://www.io.usp.br/index.php/pos-graduacao/programa-de-pos-graduacao/edital-2025-mestrado.html)
 
 - [Pré-inscrição para exame de proficiência em inglês](https://www.io.usp.br/index.php/pos-graduacao/programa-de-pos-graduacao/proficiencia-em-lingua-estrangeira.html)
 
