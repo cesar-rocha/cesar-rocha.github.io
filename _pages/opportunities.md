@@ -43,15 +43,13 @@ Estou recrutando pós-graduandos em nível de mestrado e doutorado para início 
 ### Exemplos de projetos disponíveis
 
 
-- Transporte turbulento e mistura em submesoescala.
-
-- Interação ar-mar em submesoescala.
+- Turbulência, mistura e interação ar-mar em submesoescala.
 
 - Interação entre vórtices de mesoescala e ondas internas
 
 - O papel da mistura turbulenta na variabilidade da Circulação Meridional de Revolvimento do Atlântico (AMOC) e, consequentemente, do clima global
 
-- Estrutura e variabilidade do ramo superior da AMOC no Atlântico Sul
+- Estrutura e variabilidade do ramo superior da AMOC no Atlântico Sul e sua relação com a Bifurcação de Santos
 
 
 ### Requisitos mínimos
