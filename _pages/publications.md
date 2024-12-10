@@ -36,6 +36,9 @@ header:
 
 ### Peer-reviewed publications
 
+0. [Exploring the Characteristics of Ocean Surface Winds at High Resolution with Doppler Scatterometry][27]
+    A. Wineteer, E. Rodriguez, D. Perkovic-Martin, H. Torres, F. Polverani, R. Akbar, **C. Rocha**, *Geophysical Research Letters (2024)*
+
 
 0. [Oceanic fronts driven by the Amazon freshwater plume and their thermohaline compensation at the submesoscale][26]
     S. Coadou-Chaventon, S. Speich, D. Zhang, **C.B. Rocha**, S. Swart, *Journal of Geophysical Research Oceans (2024)*
@@ -159,6 +162,7 @@ S. T. Gille, R. Abernathey, T. Chereskin, B. Cornuelle, P. Heimbach, M. Mazloff,
 [24]: https://www.sciencedirect.com/science/article/pii/S0079661124000703
 [25]: https://www.sciencedirect.com/science/article/pii/S0169555X2400165X?via%3Dihub
 [26]: http://dx.doi.org/10.1029/2024JC021326
+[27]: https://doi.org/10.1029/2024GL113455
 
 [g1]: https://escholarship.org/content/qt4m893890/qt4m893890.pdf
 
