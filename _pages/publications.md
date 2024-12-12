@@ -121,6 +121,12 @@ header:
 
 ### Gray literature
 
+
+
+0. [Ocean Surface Current Measurements in the Sub-Mesoscale Ocean Dynamics Experiment](10.1109/IGARSS53475.2024.10642950) 
+J. T. Farrar et al., *Proceedings of the IEEE International Geoscience and Remote Sensing Symposium (2024)* 
+
+
 0. [S-MODE: The Sub-Mesoscale Ocean Dynamics Experiment](https://ieeexplore.ieee.org/document/9323112) 
 J. T. Farrar et al., *Proceedings of the IEEE International Geoscience and Remote Sensing Symposium (2020)* 
 
