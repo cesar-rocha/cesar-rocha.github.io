@@ -8,7 +8,7 @@ header:
 
 I'm an ocean dynamicist at [Universidade  de São Paulo](https://www5.usp.br) (USP), in Brazil. I'm broadly interested in small-scale physical processes in the ocean and their role in Earth's climate.
 
-# With financial support from [FAPESP](https://fapesp.br/en), [Instituto Serrapilheira](https://serrapilheira.org/en/) and [Pró-Reitoria de Pesquisa](https://sites.usp.br/prp/), I'm bulding the Multiscale Ocean & Climate Physics Research Group (f-lab) at USP.
+<!-- With financial support from [FAPESP](https://fapesp.br/en), [Instituto Serrapilheira](https://serrapilheira.org/en/) and [Pró-Reitoria de Pesquisa](https://sites.usp.br/prp/), I'm bulding the Multiscale Ocean & Climate Physics Research Group (f-lab) at USP. -->
 
 Originally from São Paulo and a graduate of USP, I earned in 2018 a Ph.D. in Physical Oceanography from [Scripps Institution of Oceanography](https://scripps.ucsd.edu), University of California San Diego. Prior to returning to USP as faculty, in 2023, I did a postdoc at [Woods Hole Oceanographic Institution](https://www.whoi.edu) (2018-2020) and spent 2.5 years as faculty at [University of Connecticut](https://www.uconn.edu) (2020-2023).
 
