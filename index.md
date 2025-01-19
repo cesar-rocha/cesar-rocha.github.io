@@ -6,7 +6,7 @@ header:
   image: /assets/images/vorticity.png
 ---
 
-I'm an ocean dynamicist at [Universidade  de São Paulo](https://www5.usp.br) (USP), in Brazil. I'm broadly interested in small-scale physical processes in the ocean and their role in Earth's climate.
+I'm an ocean dynamicist at [Universidade  de São Paulo](https://www5.usp.br) (USP), in Brazil, broadly interested in small-scale physical processes in the ocean and their role in Earth's climate.
 
 <!-- With financial support from [FAPESP](https://fapesp.br/en), [Instituto Serrapilheira](https://serrapilheira.org/en/) and [Pró-Reitoria de Pesquisa](https://sites.usp.br/prp/), I'm bulding the Multiscale Ocean & Climate Physics Research Group (f-lab) at USP. -->
 
