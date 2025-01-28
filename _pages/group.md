@@ -9,6 +9,10 @@ header:
 
 ## Present
 
+### Postdoc
+- [Mauricio Rebouças Rocha](), *Postdoc at USP* (2024-present).
+
+
 ### Graduate students
 - [Rafael Couto Martins](), *Master's student at USP* (2024-present).
 - [Pedro Walfir Neto](), *PhD student at USP* (2023-present), co-advised with [Ilson Silveira]().
