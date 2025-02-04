@@ -37,7 +37,7 @@ header:
 ### Peer-reviewed publications
 
 0. [Nitrogen biogeochemistry of adjacent mesoscale eddies in the North Pacific Subtropical Gyre][28]
-    M. Zhou, J. Granger, **C.B. Rocha**, S. Siedlecki, B. Barone, A. While, *Global Biogeochemical Cycles (accepted)* 
+    M. Zhou, J. Granger, **C.B. Rocha**, S. Siedlecki, B. Barone, A. While, *Global Biogeochemical Cycles (2025)* 
 
 
 0. [Exploring the Characteristics of Ocean Surface Winds at High Resolution with Doppler Scatterometry][27]
@@ -173,7 +173,7 @@ S. T. Gille, R. Abernathey, T. Chereskin, B. Cornuelle, P. Heimbach, M. Mazloff,
 [25]: https://www.sciencedirect.com/science/article/pii/S0169555X2400165X?via%3Dihub
 [26]: http://dx.doi.org/10.1029/2024JC021326
 [27]: https://doi.org/10.1029/2024GL113455
-[28]: https://essopenarchive.org/users/771310/articles/853119-nitrogen-biogeochemistry-of-adjacent-mesoscale-eddies-in-the-north-pacific-subtropical-gyre
+[28]: https://doi.org/10.1029/2024GB008206
 
 [g1]: https://escholarship.org/content/qt4m893890/qt4m893890.pdf
 
