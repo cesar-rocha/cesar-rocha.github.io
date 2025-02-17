@@ -10,17 +10,15 @@ header:
 
 <!-- ### Submitted -->
 
-<!-- 0. [S-MODE: the Sub-Mesoscale Ocean Dynamics Experiment][s9]
-     J. Thomas Farrar, E. D'Asaro; E. Rodríguez, A. Shcherbina, L. Lenain; M. Omand, A. Wineteer, P. Bhuyan, F. Bingham, A. B. Villas Boas, E. Czech, J. D'Addezio, M. Freilich, L. Grare, D. Hypolite, G. Jacobs, P. Klein, S. Lang, I. M. Leyba, A. Mahadevan, J. McWilliams, D. Menemenlis, L. Middleton, J. Molemaker, L. O'Neill, D. Perkovic-Martin, N. Pizzo, L. Rainville, **C. Rocha**, R. M. Samelson, I. Simoes-Sousa, N. Statom, A. Thompson, D. Thompson, H. Torres, I. Uchoa, J. Wenegrat, E. Westbrook, 
-     *Bulletin of the American Meteorological Society (submitted)*
+<!-- 0. [Second-order velocity structure functions at submesoscales][s8]
+    D. Hypolite, K. Srinivasan, J. C. McWilliams, R. Barkan, E. Rodriguez, A. Wineteer, M. J. Molemaker; H. Torres; C. Rocha, *
+Journal of Physical Oceanography (submitted)* -->
 
+<!-- 0. [Thermohaline gradients galore in the northwestern Tropical Atlantic][s7]
+    D. Napolitano, J. Gula, S. Coadou-Chaventon, S. Speich, J. McWilliams, **C. Rocha**, D. Zhang, X. Carton, *Geophysical Research Letters (submitted)* -->
 
-0. [Thermohaline gradients galore in the northwestern Tropical Atlantic][s7]
-    D. Napolitano, J. Gula, S. Coadou-Chaventon, S. Speich, J. McWilliams, **C. Rocha**, D. Zhang, X. Carton, *Geophysical Research Letters (submitted)*
-
-0. [Temporal trends and causes of deoxygenation in the northwest Atlantic shelf ][s2]  
-   H. Nguyen, S. Siedlecki, **C. B. Rocha**, Z. Chen, E. Curchitser, *Journal of Geophysical Research Oceans (submitted)* -->
-
+<!-- 0. [Temporal trends and causes of deoxygenation in the northwest Atlantic shelf ][s2]  
+   H. Nguyen, S. Siedlecki, **C. B. Rocha**, Z. Chen, E. Curchitser, *Journal of Geophysical Research Oceans (submitted)* --> -->
 
 <!-- 0. [Nusselt Number Scaling in Horizontal Convection: Boundary Conditions and Dimensionality][s1]  
    N. Constantinou, **C. B. Rocha**, S. G. Llewellyn Smith, & W. R. Young, *Journal of Fluid Mechanics (submitted)* 
@@ -31,7 +29,7 @@ header:
 
 0. [S-MODE: the Sub-Mesoscale Ocean Dynamics Experiment][29]
      J. Thomas Farrar, E. D'Asaro; E. Rodríguez, A. Shcherbina, L. Lenain; M. Omand, A. Wineteer, P. Bhuyan, F. Bingham, A. B. Villas Boas, E. Czech, J. D'Addezio, M. Freilich, L. Grare, D. Hypolite, G. Jacobs, P. Klein, S. Lang, I. M. Leyba, A. Mahadevan, J. McWilliams, D. Menemenlis, L. Middleton, J. Molemaker, L. O'Neill, D. Perkovic-Martin, N. Pizzo, L. Rainville, **C. Rocha**, R. M. Samelson, I. Simoes-Sousa, N. Statom, A. Thompson, D. Thompson, H. Torres, I. Uchoa, J. Wenegrat, E. Westbrook, 
-     *Bulletin of the American Meteorological Society (accepeted)*
+     *Bulletin of the American Meteorological Society (2025)*
 
 0. [Nitrogen biogeochemistry of adjacent mesoscale eddies in the North Pacific Subtropical Gyre][28]
     M. Zhou, J. Granger, **C.B. Rocha**, S. Siedlecki, B. Barone, A. While, *Global Biogeochemical Cycles (2025)* 
@@ -39,7 +37,6 @@ header:
 
 0. [Exploring the Characteristics of Ocean Surface Winds at High Resolution with Doppler Scatterometry][27]
     A. Wineteer, E. Rodriguez, D. Perkovic-Martin, H. Torres, F. Polverani, R. Akbar, **C. Rocha**, *Geophysical Research Letters (2024)*
-
 
 0. [Oceanic fronts driven by the Amazon freshwater plume and their thermohaline compensation at the submesoscale][26]
     S. Coadou-Chaventon, S. Speich, D. Zhang, **C.B. Rocha**, S. Swart, *Journal of Geophysical Research Oceans (2024)*
@@ -121,8 +118,6 @@ header:
 {: reversed="reversed"}
 
 ### Gray literature
-
-
 
 0. [Ocean Surface Current Measurements in the Sub-Mesoscale Ocean Dynamics Experiment](https://ieeexplore.ieee.org/document/10642950) 
 J. T. Farrar et al., *Proceedings of the IEEE International Geoscience and Remote Sensing Symposium (2024)* 
