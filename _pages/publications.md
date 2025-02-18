@@ -18,7 +18,7 @@ Journal of Physical Oceanography (submitted)* -->
     D. Napolitano, J. Gula, S. Coadou-Chaventon, S. Speich, J. McWilliams, **C. Rocha**, D. Zhang, X. Carton, *Geophysical Research Letters (submitted)* -->
 
 <!-- 0. [Temporal trends and causes of deoxygenation in the northwest Atlantic shelf ][s2]  
-   H. Nguyen, S. Siedlecki, **C. B. Rocha**, Z. Chen, E. Curchitser, *Journal of Geophysical Research Oceans (submitted)* --> -->
+   H. Nguyen, S. Siedlecki, **C. B. Rocha**, Z. Chen, E. Curchitser, *Journal of Geophysical Research Oceans (submitted)* -->
 
 <!-- 0. [Nusselt Number Scaling in Horizontal Convection: Boundary Conditions and Dimensionality][s1]  
    N. Constantinou, **C. B. Rocha**, S. G. Llewellyn Smith, & W. R. Young, *Journal of Fluid Mechanics (submitted)* 
