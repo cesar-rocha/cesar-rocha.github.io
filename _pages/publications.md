@@ -10,8 +10,12 @@ header:
 
 <!-- ### Submitted -->
 
+<!-- 0. [Integrating Global Ocean Profiles Data and Altimetry-Derived Eddies][s9]
+    I. Simões-Sousa, C. Rocha, A. Tandon, A. Schmidt, *
+Earth System Science Data (submitted)* -->
+
 <!-- 0. [Second-order velocity structure functions at submesoscales][s8]
-    D. Hypolite, K. Srinivasan, J. C. McWilliams, R. Barkan, E. Rodriguez, A. Wineteer, M. J. Molemaker; H. Torres; C. Rocha, *
+    D. Hypolite, K. Srinivasan, J. C. McWilliams, R. Barkan, E. Rodriguez, A. Wineteer, M. J. Molemaker, H. Torres, C. Rocha, *
 Journal of Physical Oceanography (submitted)* -->
 
 <!-- 0. [Thermohaline gradients galore in the northwestern Tropical Atlantic][s7]

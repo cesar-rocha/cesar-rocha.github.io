@@ -8,6 +8,8 @@ header:
 
 *Articles, commentary and interviews in the media (mostly in Brazil)*
 
+**Mar. 2025: Jornal CBN**, [Nasa revela aumento 'inesperado' do nível do mar em 2024](https://www.youtube.com/live/0Gm_hX-bq10?feature=shared&t=9101) 
+
 **Aug. 2024: Blog Ciência Fundamental, Folha de São Paulo**, [As verdadeiras ondas gigantes](https://www1.folha.uol.com.br/blogs/ciencia-fundamental/2024/08/as-verdadeiras-ondas-gigantes.shtml#:~:text=As%20maiores%20ondas%20internas%20observadas,desaparecer%20da%20vis%C3%A3o%20dos%20sat%C3%A9lites.) 
 
 **Aug. 2024: Folha de São Paulo, Planeta em transe**, ['Prisão' de iceberg é fenômeno contraintuitivo e intriga cientistas](https://www1.folha.uol.com.br/ambiente/2024/08/prisao-de-iceberg-e-fenomeno-contraintuitivo-e-intriga-cientistas.shtml) 
