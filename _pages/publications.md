@@ -10,6 +10,18 @@ header:
 
 <!-- ### Submitted -->
 
+<!-- 0. [Disentangling Wavy and Vortical Motions in Concurrent Snapshots of the Sea Surface Height and Velocity][s12], C. Wang, Z. Liu, H. Lin, C. Rocha, Q. Yang, D. Chen, J. Gong, *Ocean Modelling (submitted)* -->
+
+<!-- 0. [Grain Size Response to Hydrodynamics in the Continental Slope of Santos Basin, Southwestern Atlantic Margin][s11]
+    M. M. Mahiques, C. B. Rocha, P. A. L. Ferreira, S. C. Goya, L. S. Nunes, R. C. L. Figueira, *
+International Journal of Sediment Research (submitted)* -->
+
+<!-- 0. [Anthropogenic pollutants and the Santos Bifurcation:
+hydrodynamic features influencing the accumulation of
+organic contaminants in the Southwestern Atlantic margin][s10]
+    F. R. Santos, M. C. Bícego, R. A. Lourenço, S. Taniguchi, C. C. Martins, R. C. L. Figueira, I. Wainer, C. B. Rocha, M. M. Mahiques*
+Environmental Science & Technology (submitted)* -->
+
 <!-- 0. [Integrating Global Ocean Profiles Data and Altimetry-Derived Eddies][s9]
     I. Simões-Sousa, C. Rocha, A. Tandon, A. Schmidt, *
 Earth System Science Data (submitted)* -->

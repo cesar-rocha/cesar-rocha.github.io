@@ -14,6 +14,7 @@ header:
 
 
 ### Graduate students
+- [Emmanuel Magnangou](), *Master's student at USP* (2025-present), co-advised with [Edmo Campos]().
 - [Rafael Couto Martins](), *Master's student at USP* (2024-present).
 - [Pedro Walfir Neto](), *PhD student at USP* (2023-present), co-advised with [Ilson Silveira]().
 - [João Pedro Amorin](), *PhD student at USP* (2023-present), co-advised with [Ilson Silveira]().
@@ -25,6 +26,8 @@ header:
 - [Lara Medeiros Schlumbom]()
 - [Pamela Batista dos Anjos]()
 - [Mariana de Souza Barros]()
+- [Marina Romann]()
+- [Miguel Ribeiro Simon]()
 
 ## Alumni
 

@@ -16,7 +16,7 @@ Originally from São Paulo and a graduate of USP, I earned in 2018 a Ph.D. in Ph
 
 I'm always looking for motivated people to work with. Please, email me if you'd like to join my group or collaborate on a project.
 
-I'm actively recruiting **doctoral students** with strong background in physics, math and programming. No previous experience with Oceanography or GFD required. Email me if interested.
+I'm actively recruiting **doctoral students** with strong background in physics, math and programming. No previous experience with Oceanography or Geophysical Fluid Dynamics required. Email me if interested.
 
 <!-- ### Useful reading 
 
