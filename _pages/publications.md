@@ -10,15 +10,19 @@ header:
 
 <!-- ### Submitted -->
 
+<!-- 0. [Acoustic Doppler Current Profiler Measurements from Saildrones, with Applications to
+Submesoscale Studies][s12]
+   P. K. Bhuyan, **C. B. Rocha**, L. Romero, J. T. Farrar *
+Journal of Atmospheric and Oceanic Technology (submitted)* -->
 
 <!-- 0. [Grain Size Response to Hydrodynamics in the Continental Slope of Santos Basin, Southwestern Atlantic Margin][s11]
-    M. M. Mahiques, C. B. Rocha, P. A. L. Ferreira, S. C. Goya, L. S. Nunes, R. C. L. Figueira, *
+    M. M. Mahiques, **C. B. Rocha**, P. A. L. Ferreira, S. C. Goya, L. S. Nunes, R. C. L. Figueira, *
 International Journal of Sediment Research (submitted)* -->
 
 <!-- 0. [Anthropogenic pollutants and the Santos Bifurcation:
 hydrodynamic features influencing the accumulation of
 organic contaminants in the Southwestern Atlantic margin][s10]
-    F. R. Santos, M. C. Bícego, R. A. Lourenço, S. Taniguchi, C. C. Martins, R. C. L. Figueira, I. Wainer, C. B. Rocha, M. M. Mahiques*
+    F. R. Santos, M. C. Bícego, R. A. Lourenço, S. Taniguchi, C. C. Martins, R. C. L. Figueira, I. Wainer, **C. B. Rocha**, M. M. Mahiques*
 Environmental Science & Technology (submitted)* -->
 
 <!-- 0. [Integrating Global Ocean Profiles Data and Altimetry-Derived Eddies][s9]
@@ -30,7 +34,7 @@ Earth System Science Data (submitted)* -->
 Journal of Physical Oceanography (submitted)* -->
 
 <!-- 0. [Thermohaline gradients galore in the northwestern Tropical Atlantic][s7]
-    D. Napolitano, J. Gula, S. Coadou-Chaventon, S. Speich, J. McWilliams, **C. Rocha**, D. Zhang, X. Carton, *Geophysical Research Letters (submitted)* -->
+    D. Napolitano, J. Gula, S. Coadou-Chaventon, S. Speich, J. McWilliams, **C. Rocha**, D. Zhang, X. Carton, *Journal of Geophysical Research Oceans (submitted)* -->
 
 <!-- 0. [Temporal trends and causes of deoxygenation in the northwest Atlantic shelf ][s2]  
    H. Nguyen, S. Siedlecki, **C. B. Rocha**, Z. Chen, E. Curchitser, *Journal of Geophysical Research Oceans (submitted)* -->
@@ -42,7 +46,7 @@ Journal of Physical Oceanography (submitted)* -->
 
 ### Peer-reviewed publications
 
-0. [Disentangling Wavy and Vortical Motions in Concurrent Snapshots of the Sea Surface Height and Velocity][30], C. Wang, Z. Liu, H. Lin, C. Rocha, Q. Yang, D. Chen, J. Gong, *Ocean Modelling (in press)*
+0. [Disentangling Wavy and Vortical Motions in Concurrent Snapshots of the Sea Surface Height and Velocity][30], C. Wang, Z. Liu, H. Lin, **C. Rocha**, Q. Yang, D. Chen, J. Gong, *Ocean Modelling (in press)*
 
 0. [S-MODE: the Sub-Mesoscale Ocean Dynamics Experiment][29]
      J. Thomas Farrar, E. D'Asaro; E. Rodríguez, A. Shcherbina, L. Lenain; M. Omand, A. Wineteer, P. Bhuyan, F. Bingham, A. B. Villas Boas, E. Czech, J. D'Addezio, M. Freilich, L. Grare, D. Hypolite, G. Jacobs, P. Klein, S. Lang, I. M. Leyba, A. Mahadevan, J. McWilliams, D. Menemenlis, L. Middleton, J. Molemaker, L. O'Neill, D. Perkovic-Martin, N. Pizzo, L. Rainville, **C. Rocha**, R. M. Samelson, I. Simoes-Sousa, N. Statom, A. Thompson, D. Thompson, H. Torres, I. Uchoa, J. Wenegrat, E. Westbrook, 
