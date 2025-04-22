@@ -188,7 +188,7 @@ S. T. Gille, R. Abernathey, T. Chereskin, B. Cornuelle, P. Heimbach, M. Mazloff,
 [27]: https://doi.org/10.1029/2024GL113455
 [28]: https://doi.org/10.1029/2024GB008206
 [29]: https://doi.org/10.1175/BAMS-D-23-0178.1
-[30]: https://
+[30]: https://www.sciencedirect.com/science/article/abs/pii/S1463500325000599
 
 
 [g1]: https://escholarship.org/content/qt4m893890/qt4m893890.pdf
