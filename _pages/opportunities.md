@@ -26,13 +26,13 @@ If you are interested in this position, please contact me by [email](mailto:cesa
 
 ## Programa de Pós-graduação em Oceanografia da USP (Conceito CAPES 7)
 
-Estou recrutando pós-graduandos em nível de mestrado e doutorado para início em fevereiro de 2025. Confira o [edital de inscrição para o processo seletivo de 2025](https://www.io.usp.br/index.php/pos-graduacao/programa-de-pos-graduacao/edital-2025-mestrado.html).
+Estou recrutando alunos de doutorado. Confira o edital de inscrição para o processo seletivo para [doutorado](http://www3.io.usp.br/index.php/pos-graduacao/programa-de-pos-graduacao/edital-2025-doutorado.html) e para [doutorado direto](http://www3.io.usp.br/index.php/pos-graduacao/programa-de-pos-graduacao/edital-2025-doutorado-direto.html).
 
 ### Vantagens
 
 - Possibilidade de bolsas CAPES do Programa de Pós-graduação ou de outras bolsas através dos meus projetos de pesquisa ([Serrapilheira/Fapesp](https://serrapilheira.org/serrapilheira-apoiara-32-jovens-cientistas-com-r-22-milhoes-em-parceria-com-faps/)).
 
-- Grupo de pesquisa diverso, acolhedor, colaborativo e internacionalmente inserido.
+- Grupo de pesquisa diverso, colaborativo e internacionalmente inserido.
 
 - Possibilidade de bolsa BEPE (FAPESP) ou  sanduíche (CAPES) com os colaboradores dos meus projetos nos EUA (Woods Hole Oceanographic Institution e Jet Propulsion Laboratory/NASA) ou na França (Université de Bretagne Occidentale).
 
@@ -42,29 +42,24 @@ Estou recrutando pós-graduandos em nível de mestrado e doutorado para início 
 
 ### Exemplos de projetos disponíveis
 
-
-- Turbulência, mistura e interação ar-mar em submesoescala.
+- Dinâmica de frentes oceânicas e interação ar-mar em submesoescala.
 
 - Interação entre vórtices de mesoescala e ondas internas.
-
-- O papel da mistura turbulenta na variabilidade da Circulação Meridional de Revolvimento do Atlântico (AMOC) e, consequentemente, do clima global.
-
-- Estrutura e variabilidade do ramo superior da AMOC no Atlântico Sul e sua relação com a Bifurcação de Santos.
 
 
 ### Requisitos mínimos
 
-#### Para mestrado ou doutorado direto
+#### Para doutorado direto
 
-- Bacharelado em Astronomia, Engenharias, Física, Matemática, Meteorologia, Oceanografia ou áreas correlatas.
+- Bacharelado em Matemática Aplicada, Física, Meteorologia, Astronomia, Oceanografia ou áreas correlatas.
 
-- Conhecimento de Cálculo Diferencial e Integral, Estatísica e  Física Clássica.
+- Bom domínio de de Cálculo Diferencial e Integral, Estatísica e  Física Clássica.
 
 - Experiência em programação  (Python ou linguagem similar).
 
 #### Para doutorado
 
-- Bacharelado em Astronomia, Engenharias, Física, Matemática, Meteorologia, Oceanografia ou áreas correlatas.
+- Mestrado em Matemática Aplicada, Física, Meteorologia, Astronomia, Oceanografia ou áreas correlatas.
 
 - Conhecimento de Cálculo Diferencial e Integral, Estatísica e  Física Clássica
 
@@ -81,9 +76,9 @@ Estou recrutando pós-graduandos em nível de mestrado e doutorado para início 
 
 ### Mais informações
 
-- [Leia o edital de seleção](https://www.io.usp.br/index.php/pos-graduacao/programa-de-pos-graduacao/edital-2025-mestrado.html)
+<!-- - [Leia o edital de seleção](https://www.io.usp.br/index.php/pos-graduacao/programa-de-pos-graduacao/edital-2025-mestrado.html)
 
-- [Pré-inscrição para exame de proficiência em inglês](https://www.io.usp.br/index.php/pos-graduacao/programa-de-pos-graduacao/proficiencia-em-lingua-estrangeira.html)
+- [Pré-inscrição para exame de proficiência em inglês](https://www.io.usp.br/index.php/pos-graduacao/programa-de-pos-graduacao/proficiencia-em-lingua-estrangeira.html) -->
 
 - Entre em contato comigo via [email](mailto:cesar.rocha@usp.br)
 
