@@ -68,9 +68,9 @@ Estou recrutando alunos de doutorado. Confira o edital de inscrição para o pro
 
 ### Datas-chave
 
-- Prazo para inscrições para Mestrado: **18 de novembro de 2024**
+- Prazo para inscrições para o doutorado: **30 de abril de 2025**
 
-- Prova de Cálculo Diferencial e Integral: **a ser decidido**
+- Prazo para inscrições para o doutorado direto: **4 de junho de 2025**
 
 (A prova poderá ser realizada em sua cidade mediante a *requerimento antecipado*  à CPG-IO.)
 
