@@ -49,93 +49,93 @@ Journal of Physical Oceanography (submitted)* -->
 
 0. [Disentangling Wavy and Vortical Motions in Concurrent Snapshots of Sea Surface Height and Velocity][30], C. Wang, Z. Liu, H. Lin, **C. Rocha**, Q. Yang, D. Chen, J. Gong, *Ocean Modelling (2025)*
 
-0. [S-MODE: the Sub-Mesoscale Ocean Dynamics Experiment][29]
+0. [S-MODE: the Sub-Mesoscale Ocean Dynamics Experiment][29],
      J. Thomas Farrar, E. D'Asaro; E. Rodríguez, A. Shcherbina, L. Lenain; M. Omand, A. Wineteer, P. Bhuyan, F. Bingham, A. B. Villas Boas, E. Czech, J. D'Addezio, M. Freilich, L. Grare, D. Hypolite, G. Jacobs, P. Klein, S. Lang, I. M. Leyba, A. Mahadevan, J. McWilliams, D. Menemenlis, L. Middleton, J. Molemaker, L. O'Neill, D. Perkovic-Martin, N. Pizzo, L. Rainville, **C. Rocha**, R. M. Samelson, I. Simoes-Sousa, N. Statom, A. Thompson, D. Thompson, H. Torres, I. Uchoa, J. Wenegrat, E. Westbrook, 
      *Bulletin of the American Meteorological Society (2025)*
 
-0. [Nitrogen biogeochemistry of adjacent mesoscale eddies in the North Pacific Subtropical Gyre][28]
+0. [Nitrogen biogeochemistry of adjacent mesoscale eddies in the North Pacific Subtropical Gyre][28],
     <u>M. Zhou</u>, J. Granger, **C.B. Rocha**, S. Siedlecki, B. Barone, A. While, *Global Biogeochemical Cycles (2025)* 
 
 
-0. [Exploring the Characteristics of Ocean Surface Winds at High Resolution with Doppler Scatterometry][27]
+0. [Exploring the Characteristics of Ocean Surface Winds at High Resolution with Doppler Scatterometry][27],
     A. Wineteer, E. Rodriguez, D. Perkovic-Martin, H. Torres, F. Polverani, R. Akbar, **C. Rocha**, *Geophysical Research Letters (2024)*
 
-0. [Oceanic fronts driven by the Amazon freshwater plume and their thermohaline compensation at the submesoscale][26]
+0. [Oceanic fronts driven by the Amazon freshwater plume and their thermohaline compensation at the submesoscale][26],
     S. Coadou-Chaventon, S. Speich, D. Zhang, **C.B. Rocha**, S. Swart, *Journal of Geophysical Research Oceans (2024)*
 
-0. [Submarine Geomorphology and Processes: from coast to deep abyssal plains][25]  
+0. [Submarine Geomorphology and Processes: from coast to deep abyssal plains][25],  
    F. J. Lobo, J. L. dos Passos, R. Durán, A. López-Quirós, J. Guillén, F. Pereira, **C. B. Rocha**, M. M. de Mahiques, *Geomorphology (2024)*
 
-0. [The Rio Grande Rise Circulation: Dynamics of an Internal Tide Conversion Hotspot][24]  
+0. [The Rio Grande Rise Circulation: Dynamics of an Internal Tide Conversion Hotspot][24],  
    <u>P. W. M. Souza-Neto</u>, I. C. A. da Silveira, **C. B. Rocha**, C. Z. Lazaneo, P. H. R. Calil, *Progress in Oceanography (2024)* 
 
-0. [On the mechanisms driving latent heat flux variations in the north-west Tropical Atlantic][23]  
+0. [On the mechanisms driving latent heat flux variations in the north-west Tropical Atlantic][23],  
    P. Fernández, S. Speich, D. Lange-Vega, J. Karstensen, D. Zhang, **C. B. Rocha**, *Journal of Geophysical Research Oceans (2024)* 
 
-0. [A Deep Learning Approach to Estimate Ocean Salinity with Data Sampled with Expendable Bathythermographs][22]  
+0. [A Deep Learning Approach to Estimate Ocean Salinity with Data Sampled with Expendable Bathythermographs][22],  
    E. Campos, **C. B. Rocha**, M. Goes, S. Dong, H. Lopez, G. Goni, *Applied Ocean Research (2024)* 
 
-0. [Lateral shift from turbidite- to contourite-dominated continental slope, a case study from southeast Brazil slope][21]
+0. [Lateral shift from turbidite- to contourite-dominated continental slope, a case study from southeast Brazil slope][21],
     U. Schattner, **C.B. Rocha**, R.B. Ramos, N. Shtober-Zisu, F.J. Lobo, & M.M. de Mahiques, *Geomorphology (2024)*
 
-0. [The Brazil Current Quasi-Stationary Unstable Meanders at 22S-23S][20]  
+0. [The Brazil Current Quasi-Stationary Unstable Meanders at 22S-23S][20],  
    I. C. A. da Silveira, F. Pereira, G. R. Flierl, I. T. Simões-Sousa, A. Palóczy, M. Borges-Silva, & **C. B. Rocha**, *Progress in Oceanography (2023)* 
 
-0. [Compact Mesoscale Eddies in the South Brazil Bight][19]  
+0. [Compact Mesoscale Eddies in the South Brazil Bight][19],  
    **C. B. Rocha** & I. T. Simões-Sousa,  *Remote Sensing (2022)* 
 
-0. [Transition from Balanced to Unbalanced Motion in the Eastern Tropical Pacific][18]  
+0. [Transition from Balanced to Unbalanced Motion in the Eastern Tropical Pacific][18],  
   S. M. Soares, S. T. Gille, T. K. Chereskin, E. Firing, J. Hummon, & **C. B. Rocha**, *Journal of Physical Oceanography (2022)* 
 
-0. [ Exploiting Self-Organized Criticality in Strongly Stratified Turbulence][17]  
+0. [ Exploiting Self-Organized Criticality in Strongly Stratified Turbulence][17],  
    G. P. Chini, G. Michel, K. Julien, **C. B. Rocha**, & C. P. Caulfield, *Journal of Fluid Mechanics (2022)* 
 
-0. [Geomorphological Imprint of Opposing Ocean Bottom Currents, a Case Study from the Southeastern Brazilian Atlantic Margin][16]  
+0. [Geomorphological Imprint of Opposing Ocean Bottom Currents, a Case Study from the Southeastern Brazilian Atlantic Margin][16],  
     M. M. de Mahiques, F. J. Lobo, U. Schattner, A. López-Quirós, **C. B. Rocha**, R. J. S. Dias, I. Montoya-Montes, & A. C. A. Vieira, *Marine Geology (2022)* 
 
-0. [EUREC4A][15]  
+0. [EUREC4A][15],  
     B. B. Stevens et al., *Earth System Science Data (2021)* 
 
-0. [Can the Intermediate Western Boundary Current Recirculation Trigger the Vitória Eddy Formation?][14]  
+0. [Can the Intermediate Western Boundary Current Recirculation Trigger the Vitória Eddy Formation?][14],  
     D. C. Napolitano, **C. B. Rocha**, I. C. A. da Silveira, I. T. Simões-Sousa, & G. R. Flierl,   *Ocean Dynamics (2021)* 
 
-0. [Control of Oceanic Circulation on Sediment Distribution in the Southwestern Atlantic Margin (23 to 55S)][13]  
+0. [Control of Oceanic Circulation on Sediment Distribution in the Southwestern Atlantic Margin (23 to 55S)][13],  
     M. M. de Mahiques, R. Violante, P. Franco-Fragas, L. Burone, **C. B. Rocha**, L. Ortega, R. F. dos Santos,  B. S. M. Kim, R. C. F. Lopes, & M. C Bícego, *Ocean Science (2021)* 
 
-0. [The Nusselt Numbers of Horizontal Convection][12]  
+0. [The Nusselt Numbers of Horizontal Convection][12],  
     **C. B. Rocha**, N. Constantinou, S. G. Llewellyn-Smith, & W. R. Young, *Journal of Fluid Mechanics (2020)* 
 
-0. [Improved Bounds on Horizontal Convection][11]  
+0. [Improved Bounds on Horizontal Convection][11],  
     **C. B. Rocha**, T. Bossy, S. G. Llewellyn-Smith, & W. R. Young,  *Journal of Fluid Mechanics (2020)* 
 
-0. [Characterizing the Transition from Balanced to Unbalanced Motions in the Southern California Current][10]  
+0. [Characterizing the Transition from Balanced to Unbalanced Motions in the Southern California Current][10],  
     T. Chereskin, **C. B. Rocha**, S. T. Gille, D. Menemenlis, & M. Passaro,   *Journal of Geophysical Research Oceans (2019)* 
 
-0. [Blocking Statistics in a Varying Climate: Lessons from a "Traffic Jam" Model with Pseudostochastic Forcing][9]  
+0. [Blocking Statistics in a Varying Climate: Lessons from a "Traffic Jam" Model with Pseudostochastic Forcing][9],  
     A. Paradise, **C. B. Rocha**, P. Barbanda, & N. Nakamura,   *Journal of Atmospheric Sciences (2019)* 
 
-0. [On the Steadiness and Instability of the Intermediate Western Boundary Current between 24S and 18S][8]  
+0. [On the Steadiness and Instability of the Intermediate Western Boundary Current between 24S and 18S][8],  
     D. C. Napolitano, I. C. A. da Silveira, **C. B. Rocha**, G. R. Flierl, P. H. R. Calil, & R. P. Martins,   *Journal of Physical Oceanography (2019)* 
 
-0. [Stimulated Generation: Extraction of Energy from Balanced Flow by Near-Inertial Waves][7]  
+0. [Stimulated Generation: Extraction of Energy from Balanced Flow by Near-Inertial Waves][7],  
     **C. B. Rocha**, G. Wagner, & W. R. Young, *Journal of Fluid Mechanics (2018)* 
 
-0. [Small-Scale Open Ocean Currents Have Large Effects on Wind Wave Heights][6]  
+0. [Small-Scale Open Ocean Currents Have Large Effects on Wind Wave Heights][6],  
     F. Ardhuin, S. T. Gille, D. Menemenlis, **C. B. Rocha**, N. Rascle, B. Chapron, J. Gula, & J. Mokemaker, *Journal of Geophysical Research Oceans (2017)* 
 
-0. [Seasonality of Submesoscale Dynamics in the Kuroshio Extension][5]  
+0. [Seasonality of Submesoscale Dynamics in the Kuroshio Extension][5],  
     **C. B. Rocha**,S. T. Gille, T. K. Chereskin,  & D. Menemenlis, *Geophysical Research Letters (2016)* 
 
-0. [On Galerkin Approximations of the Surface Active Quasigeostrophic Equations][4]  
+0. [On Galerkin Approximations of the Surface Active Quasigeostrophic Equations][4],  
     **C. B. Rocha**, W. R. Young, & I. Grooms, *Journal of Physical Oceanography (2016)* 
 
-0. [Mesoscale to Submesoscale Wavenumber Spectra in Drake Passage][3]  
+0. [Mesoscale to Submesoscale Wavenumber Spectra in Drake Passage][3],  
     **C. B. Rocha**, T. K. Chereskin, S. T. Gille, & D. Menemenlis,  *Journal of Physical Oceanography (2016)* 
 
-0. [Vertical Structure, Energetics, and Dynamics of the Brazil Current System ][2]  
+0. [Vertical Structure, Energetics, and Dynamics of the Brazil Current System ][2],  
     **C. B. Rocha**, I. C. A. da Silveira, B. M. Castro, & J. A. M. Lima, *Journal of Geophysical Research Oceans (2014)* 
 
-0. [Traditional Quasi-Geostrophic Modes and Surface Quasi-Geostrophic Solutions in the Southwestern Atlantic][1]  
+0. [Traditional Quasi-Geostrophic Modes and Surface Quasi-Geostrophic Solutions in the Southwestern Atlantic][1],  
     **C. B. Rocha**, A. Tandon, I. C. A. da Silveira,  & J. A. M. Lima,  *Journal of Geophysical Research Oceans (2013)* 
 {: reversed="reversed"}
 
