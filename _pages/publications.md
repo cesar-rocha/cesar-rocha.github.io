@@ -44,8 +44,8 @@ Journal of Physical Oceanography (submitted)* -->
 0. [Anthropogenic pollutants and the Santos Bifurcation:
 hydrodynamic features influencing the accumulation of
 organic contaminants in the Southwestern Atlantic margin][31]
-    F. R. Santos, M. C. Bícego, L. D. Araújo, R. A. Lourenço, S. Taniguchi, C. C. Martins, R. C. L. Figueira, I. Wainer, **C. B. Rocha**, M. M. Mahiques*
-Marine Pollution Bulletin, Vol. 219, 118299*
+    F. R. Santos, M. C. Bícego, L. D. Araújo, R. A. Lourenço, S. Taniguchi, C. C. Martins, R. C. L. Figueira, I. Wainer, **C. B. Rocha**, M. M. Mahiques
+Marine Pollution Bulletin (2025)
 
 0. [Disentangling Wavy and Vortical Motions in Concurrent Snapshots of Sea Surface Height and Velocity][30], C. Wang, Z. Liu, H. Lin, **C. Rocha**, Q. Yang, D. Chen, J. Gong, *Ocean Modelling (2025)*
 
