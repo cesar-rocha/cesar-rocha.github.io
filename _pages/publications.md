@@ -12,13 +12,12 @@ header:
 
 <!-- 0. [Acoustic Doppler Current Profiler Measurements from Saildrones, with Applications to
 Submesoscale Studies][s12]
-   P. K. Bhuyan, **C. B. Rocha**, L. Romero, J. T. Farrar *
+   <u>P. K. Bhuyan</u>, **C. B. Rocha**, L. Romero, J. T. Farrar *
 Journal of Atmospheric and Oceanic Technology (submitted)* -->
 
 <!-- 0. [Grain Size Response to Hydrodynamics in the Continental Slope of Santos Basin, Southwestern Atlantic Margin][s11]
     M. M. Mahiques, **C. B. Rocha**, P. A. L. Ferreira, S. C. Goya, L. S. Nunes, R. C. L. Figueira, *
 International Journal of Sediment Research (submitted)* -->
-
 
 <!-- 0. [Integrating Global Ocean Profiles Data and Altimetry-Derived Eddies][s9]
     I. Simões-Sousa, C. Rocha, A. Tandon, A. Schmidt, *
@@ -32,7 +31,7 @@ Journal of Physical Oceanography (submitted)* -->
     D. Napolitano, J. Gula, S. Coadou-Chaventon, S. Speich, J. McWilliams, **C. Rocha**, D. Zhang, X. Carton, *Journal of Geophysical Research Oceans (submitted)* -->
 
 <!-- 0. [Temporal trends and causes of deoxygenation in the northwest Atlantic shelf ][s2]  
-   H. Nguyen, S. Siedlecki, **C. B. Rocha**, Z. Chen, E. Curchitser, *Journal of Geophysical Research Oceans (submitted)* -->
+   <u>H. Nguyen</u>, S. Siedlecki, **C. B. Rocha**, Z. Chen, E. Curchitser, *Journal of Geophysical Research Oceans (submitted)* -->
 
 <!-- 0. [Nusselt Number Scaling in Horizontal Convection: Boundary Conditions and Dimensionality][s1]  
    N. Constantinou, **C. B. Rocha**, S. G. Llewellyn Smith, & W. R. Young, *Journal of Fluid Mechanics (submitted)* 
@@ -52,7 +51,7 @@ Marine Pollution Bulletin (2025)
      *Bulletin of the American Meteorological Society (2025)*
 
 0. [Nitrogen biogeochemistry of adjacent mesoscale eddies in the North Pacific Subtropical Gyre][28]
-    M. Zhou, J. Granger, **C.B. Rocha**, S. Siedlecki, B. Barone, A. While, *Global Biogeochemical Cycles (2025)* 
+    <u>M. Zhou</u>, J. Granger, **C.B. Rocha**, S. Siedlecki, B. Barone, A. While, *Global Biogeochemical Cycles (2025)* 
 
 
 0. [Exploring the Characteristics of Ocean Surface Winds at High Resolution with Doppler Scatterometry][27]
@@ -65,7 +64,7 @@ Marine Pollution Bulletin (2025)
    F. J. Lobo, J. L. dos Passos, R. Durán, A. López-Quirós, J. Guillén, F. Pereira, **C. B. Rocha**, M. M. de Mahiques, *Geomorphology (2024)*
 
 0. [The Rio Grande Rise Circulation: Dynamics of an Internal Tide Conversion Hotspot][24]  
-   P. W. M. Souza-Neto, I. C. A. da Silveira, **C. B. Rocha**, C. Z. Lazaneo, P. H. R. Calil, *Progress in Oceanography (2024)* 
+   <u>P. W. M. Souza-Neto</u>, I. C. A. da Silveira, **C. B. Rocha**, C. Z. Lazaneo, P. H. R. Calil, *Progress in Oceanography (2024)* 
 
 0. [On the mechanisms driving latent heat flux variations in the north-west Tropical Atlantic][23]  
    P. Fernández, S. Speich, D. Lange-Vega, J. Karstensen, D. Zhang, **C. B. Rocha**, *Journal of Geophysical Research Oceans (2024)* 
