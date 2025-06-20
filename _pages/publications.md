@@ -43,8 +43,7 @@ Journal of Physical Oceanography (submitted)* -->
 ### Peer-reviewed publications
 
 0. [Anthropogenic pollutants in the Southwestern Atlantic Ocean slope: Is the Santos Bifurcation region a potential sink for organic contaminants?][31],
-    F. R. Santos, M. C. Bícego, L. D. Araújo, R. A. Lourenço, S. Taniguchi, C. C. Martins, R. C. L. Figueira, I. Wainer, **C. B. Rocha**, M. M. Mahiques
-Marine Pollution Bulletin (2025)
+    F. R. Santos, M. C. Bícego, L. D. Araújo, R. A. Lourenço, S. Taniguchi, C. C. Martins, R. C. L. Figueira, I. Wainer, **C. B. Rocha**, M. M. Mahiques, Marine Pollution Bulletin (2025)
 
 0. [Disentangling Wavy and Vortical Motions in Concurrent Snapshots of Sea Surface Height and Velocity][30], C. Wang, Z. Liu, H. Lin, **C. Rocha**, Q. Yang, D. Chen, J. Gong, *Ocean Modelling (2025)*
 
