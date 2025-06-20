@@ -8,6 +8,8 @@ header:
 
 [[Google Scholar](https://scholar.google.com/citations?user=7U3g940AAAAJ&hl=pt-BR&oi=ao), [ORCID](https://orcid.org/0000-0003-4063-5468), [Web of Science](https://www.webofscience.com/wos/author/record/AAH-9720-2019), [Scopus](https://www.scopus.com/authid/detail.uri?authorId=55804468100)]
 
+{Student names undercored}
+
 <!-- ### Submitted -->
 
 <!-- 0. [Acoustic Doppler Current Profiler Measurements from Saildrones, with Applications to
