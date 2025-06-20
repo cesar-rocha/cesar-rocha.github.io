@@ -57,10 +57,9 @@ Journal of Physical Oceanography (submitted)* -->
     <u>M. Zhou</u>, J. Granger, **C.B. Rocha**, S. Siedlecki, B. Barone, A. While, *Global Biogeochemical Cycles (2025)* 
 
 
-0. [Exploring the Characteristics of Ocean Surface Winds at High Resolution with Doppler Scatterometry][27]
-A. Wineteer, E. Rodriguez, D. Perkovic-Martin, H. Torres, F. Polverani, R. Akbar, **C. Rocha**, *Geophysical Research Letters (2024)*
+0. [Exploring the Characteristics of Ocean Surface Winds at High Resolution with Doppler Scatterometry][27], A. Wineteer, E. Rodriguez, D. Perkovic-Martin, H. Torres, F. Polverani, R. Akbar, **C. Rocha**, *Geophysical Research Letters (2024)*
 
-0. [Oceanic fronts driven by the Amazon freshwater plume and their thermohaline compensation at the submesoscale][26]
+0. [Oceanic fronts driven by the Amazon freshwater plume and their thermohaline compensation at the submesoscale][26],
     S. Coadou-Chaventon, S. Speich, D. Zhang, **C.B. Rocha**, S. Swart, *Journal of Geophysical Research Oceans (2024)*
 
 0. [Submarine Geomorphology and Processes: from coast to deep abyssal plains][25],  
