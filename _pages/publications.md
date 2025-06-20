@@ -41,7 +41,7 @@ Journal of Physical Oceanography (submitted)* -->
 
 ### Peer-reviewed publications
 
-0. [Anthropogenic pollutants in the Southwestern Atlantic Ocean slope: Is the Santos Bifurcation region a potential sink for organic contaminants?][31]
+0. [Anthropogenic pollutants in the Southwestern Atlantic Ocean slope: Is the Santos Bifurcation region a potential sink for organic contaminants?][31],
     F. R. Santos, M. C. Bícego, L. D. Araújo, R. A. Lourenço, S. Taniguchi, C. C. Martins, R. C. L. Figueira, I. Wainer, **C. B. Rocha**, M. M. Mahiques
 Marine Pollution Bulletin (2025)
 
