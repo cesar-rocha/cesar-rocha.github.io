@@ -19,11 +19,6 @@ Journal of Atmospheric and Oceanic Technology (submitted)* -->
     M. M. Mahiques, **C. B. Rocha**, P. A. L. Ferreira, S. C. Goya, L. S. Nunes, R. C. L. Figueira, *
 International Journal of Sediment Research (submitted)* -->
 
-<!-- 0. [Anthropogenic pollutants and the Santos Bifurcation:
-hydrodynamic features influencing the accumulation of
-organic contaminants in the Southwestern Atlantic margin][s10]
-    F. R. Santos, M. C. Bícego, R. A. Lourenço, S. Taniguchi, C. C. Martins, R. C. L. Figueira, I. Wainer, **C. B. Rocha**, M. M. Mahiques*
-Environmental Science & Technology (submitted)* -->
 
 <!-- 0. [Integrating Global Ocean Profiles Data and Altimetry-Derived Eddies][s9]
     I. Simões-Sousa, C. Rocha, A. Tandon, A. Schmidt, *
@@ -45,6 +40,12 @@ Journal of Physical Oceanography (submitted)* -->
 
 
 ### Peer-reviewed publications
+
+0. [Anthropogenic pollutants and the Santos Bifurcation:
+hydrodynamic features influencing the accumulation of
+organic contaminants in the Southwestern Atlantic margin][31]
+    F. R. Santos, M. C. Bícego, L. D. Araújo, R. A. Lourenço, S. Taniguchi, C. C. Martins, R. C. L. Figueira, I. Wainer, **C. B. Rocha**, M. M. Mahiques*
+Marine Pollution Bulletin, Vol. 219, 118299*
 
 0. [Disentangling Wavy and Vortical Motions in Concurrent Snapshots of Sea Surface Height and Velocity][30], C. Wang, Z. Liu, H. Lin, **C. Rocha**, Q. Yang, D. Chen, J. Gong, *Ocean Modelling (2025)*
 
@@ -189,7 +190,7 @@ S. T. Gille, R. Abernathey, T. Chereskin, B. Cornuelle, P. Heimbach, M. Mazloff,
 [28]: https://doi.org/10.1029/2024GB008206
 [29]: https://doi.org/10.1175/BAMS-D-23-0178.1
 [30]: https://www.sciencedirect.com/science/article/abs/pii/S1463500325000599
-
+[31]: https://www.sciencedirect.com/science/article/pii/S0025326X2500774X?dgcid=coauthor
 
 [g1]: https://escholarship.org/content/qt4m893890/qt4m893890.pdf
 
