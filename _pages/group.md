@@ -25,10 +25,11 @@ header:
 
 - [Murilo Vaz Caetité]()
 - [Lara Medeiros Schlumbom]()
-- [Pamela Batista dos Anjos]()
 - [Mariana de Souza Barros]()
 - [Marina Romann]()
 - [Miguel Ribeiro Simon]()
+- [Aghata Achilles de Oliveira]()
+
 
 ## Alumni
 
@@ -37,6 +38,7 @@ header:
 
 ### Undergrads
 
+- Pamela Batista dos Anjos, *undergraduate researcher at USP* (2024-2025).
 - Natalia Rossi Jorge, *undergraduate researcher at USP* (2024). 
 - Camile Chiodini, *undergraduate researcher at USP* (2024). 
 - Vicki You, *undergraduate researcher at UConn* (2022). Now graduate student at UConn.
