@@ -14,6 +14,7 @@ header:
 
 
 ### Graduate students
+- [Manuel Gonzaga A. Zala](), *Master's student at USP* (2025-present).
 - [Emmanuel Magnangou](), *Master's student at USP* (2025-present), co-advised with [Edmo Campos]().
 - [Rafael Couto Martins](), *Master's student at USP* (2024-present).
 - [Pedro Walfir Neto](), *PhD student at USP* (2023-present), co-advised with [Ilson Silveira]().
