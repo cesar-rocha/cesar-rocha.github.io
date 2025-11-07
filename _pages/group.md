@@ -29,6 +29,7 @@ header:
 - [Marina Romann]()
 - [Miguel Ribeiro Simon]()
 - [Aghata Achilles de Oliveira]()
+- [Arthur Horta Sardonato]()
 
 
 ## Alumni
