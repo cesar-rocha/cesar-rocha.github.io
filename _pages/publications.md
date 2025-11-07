@@ -43,6 +43,13 @@ Journal of Physical Oceanography (submitted)* -->
 
 [Student names are underscored]
 
+0. [Integrating Global Ocean Profiles Data and Altimetry-Derived Eddies][33]
+    I. Simões-Sousa, C. Rocha, A. Tandon, A. Schmidt, *
+Earth System Science Data, in press.
+
+0. [Grain Size Response to Hydrodynamics in the Continental Slope of Santos Basin, Southwestern Atlantic Margin][32]
+    M. M. Mahiques, **C. B. Rocha**, P. A. L. Ferreira, S. C. Goya, L. S. Nunes, R. C. L. Figueira, *
+Journal of Sedimentary Environments, in press.
 
 0. [Anthropogenic pollutants in the Southwestern Atlantic Ocean slope: Is the Santos Bifurcation region a potential sink for organic contaminants?][31],
     F. R. Santos, M. C. Bícego, L. D. Araújo, R. A. Lourenço, S. Taniguchi, C. C. Martins, R. C. L. Figueira, I. Wainer, **C. B. Rocha**, M. M. Mahiques, *Marine Pollution Bulletin* (2025)
@@ -189,6 +196,8 @@ S. T. Gille, R. Abernathey, T. Chereskin, B. Cornuelle, P. Heimbach, M. Mazloff,
 [29]: https://doi.org/10.1175/BAMS-D-23-0178.1
 [30]: https://www.sciencedirect.com/science/article/abs/pii/S1463500325000599
 [31]: https://www.sciencedirect.com/science/article/pii/S0025326X2500774X?dgcid=coauthor
+[32]: https://.
+[33]: https://.
 
 [g1]: https://escholarship.org/content/qt4m893890/qt4m893890.pdf
 
