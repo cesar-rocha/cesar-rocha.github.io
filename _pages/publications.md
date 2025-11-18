@@ -16,10 +16,6 @@ Submesoscale Studies][s12]
    <u>P. K. Bhuyan</u>, **C. B. Rocha**, L. Romero, J. T. Farrar *
 Journal of Atmospheric and Oceanic Technology (submitted)* -->
 
-<!-- 0. [Second-order velocity structure functions at submesoscales][s8]
-    D. Hypolite, K. Srinivasan, J. C. McWilliams, R. Barkan, E. Rodriguez, A. Wineteer, M. J. Molemaker, H. Torres, C. Rocha, *
-Journal of Physical Oceanography (submitted)* -->
-
 <!-- 0. [Thermohaline gradients galore in the northwestern Tropical Atlantic][s7]
     D. Napolitano, J. Gula, S. Coadou-Chaventon, S. Speich, J. McWilliams, **C. Rocha**, D. Zhang, X. Carton, *Journal of Geophysical Research Oceans (submitted)* -->
 
@@ -34,6 +30,9 @@ Journal of Physical Oceanography (submitted)* -->
 ### Peer-reviewed publications
 
 [Student names are underscored]
+
+0. [Second-order velocity structure functions at submesoscales][34]
+    D. Hypolite, K. Srinivasan, J. C. McWilliams, R. Barkan, E. Rodriguez, A. Wineteer, M. J. Molemaker, H. Torres, **C. Rocha**, *Journal of Physical Oceanography (submitted)*
 
 0. [Integrating Global Ocean Profiles Data and Altimetry-Derived Eddies][33]
     I. Simões-Sousa, **C. Rocha**, A. Tandon, A. Schmidt, *Earth System Science Data*, in press.
@@ -188,6 +187,7 @@ S. T. Gille, R. Abernathey, T. Chereskin, B. Cornuelle, P. Heimbach, M. Mazloff,
 [31]: https://www.sciencedirect.com/science/article/pii/S0025326X2500774X?dgcid=coauthor
 [32]: https://.
 [33]: https://.
+[34]: https://.
 
 [g1]: https://escholarship.org/content/qt4m893890/qt4m893890.pdf
 
