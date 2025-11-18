@@ -32,7 +32,7 @@ Journal of Atmospheric and Oceanic Technology (submitted)* -->
 [Student names are underscored]
 
 0. [Second-order velocity structure functions at submesoscales][34]
-    D. Hypolite, K. Srinivasan, J. C. McWilliams, R. Barkan, E. Rodriguez, A. Wineteer, M. J. Molemaker, H. Torres, **C. Rocha**, *Journal of Physical Oceanography, in press*
+    D. Hypolite, K. Srinivasan, J. C. McWilliams, R. Barkan, E. Rodriguez, A. Wineteer, M. J. Molemaker, H. Torres, **C. Rocha**, *Journal of Physical Oceanography, in press.*
 
 0. [Integrating Global Ocean Profiles Data and Altimetry-Derived Eddies][33]
     I. Simões-Sousa, **C. Rocha**, A. Tandon, A. Schmidt, *Earth System Science Data*, in press.
