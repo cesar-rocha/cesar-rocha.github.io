@@ -187,7 +187,7 @@ S. T. Gille, R. Abernathey, T. Chereskin, B. Cornuelle, P. Heimbach, M. Mazloff,
 [31]: https://www.sciencedirect.com/science/article/pii/S0025326X2500774X?dgcid=coauthor
 [32]: https://.
 [33]: https://.
-[34]: https://.
+[34]: https://journals.ametsoc.org/view/journals/phoc/aop/JPO-D-25-0038.1/JPO-D-25-0038.1.xml
 
 [g1]: https://escholarship.org/content/qt4m893890/qt4m893890.pdf
 
