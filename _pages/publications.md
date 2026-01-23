@@ -11,6 +11,8 @@ header:
 
 <!-- ### Submitted -->
 
+<!-- [Calibration of a wind-drift model using remote-sensing and in-situ observations][s8] I. Leyba, R. Samelson, J. T. Farrar, **C. Rocha**, E. Rodriguez, A. Shcherbina, *Journal of Physical Oceanography* (submitted) -->
+
 <!-- 0. [Thermohaline gradients galore in the northwestern Tropical Atlantic][s7]
     D. Napolitano, J. Gula, S. Coadou-Chaventon, S. Speich, J. McWilliams, **C. Rocha**, D. Zhang, X. Carton, *Journal of Geophysical Research Oceans (submitted)* -->
 

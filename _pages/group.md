@@ -17,16 +17,16 @@ header:
 - [Manuel Gonzaga A. Zala](), *Master's student at USP* (2025-present).
 - [Emmanuel Magnangou](), *Master's student at USP* (2025-present), co-advised with [Edmo Campos]().
 - [Rafael Couto Martins](), *Master's student at USP* (2024-present).
+- [Marina Romann](), *PhD student at USP* (2026-present).
+- [Paban Bhuyan](https://in.linkedin.com/in/paban-bhuyan-71610768), *PhD student at UConn* (2021-present), co-advised with [Leonel Romero](https://leonelromero.com).
 - [Pedro Walfir Neto](), *PhD student at USP* (2023-present), co-advised with [Ilson Silveira]().
 - [João Pedro Amorin](), *PhD student at USP* (2023-present), co-advised with [Ilson Silveira]().
-- [Paban Bhuyan](https://in.linkedin.com/in/paban-bhuyan-71610768), *PhD student at UConn* (2021-present), co-advised with [Leonel Romero](https://leonelromero.com).
 
 ### Undergrads
 
 - [Murilo Vaz Caetité]()
 - [Lara Medeiros Schlumbom]()
 - [Mariana de Souza Barros]()
-- [Marina Romann]()
 - [Miguel Ribeiro Simon]()
 - [Aghata Achilles de Oliveira]()
 - [Arthur Horta Sardonato]()
