@@ -31,9 +31,8 @@ Journal of Atmospheric and Oceanic Technology (submitted)* -->
 
 [Student names are underscored]
 
-0. [Acoustic Doppler Current Profiler Measurements from Saildrones, with Applications to Submesoscale Studies][s12]
-   <u>P. K. Bhuyan</u>, **C. B. Rocha**, L. Romero, J. T. Farrar *
-Journal of Atmospheric and Oceanic Technology*, in press.
+0. [Acoustic Doppler Current Profiler Measurements from Saildrones, with Applications to Submesoscale Studies][35]
+   <u>P. K. Bhuyan</u>, **C. B. Rocha**, L. Romero, J. T. Farrar *Journal of Atmospheric and Oceanic Technology*, in press.
 
 0. [Integrating Global Ocean Profiles Data and Altimetry-Derived Eddies][33]
     I. Simões-Sousa, **C. Rocha**, A. Tandon, A. Schmidt, *Earth System Science Data*, in press.
@@ -193,6 +192,7 @@ S. T. Gille, R. Abernathey, T. Chereskin, B. Cornuelle, P. Heimbach, M. Mazloff,
 [32]: https://link.springer.com/article/10.1007/s43217-025-00271-4
 [33]: https://.
 [34]: https://journals.ametsoc.org/view/journals/phoc/aop/JPO-D-25-0038.1/JPO-D-25-0038.1.xml
+[35]: https://.
 
 [g1]: https://escholarship.org/content/qt4m893890/qt4m893890.pdf
 
