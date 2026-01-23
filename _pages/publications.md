@@ -31,6 +31,10 @@ Journal of Atmospheric and Oceanic Technology (submitted)* -->
 
 [Student names are underscored]
 
+0. [Acoustic Doppler Current Profiler Measurements from Saildrones, with Applications to Submesoscale Studies][s12]
+   <u>P. K. Bhuyan</u>, **C. B. Rocha**, L. Romero, J. T. Farrar *
+Journal of Atmospheric and Oceanic Technology*, in press.
+
 0. [Integrating Global Ocean Profiles Data and Altimetry-Derived Eddies][33]
     I. Simões-Sousa, **C. Rocha**, A. Tandon, A. Schmidt, *Earth System Science Data*, in press.
 
