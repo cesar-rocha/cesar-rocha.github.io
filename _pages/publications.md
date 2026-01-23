@@ -26,7 +26,7 @@ header:
 
 ### Peer-reviewed publications
 
-[Student names are underscored]
+[Students and postdocs are underscored.]
 
 0. [Acoustic Doppler Current Profiler Measurements from Saildrones, with Applications to Submesoscale Studies][35]
    <u>P. K. Bhuyan</u>, **C. B. Rocha**, L. Romero, J. T. Farrar, *Journal of Atmospheric and Oceanic Technology*, in press.
