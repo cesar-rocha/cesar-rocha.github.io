@@ -189,7 +189,7 @@ S. T. Gille, R. Abernathey, T. Chereskin, B. Cornuelle, P. Heimbach, M. Mazloff,
 [32]: https://link.springer.com/article/10.1007/s43217-025-00271-4
 [33]: https://.
 [34]: https://journals.ametsoc.org/view/journals/phoc/aop/JPO-D-25-0038.1/JPO-D-25-0038.1.xml
-[35]: https://.
+[35]: https://journals.ametsoc.org/view/journals/atot/aop/JTECH-D-24-0114.1/JTECH-D-24-0114.1.xml
 
 [g1]: https://escholarship.org/content/qt4m893890/qt4m893890.pdf
 
