@@ -28,6 +28,9 @@ header:
 
 [Students and postdocs are underscored.]
 
+0. [Hydrodynamic control over shallow ferromanganese crust deposits in the West Rio Grande Rise][36] 
+   <u>Souza-Neto, P. W. M. </u>, M. B. Hassan, J. P. M. Amorim, M. Borges-Silva, **C. B. Rocha**, I. C. A. da Silveira, *Regional Studies in Marine Science*, in press.
+
 0. [Acoustic Doppler Current Profiler Measurements from Saildrones, with Applications to Submesoscale Studies][35]
    <u>P. K. Bhuyan</u>, **C. B. Rocha**, L. Romero, J. T. Farrar, *Journal of Atmospheric and Oceanic Technology*, in press.
 
@@ -190,6 +193,7 @@ S. T. Gille, R. Abernathey, T. Chereskin, B. Cornuelle, P. Heimbach, M. Mazloff,
 [33]: https://essd.copernicus.org/articles/18/1089/2026/
 [34]: https://journals.ametsoc.org/view/journals/phoc/aop/JPO-D-25-0038.1/JPO-D-25-0038.1.xml
 [35]: https://journals.ametsoc.org/view/journals/atot/aop/JTECH-D-24-0114.1/JTECH-D-24-0114.1.xml
+[36]: https://www.sciencedirect.com/science/article/pii/S2352485526000885?via%3Dihub
 
 [g1]: https://escholarship.org/content/qt4m893890/qt4m893890.pdf
 
