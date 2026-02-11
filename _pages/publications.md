@@ -32,7 +32,7 @@ header:
    <u>P. K. Bhuyan</u>, **C. B. Rocha**, L. Romero, J. T. Farrar, *Journal of Atmospheric and Oceanic Technology*, in press.
 
 0. [Integrating Global Ocean Profiles Data and Altimetry-Derived Eddies][33]
-    I. Simões-Sousa, **C. Rocha**, A. Tandon, A. Schmidt, *Earth System Science Data*, in press.
+    I. Simões-Sousa, **C. Rocha**, A. Tandon, A. Schmidt, *Earth System Science Data* (2026).
 
 0. [Second-order velocity structure functions at submesoscales][34]
     D. Hypolite, K. Srinivasan, J. C. McWilliams, R. Barkan, E. Rodriguez, A. Wineteer, M. J. Molemaker, H. Torres, **C. Rocha**, *Journal of Physical Oceanography* (2026).
@@ -187,7 +187,7 @@ S. T. Gille, R. Abernathey, T. Chereskin, B. Cornuelle, P. Heimbach, M. Mazloff,
 [30]: https://www.sciencedirect.com/science/article/abs/pii/S1463500325000599
 [31]: https://www.sciencedirect.com/science/article/pii/S0025326X2500774X?dgcid=coauthor
 [32]: https://link.springer.com/article/10.1007/s43217-025-00271-4
-[33]: https://.
+[33]: https://essd.copernicus.org/articles/18/1089/2026/
 [34]: https://journals.ametsoc.org/view/journals/phoc/aop/JPO-D-25-0038.1/JPO-D-25-0038.1.xml
 [35]: https://journals.ametsoc.org/view/journals/atot/aop/JTECH-D-24-0114.1/JTECH-D-24-0114.1.xml
 
