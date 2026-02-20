@@ -32,7 +32,7 @@ header:
    <u>P. W. M. Souza-Neto</u>, M. B. Hassan, J. P. M. Amorim, M. Borges-Silva, **C. B. Rocha**, I. C. A. da Silveira, *Regional Studies in Marine Science*, in press.
 
 0. [Acoustic Doppler Current Profiler Measurements from Saildrones, with Applications to Submesoscale Studies][35]
-   <u>P. K. Bhuyan</u>, **C. B. Rocha**, L. Romero, J. T. Farrar, *Journal of Atmospheric and Oceanic Technology*, in press.
+   <u>P. K. Bhuyan</u>, **C. B. Rocha**, L. Romero, J. T. Farrar, *Journal of Atmospheric and Oceanic Technology* (2026).
 
 0. [Integrating Global Ocean Profiles Data and Altimetry-Derived Eddies][33]
     I. Simões-Sousa, **C. Rocha**, A. Tandon, A. Schmidt, *Earth System Science Data* (2026).
