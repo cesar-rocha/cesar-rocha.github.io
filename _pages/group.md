@@ -14,7 +14,8 @@ header:
 
 
 ### Graduate students
-- [Antonio Favaloro](), *Visiting Master's student at USP* (2025-present), from École Normale Supérieure de Paris.
+- [Aghata Achilles de Oliveira](),  *Master's student at USP* (2026-present).
+- [Antonio Favaloro](), *Visiting Master's student at USP* (2026-present), from École Normale Supérieure de Paris.
 - [Manuel Gonzaga A. Zala](), *Master's student at USP* (2025-present).
 - [Emmanuel Magnangou](), *Master's student at USP* (2025-present), co-advised with [Edmo Campos]().
 - [Rafael Couto Martins](), *Master's student at USP* (2024-present).
@@ -30,7 +31,6 @@ header:
 - [Lara Medeiros Schlumbom]()
 - [Mariana de Souza Barros]()
 - [Miguel Ribeiro Simon]()
-- [Aghata Achilles de Oliveira]()
 - [Arthur Horta Sardonato]()
 
 
