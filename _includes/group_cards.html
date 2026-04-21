@@ -1,0 +1,53 @@
+{% assign members = include.members %}
+
+{% if members and members.size > 0 %}
+  <h3>{{ include.title }}</h3>
+
+  <div class="group-grid">
+    {% for person in members %}
+      <div class="group-card">
+        
+        <div class="group-card-photo-wrap">
+          {% if person.photo %}
+            <img
+              class="group-card-photo"
+              src="{{ person.photo | relative_url }}"
+              alt="Portrait of {{ person.name }}">
+          {% else %}
+            <div class="group-card-photo group-card-photo--placeholder"></div>
+          {% endif %}
+        </div>
+
+        <div class="group-card-body">
+          <h4 class="group-card-name">
+            {% if person.website %}
+              <a href="{{ person.website }}">{{ person.name }}</a>
+            {% else %}
+              {{ person.name }}
+            {% endif %}
+          </h4>
+
+          {% if person.role %}
+            <p class="group-card-role">{{ person.role }}</p>
+          {% endif %}
+
+          {% if person.status %}
+            <p class="group-card-status">{{ person.status }}</p>
+          {% endif %}
+
+          {% if person.bio %}
+            <p class="group-card-bio">{{ person.bio }}</p>
+          {% endif %}
+
+          {% if person.interests %}
+            <p class="group-card-interests">
+              <strong>Interests:</strong>
+              {{ person.interests | join: ", " }}.
+            </p>
+          {% endif %}
+        </div>
+
+      </div>
+    {% endfor %}
+  </div>
+{% endif %}

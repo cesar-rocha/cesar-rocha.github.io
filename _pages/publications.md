@@ -11,10 +11,14 @@ header:
 
 <!-- ### Submitted -->
 
-<!-- [Calibration of a wind-drift model using remote-sensing and in-situ observations][s8] I. Leyba, R. Samelson, J. T. Farrar, **C. Rocha**, E. Rodriguez, A. Shcherbina, *Journal of Physical Oceanography* (submitted) -->
+<!-- [Calibration of a wind-drift model using remote-sensing and in-situ observations][s8] I. Leyba, R. Samelson, J. T. Farrar, **C. Rocha**, E. Rodriguez, A. Shcherbina, *Journal of Atmospheric and Oceanic Technology* (submitted) -->
 
-<!-- 0. [Thermohaline gradients galore in the northwestern Tropical Atlantic][s7]
-    D. Napolitano, J. Gula, S. Coadou-Chaventon, S. Speich, J. McWilliams, **C. Rocha**, D. Zhang, X. Carton, *Journal of Geophysical Research Oceans (submitted)* -->
+<!-- [South Atlantic abyssal temperature variability and trends at 34.5S][10] M. R. Rocha, E. J. D. Campos, A. Piola, M. van Caspel, P. S. Polito, **C. Rocha**, *Progress in Oceanography* (submitted) -->
+
+<!-- [Changes in Ocean Heat, Carbon Content, Ventilation and Biology: A review of the Second Decade of GO-SHIP Global Repeat Hydrography][11]  E. McDonagh, L. Barbero, M. Kramp, S. G. Purkey, A. Hernández-Guerra, B. Carter, L. Cimoli, X. Davila, M. Ishii, B. M. Sloyan, K. Schroeder, Y. Firing, K. Stocks, M. Álvarez, C. Arumi, L. Bodrossy, V. Caínzos, V. Cardin, L. I. Carracedo, L. N. Chomiak, G. Civitarese, Z. K. Erickson, D. Fernandez, A. Foppert, G. Gebbie, M. Hoppema, E. Jeansson, G. C. Johnson, L. Juranek, S. K. Lauvset, A. C. Martiny, H. Mercier, T. Nunoura, E. Raes, **C. Rocha**, R. Steinfeldt, M. Shigemitsu, L. D. Talley, T. Tanhua, L. Thompson, B. Williams, Q. Wu, T. Yokokawa, *Annual Reviews of Marine Science* (aceppted) -->
+
+<!-- 0. [Thermohaline gradients and frontal regimes in the northwestern Tropical Atlantic][s7]
+    D. Napolitano, J. Gula, S. Coadou-Chaventon, S. Speich, **C. Rocha**, J. McWilliams, D. Zhang, X. Carton, *Ocean Science (submitted)* -->
 
 <!-- 0. [Temporal trends and causes of deoxygenation in the northwest Atlantic shelf ][s2]  
    <u>H. Nguyen</u>, S. Siedlecki, **C. B. Rocha**, Z. Chen, E. Curchitser, *Journal of Geophysical Research Oceans (submitted)* -->
