@@ -1,9 +1,9 @@
-faculty:
-  - name: "Cesar B Rocha"
-    role: "Professor, Universidade de São Paulo"
-    photo: "/assets/images/group/cesar-rocha.jpg"
-    website: "https://cesar-rocha.github.io/"
-    bio: "Short bio coming soon. This space should briefly describe academic background and research interests."
+# faculty:
+#   - name: "Cesar B Rocha"
+#     role: "Professor, Universidade de São Paulo"
+#     photo: "/assets/images/group/cesar-rocha.jpg"
+#     website: "https://cesar-rocha.github.io/"
+#     bio: "Short bio coming soon. This space should briefly describe academic background and research interests."
 
 postdocs:
   - name: "Mauricio Rebouças Rocha"
