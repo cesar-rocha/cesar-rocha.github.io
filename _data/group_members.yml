@@ -4,10 +4,6 @@ faculty:
     photo: "/assets/images/group/cesar-rocha.jpg"
     website: "https://cesar-rocha.github.io/"
     bio: "Short bio coming soon. This space should briefly describe academic background and research interests."
-    interests:
-      - "Geophysical Fluid Dynamics"
-      - "Ocean Physics"
-      - "Climate"
 
 postdocs:
   - name: "Mauricio Rebouças Rocha"
@@ -25,42 +21,36 @@ graduate_students:
     status: "2026–present"
     photo: "/assets/images/group/aghata-achilles-de-oliveira.jpg"
     bio: "Short bio coming soon. Brief background, project, and interests."
-    interests: ["Oceanography", "Climate"]
 
   - name: "Antonio Favaloro"
     role: "Visiting Master’s student at USP"
     status: "2026–present · ENS Paris"
     photo: "/assets/images/group/antonio-favaloro.jpg"
     bio: "Short bio coming soon."
-    interests: ["Ocean dynamics", "Modeling"]
 
   - name: "Manuel Gonzaga A. Zala"
     role: "Master’s student at USP"
     status: "2025–present"
     photo: "/assets/images/group/manuel-gonzaga-a-zala.jpg"
     bio: "Short bio coming soon."
-    interests: ["Oceanography"]
 
   - name: "Emmanuel Magnangou"
     role: "Master’s student at USP"
     status: "2025–present · co-advised with Edmo Campos"
     photo: "/assets/images/group/emmanuel-magnangou.jpg"
     bio: "Short bio coming soon."
-    interests: ["Ocean circulation"]
 
   - name: "Rafael Couto Martins"
     role: "Master’s student at USP"
     status: "2024–present"
     photo: "/assets/images/group/rafael-couto-martins.jpg"
     bio: "Short bio coming soon."
-    interests: ["Observations", "Circulation"]
 
   - name: "Marina Romann"
     role: "PhD student at USP"
     status: "2026–present"
     photo: "/assets/images/group/marina-romann.jpg"
     bio: "Short bio coming soon."
-    interests: ["Modeling"]
 
   - name: "Paban Bhuyan"
     role: "PhD student at UConn"
@@ -68,34 +58,29 @@ graduate_students:
     photo: "/assets/images/group/paban-bhuyan.jpg"
     website: "https://in.linkedin.com/in/paban-bhuyan-71610768"
     bio: "Short bio coming soon."
-    interests: ["Waves", "Turbulence"]
 
   - name: "Pedro Walfir Neto"
     role: "PhD student at USP"
     status: "2023–present · co-advised with Ilson Silveira"
     photo: "/assets/images/group/pedro-walfir-neto.jpg"
     bio: "Short bio coming soon."
-    interests: ["Boundary currents"]
 
   - name: "João Pedro Amorin"
     role: "PhD student at USP"
     status: "2023–present · co-advised with Ilson Silveira"
     photo: "/assets/images/group/joao-pedro-amorin.jpg"
     bio: "Short bio coming soon."
-    interests: ["Regional circulation"]
 
 undergrads:
   - name: "Pedro Michelin Siqueira"
     role: "Undergraduate researcher at USP"
     photo: "/assets/images/group/pedro-michelin-siqueira.jpg"
     bio: "Short bio coming soon."
-    interests: ["Oceanography"]
 
   - name: "Murilo Vaz Caetité"
     role: "Undergraduate researcher at USP"
     photo: "/assets/images/group/murilo-vaz-caetite.jpg"
     bio: "Short bio coming soon."
-    interests: ["Oceanography"]
 
 alumni_graduate_students:
   - name: "Mackenzie Blanusa"
@@ -104,11 +89,6 @@ alumni_graduate_students:
     current_position: "PhD student at Columbia University (LDEO)"
 
 alumni_undergrads:
-  - name: "Pamela Batista dos Anjos"
-    role: "Undergraduate researcher at USP"
-    years: "2024–2025"
-    current_position: ""
-
   - name: "Weiguang (Roger) Wu"
     role: "Summer undergraduate fellow at WHOI (co-advised with Tom Farrar)"
     years: "2019"
