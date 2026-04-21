@@ -5,8 +5,8 @@ faculty:
     website: "https://cesar-rocha.github.io/"
     bio: "Short bio coming soon. This space should briefly describe academic background and research interests."
     interests:
-      - "Physical oceanography"
-      - "Ocean dynamics"
+      - "Geophysical Fluid Dynamics"
+      - "Ocean Physics"
       - "Climate"
 
 postdocs:
@@ -16,9 +16,8 @@ postdocs:
     photo: "/assets/images/group/mauricio-reboucas-rocha.jpg"
     bio: "Short bio coming soon. This should summarize background, training, and current research."
     interests:
-      - "Ocean modeling"
-      - "Dynamics"
-      - "Climate variability"
+      - "AMOC"
+      - "Ocean Warming"
 
 graduate_students:
   - name: "Aghata Achilles de Oliveira"
