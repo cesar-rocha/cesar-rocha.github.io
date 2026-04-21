@@ -6,11 +6,11 @@ header:
   image: /assets/images/vorticity.png
 ---
 
-Our group studies ocean and climate dynamics across a range of scales, combining theory, observations, and numerical modeling.
+GFD-USP investigates the dynamics of multi-scale ocean flows combining theory, observations, and numerical models and their role in the climate system.
 
 ## Present Members
 
-{% include group_cards.html members=site.data.group_members.faculty title="Faculty" %}
+{% include group_cards.html members=site.data.group_members.faculty title="Principal Investigator" %}
 {% include group_cards.html members=site.data.group_members.postdocs title="Postdocs" %}
 {% include group_cards.html members=site.data.group_members.graduate_students title="Graduate Students" %}
 {% include group_cards.html members=site.data.group_members.undergrads title="Undergraduate Students" %}
