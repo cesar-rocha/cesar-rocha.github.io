@@ -6,7 +6,7 @@
   <div class="group-grid">
     {% for person in members %}
       <div class="group-card">
-        
+
         <div class="group-card-photo-wrap">
           {% if person.photo %}
             <img
@@ -18,7 +18,7 @@
           {% endif %}
         </div>
 
-        <div class="group-card-body">
+        <div class="group-card-header">
           <h4 class="group-card-name">
             {% if person.website %}
               <a href="{{ person.website }}">{{ person.name }}</a>
@@ -34,12 +34,13 @@
           {% if person.status %}
             <p class="group-card-status">{{ person.status }}</p>
           {% endif %}
-
-          {% if person.bio %}
-            <p class="group-card-bio">{{ person.bio }}</p>
-          {% endif %}
-
         </div>
+
+        {% if person.bio %}
+          <div class="group-card-bio">
+            <p>{{ person.bio }}</p>
+          </div>
+        {% endif %}
 
       </div>
     {% endfor %}
