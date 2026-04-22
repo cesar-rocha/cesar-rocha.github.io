@@ -6,7 +6,7 @@ header:
   image: /assets/images/vorticity.png
 ---
 
-GFD-USP investigates the dynamics of multi-scale ocean flows combining theory, observations, and numerical models and their role in the climate system.
+My research group works on fundamental questions in physical oceanography and geophysical fluid dynamics using a combination of theory, observations and a hierarchy of numerical models. Current research topics include submesoscale physics; internal waves; compact mesoscale eddies; AMOC volume, heat and freshwater transports; intermediate circulation of the Southwest Atlantic.
 
 ## Present Members
 
