@@ -19,19 +19,19 @@ graduate_students:
   - name: "Aghata Achilles de Oliveira"
     role: "Master’s student at USP"
     status: "2026–present"
-    photo: "/assets/images/group/aghata-achilles-de-oliveira.jpg"
+    photo: "/assets/images/group/aghata-oliveira.jpg"
     bio: "Short bio coming soon. Brief background, project, and interests."
 
   - name: "Antonio Favaloro"
     role: "Visiting Master’s student at USP"
-    status: "2026–present · ENS Paris"
+    status: "2026–present"
     photo: "/assets/images/group/antonio-favaloro.jpg"
     bio: "Short bio coming soon."
 
   - name: "Manuel Gonzaga A. Zala"
     role: "Master’s student at USP"
     status: "2025–present"
-    photo: "/assets/images/group/manuel-gonzaga-a-zala.jpg"
+    photo: "/assets/images/group/manuel-zala.jpg"
     bio: "Short bio coming soon."
 
   - name: "Emmanuel Magnangou"
@@ -43,7 +43,7 @@ graduate_students:
   - name: "Rafael Couto Martins"
     role: "Master’s student at USP"
     status: "2024–present"
-    photo: "/assets/images/group/rafael-couto-martins.jpg"
+    photo: "/assets/images/group/rafael-martins.jpg"
     bio: "Short bio coming soon."
 
   - name: "Marina Romann"
@@ -72,9 +72,13 @@ graduate_students:
     bio: "Short bio coming soon."
 
 undergrads:
+  - name: "Lara Medeiros Schlumbom"
+    role: "Undergraduate researcher at USP"
+    photo: "/assets/images/group/pedro-michelin.jpg"
+    bio: "Short bio coming soon."
   - name: "Pedro Michelin Siqueira"
     role: "Undergraduate researcher at USP"
-    photo: "/assets/images/group/pedro-michelin-siqueira.jpg"
+    photo: "/assets/images/group/pedro-michelin.jpg"
     bio: "Short bio coming soon."
 
   - name: "Murilo Vaz Caetité"
