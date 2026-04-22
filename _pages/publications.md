@@ -207,7 +207,7 @@ S. T. Gille, R. Abernathey, T. Chereskin, B. Cornuelle, P. Heimbach, M. Mazloff,
 [s4]: https://www.researchsquare.com/article/rs-3609456/v1
 [s5]:https://
 [s6]:https://
-[s7]:https://
+[s7]: https://egusphere.copernicus.org/preprints/2026/egusphere-2026-2092/
 [s8]:https://
 [s9]:https://
 
