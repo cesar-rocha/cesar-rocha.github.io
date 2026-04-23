@@ -6,7 +6,7 @@ header:
   image: /assets/images/vorticity.png
 ---
 
-My research group investigates fundamental questions in physical oceanography and geophysical fluid dynamics through a combination of theory, observations, and a hierarchy of numerical models. Current research topics include submesoscale physics; internal waves; compact mesoscale eddies; volume, heat, and freshwater transports associated with the AMOC; and the intermediate circulation of the Southwest Atlantic.  
+My research group investigates fundamental questions in physical oceanography and geophysical fluid dynamics through a combination of theory, observations, and a hierarchy of numerical models. Current research topics include submesoscale physics; internal waves; compact mesoscale eddies; volume, heat, and freshwater transports associated with the AMOC; and the intermediate circulation of the Southwestern Atlantic.  
 
 ## Present Members
 
