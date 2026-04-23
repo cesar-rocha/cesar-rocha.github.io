@@ -1,7 +1,7 @@
 .group-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(340px, 1fr));
-  gap: 1.5rem;
+  gap: .8rem;
   margin: 1rem 0 2rem;
 }
 
