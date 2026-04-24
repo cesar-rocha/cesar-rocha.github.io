@@ -83,7 +83,13 @@ undergrads:
   - name: "Lara Medeiros Schlumbom"
     role: "Undergraduate researcher at USP"
     photo: "/assets/images/group/lara-schlumbom.jpg"
-    bio: ""
+    bio: "Lara is an undergraduate student in Oceanography at USP with interests
+    in submesoscale dynamics and tracer stirring and mixing. Supported by a FAPESP
+    scholarship, her research uses wavenumber spectra from saildrone observations, 
+    regional models, and satellite altimetry to investigate submesoscale processes in
+    the California Current. Part of this work was carried out at Scripps Institution of
+    Oceanography, where—also with support from FAPESP—Lara recently completed a research
+    internship with Prof. Sarah Gille."
   - name: "Mariana de Souza Barros"
     role: "Undergraduate researcher at USP"
     photo: "/assets/images/group/mariana-barros.jpg"
