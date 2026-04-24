@@ -47,7 +47,13 @@ graduate_students:
     role: "Master’s student at USP"
     status: "2024–present"
     photo: "/assets/images/group/rafael-martins.jpg"
-    bio: ""
+    bio: "Rafael is an Master's student in Physical Oceanography at the USP, 
+    where he also completed his undergraduate studies. Supported by a
+    FAPESP scholarship, his research focuses on submesoscale dynamics and mixed-layer
+    instabilities using process-oriented high-resolution simulations. As part of his Master’s,
+    he compmleted a research internship––also supported by FAPESP–– at the Laboratoire d’Océanographie Physique et Spatiale (LOPS) with
+    Profs. Jonathan Gula and Xavier Carton, studying the role of horizontal shear and frontal curvature in the
+    energetics of submesoscale frontal instabilities."
 
   - name: "Marina Tambelli Romann"
     role: "PhD student at USP"
