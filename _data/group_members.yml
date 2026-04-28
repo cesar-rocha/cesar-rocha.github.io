@@ -88,7 +88,7 @@ graduate_students:
 
 undergrads:
   - name: "Lara Medeiros Schlumbom"
-    role: "Undergraduate researcher at USP"
+    role: "Undergraduate at USP"
     photo: "/assets/images/group/lara-schlumbom.jpg"
     bio: "Lara is an undergraduate student in Oceanography at USP with interests
     in submesoscale dynamics and tracer stirring and mixing. Supported by a FAPESP
@@ -98,7 +98,7 @@ undergrads:
     Oceanography, where—also with support from FAPESP—Lara recently completed a research
     internship with Prof. Sarah Gille."
   - name: "Mariana de Souza Barros"
-    role: "Undergraduate researcher at USP"
+    role: "Undergraduate at USP"
     photo: "/assets/images/group/mariana-barros.jpg"
     bio: ""
   - name: "Pedro Michelin Siqueira"
@@ -108,11 +108,11 @@ undergrads:
     his research uses saildrone observations collected during the Submesoscale Ocean Dynamics Experiment (S-MODE) to 
     investigate the relationship between submesoscale thermohaline compensation and surface-wind variability."
   - name: "Murilo Vaz Caetité"
-    role: "Undergraduate researcher at USP"
+    role: "Undergraduate at USP"
     photo: "/assets/images/group/murilo-vaz-caetite.jpg"
     bio: ""
   - name: "Vitor Cortes Gracindo"
-    role: "Undergraduate researcher at USP"
+    role: "Undergraduate at IFSP"
     photo: "/assets/images/group/vitor-gracindo.jpg"
     bio: ""
 
