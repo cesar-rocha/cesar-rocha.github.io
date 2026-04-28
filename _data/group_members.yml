@@ -104,7 +104,9 @@ undergrads:
   - name: "Pedro Michelin Siqueira"
     role: "Undergraduate researcher at USP"
     photo: "/assets/images/group/pedro-michelin.jpg"
-    bio: ""
+    bio: "Pedro is an undergraduate student in Oceanography at USP. Supported by a FAPESP scholarship, 
+    his research uses saildrone observations collected during the Submesoscale Ocean Dynamics Experiment (S-MODE) to 
+    investigate the relationship between submesoscale thermohaline compensation and surface-wind variability."
   - name: "Murilo Vaz Caetité"
     role: "Undergraduate researcher at USP"
     photo: "/assets/images/group/murilo-vaz-caetite.jpg"
