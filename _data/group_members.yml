@@ -59,8 +59,14 @@ graduate_students:
   - name: "Marina Tambelli Romann"
     role: "PhD student at USP"
     status: "2026–present"
-    photo: "/assets/images/group/marina-romann.jpg"
-    bio: ""
+    photo: "/assets/images/group/marina-tambelli.jpg"
+    bio: "Marina is a Ph.D. student in Physical Oceanography at USP. 
+    She joined the group as an undergraduate and, with support from FAPESP, 
+    developed her Bachelor’s thesis on abyssal transport in the South Atlantic 
+    using the Southern Ocean State Estimate (SOSE). Her doctoral research, 
+    also funded by FAPESP, focuses on submesoscale eddy-driven transport of 
+    tracers—such as heat and carbon—in the upper ocean, using realistic simulations 
+    of the South Atlantic."
 
   - name: "Paban Bhuyan"
     role: "PhD student at UConn, co-advised with L. Romero"
@@ -77,8 +83,14 @@ graduate_students:
   - name: "Pedro Walfir Neto"
     role: "PhD student at USP, co-advised with I. Silveira"
     status: "2023–present"
-    photo: "/assets/images/group/pedro-walfir-neto.jpg"
-    bio: ""
+    photo: "/assets/images/group/pedro-walfir.jpg"
+    bio: "Pedro is currently a Ph.D. candidate in Physical Oceanography at USP,
+    where he also completed his Bachelor’s degree in Oceanography and his Master’s 
+    in Physical Oceanography. Supported by CAPES, his research combines regional numerical
+    simulations and process-oriented modeling to investigate flow–topography interactions, 
+    with a focus on submesoscale processes in the bottom boundary layer as well as internal tides. 
+    His primary region of interest is the Rio Grande Rise, where he examines the dynamical impacts of 
+    complex bathymetry on ocean circulation."
 
   - name: "João Pedro Amorin"
     role: "PhD student at USP, co-advised with I. Silveira"
@@ -100,7 +112,12 @@ undergrads:
   - name: "Mariana de Souza Barros"
     role: "Undergraduate at USP"
     photo: "/assets/images/group/mariana-barros.jpg"
-    bio: ""
+    bio: "Mariana is an undergraduate Oceanography student at USP with interests
+    in internal wave dynamics and submesoscale processes. Supported by a FAPESP scholarship,
+    she is characterizing the spatial and temporal variability of small-scale turbulent mixing
+    in the Southwest Atlantic. She is currently conducting part of her project at the National
+    Oceanography Centre in Liverpool, where she is undertaking a four-month research internship
+    with André Palóczy, also with support from FAPESP."
   - name: "Pedro Michelin Siqueira"
     role: "Undergraduate researcher at USP"
     photo: "/assets/images/group/pedro-michelin.jpg"
