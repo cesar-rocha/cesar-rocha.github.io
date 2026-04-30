@@ -117,7 +117,7 @@ undergrads:
     she is characterizing the spatial and temporal variability of small-scale turbulent mixing
     in the Southwest Atlantic. She is currently conducting part of her project at the National
     Oceanography Centre in Liverpool, where she is undertaking a four-month research internship
-    with André Palóczy, also with support from FAPESP."
+    with Dr. André Palóczy, also with support from FAPESP."
   - name: "Pedro Michelin Siqueira"
     role: "Undergraduate researcher at USP"
     photo: "/assets/images/group/pedro-michelin.jpg"
@@ -127,6 +127,10 @@ undergrads:
   - name: "Murilo Vaz Caetité"
     role: "Undergraduate at USP"
     photo: "/assets/images/group/murilo-vaz-caetite.jpg"
+    bio: ""
+  - name: "Ana Luiza Cavallari de Oliveira"
+    role: "Undergraduate at USP"
+    photo: "/assets/images/group/ana-luiza-cavallari.jpg"
     bio: ""
   - name: "Vitor Cortes Gracindo"
     role: "Undergraduate at IFSP"
