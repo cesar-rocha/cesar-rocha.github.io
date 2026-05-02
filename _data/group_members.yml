@@ -96,7 +96,12 @@ graduate_students:
     role: "PhD student at USP, co-advised with I. Silveira"
     status: "2023–present"
     photo: "/assets/images/group/joao-pedro-amorin.jpg"
-    bio: ""
+    bio: "João Pedro holds a B.Sc. in Oceanography from the Federal University of Pará and an M.Sc.
+    in Physical Oceanography from the University of São Paulo. He is currently a Ph.D. candidate at USP,
+    where his research focuses on mesoscale and submesoscale dynamics, with particular emphasis on processes
+    driving cross-shelf exchanges. Using high-resolution ocean models, João is investigating the mechanisms
+    responsible for the formation of low-salinity filaments offshore Cape Santa Marta,
+    along the southern Brazilian coast."
 
 undergrads:
   - name: "Lara Medeiros Schlumbom"
