@@ -41,7 +41,13 @@ graduate_students:
     role: "Master’s student at USP, co-advised with E. Campos"
     status: "2025–present"
     photo: "/assets/images/group/emmanuel-magnangou.jpg"
-    bio: ""
+    bio: "Emmanuel is a Master’s student in Physical Oceanography at USP. Originally from Togo,
+    he completed his Bachelor’s degree in Oceanography at the University of Kara. Supported by a
+    FAPESP scholarship, his research focuses on quantifying meridional overturning transports of volume,
+    heat, and freshwater in the South Atlantic. He is particularly interested in characterizing subannual
+    to interannual variability and long-term changes in these transports, with emphasis on the role of
+    freshwater transport divergence and surface freshwater fluxes in shaping the South Atlantic freshwater
+    budget over recent decades, and their connection to AMOC variability and trends."
 
   - name: "Rafael Couto Martins"
     role: "Master’s student at USP"
