@@ -153,9 +153,28 @@ alumni_graduate_students:
     role: "MSc student at UConn"
     years: "2021–2024"
     current_position: "PhD student at Columbia University (LDEO)"
+  - name: "Thomas Bossy"
+    role: "Visiting Master's student at SIO (co-advised with Bill Young)"
+    years: "2018"
+    current_position: "Climate modeler at Université Paris-Saclay"
 
 alumni_undergrads:
+  - name: "Pâmela Batista dos Anjos"
+    role: "Undergraduate researcher at USP"
+    years: "2024-2025"
+  - name: "Natália Rossi Jorge"
+    role: "Undergraduate researcher at USP"
+    years: "2023-2024"
+  - name: "Camile Chiodini"
+    role: "Undergraduate researcher at USP"
+    years: "2023-2024"
+  - name: "Vicki You"
+    role: "Undergraduate researcher at UConn"
+    years: "2021-2022"
+    current_position: "Ph.D. student at UConn"
   - name: "Weiguang (Roger) Wu"
     role: "Summer undergraduate fellow at WHOI (co-advised with Tom Farrar)"
     years: "2019"
     current_position: "PhD candidate at MIT-WHOI Joint Program"
+
+
