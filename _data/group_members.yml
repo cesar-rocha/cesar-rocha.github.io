@@ -23,7 +23,11 @@ graduate_students:
     role: "Master’s student at USP"
     status: "2026–present"
     photo: "/assets/images/group/aghata-oliveira.jpg"
-    bio: ""
+    bio: "Aghata earned her teaching degree in Physics from USP in 2025
+          and joined our group as a Master’s student in Physical Oceanography.
+          Supported by a CAPES scholarship, her Master’s research uses data from
+          the Surface Water and Ocean Topography Mission to investigate the structure
+          and demographics of compact mesoscale eddies along the Brazilian continental margin."
 
   - name: "Antonio Favaloro"
     role: "Visiting Master’s student at USP"
