@@ -23,7 +23,7 @@ graduate_students:
     role: "Master’s student at USP"
     status: "2026–present"
     photo: "/assets/images/group/aghata-achilles.jpg"
-    bio: "Aghata earned her teaching degree in Physics from USP in 2025
+    bio: "Aghata earned her undergraduate degree in Physics from USP in 2025
           and joined our group as a Master’s student in Physical Oceanography.
           Supported by a CAPES scholarship, her Master’s research uses data from
           the Surface Water and Ocean Topography Mission to investigate the demography of compact mesoscale eddies along the Brazilian continental margin."
@@ -32,7 +32,12 @@ graduate_students:
     role: "Visiting Master’s student at USP"
     status: "2026–present"
     photo: "/assets/images/group/antonio-favaloro.jpg"
-    bio: ""
+    bio: "Antonio is a Master’s student in Earth and Environmental Sciences at École
+     Normale Supérieure (PSL) and a visiting Master's student at USP. He holds a B.Sc. in 
+     Geosciences from the University 
+     of Milano-Bicocca, where his undergraduate thesis focused on SWOT altimetry validation using in 
+     situ measurements from the BioSWOT-Med campaign. He is currently building a neural network
+    to estimate AMOC transport in the South Atlantic."
 
   - name: "Manuel Gonzaga A. Zala"
     role: "Master’s student at USP"
