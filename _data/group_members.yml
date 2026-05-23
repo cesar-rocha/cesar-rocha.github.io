@@ -43,7 +43,14 @@ graduate_students:
     role: "Master’s student at USP"
     status: "2025–present"
     photo: "/assets/images/group/manuel-zala.jpg"
-    bio: ""
+    bio: "Manuel is a Master’s student in Physical Oceanography at the Oceanographic 
+    Institute of the University of São Paulo (IO-USP). Originally from Angola, 
+    he earned his undergraduate degree in Oceanography from the Faculty of Natural 
+    Sciences at the University of Namibe. Supported by a CAPES scholarship, his current
+     research investigates the intermediate ocean circulation of the Southwest Atlantic 
+     using Argo profiling float data. His project focuses on quantifying the transport of 
+     Antarctic Intermediate Water (AAIW), characterizing its variability, and estimating 
+     its pathways, with special attention to the Santos Bifurcation."
 
   - name: "Emmanuel Magnangou"
     role: "Master’s student at USP, co-advised with E. Campos"
