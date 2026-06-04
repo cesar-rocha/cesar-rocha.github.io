@@ -161,9 +161,8 @@ undergrads:
     role: "Undergraduate at USP"
     photo: "/assets/images/group/ana-luiza-cavallari.jpg"
     bio: "Ana Luiza is an undergraduate in Oceanography at USP. Supported by a PUB scholarship,
-    her research compares the structure and variability  of the AMOC abyssal cell 
-    in depth and density coordinates."
-
+    her project compares depth and density diagnostics of the structure and variability  of the 
+    AMOC abyssal cell in climate simulations."
 alumni_graduate_students:
   - name: "Mackenzie Blanusa"
     role: "MSc student at UConn"
