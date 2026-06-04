@@ -150,10 +150,6 @@ undergrads:
     bio: "Pedro is an undergraduate student in Oceanography at USP. Supported by a FAPESP scholarship, 
     his research uses saildrone observations collected during the Submesoscale Ocean Dynamics Experiment (S-MODE) to 
     investigate the relationship between submesoscale thermohaline compensation and surface-wind variability."
-  - name: "Murilo Vaz Caetité"
-    role: "Undergraduate at USP"
-    photo: "/assets/images/group/murilo-vaz-caetite.jpg"
-    bio: ""
   - name: "Ana Luiza Cavallari de Oliveira"
     role: "Undergraduate at USP"
     photo: "/assets/images/group/ana-luiza-cavallari.jpg"
@@ -161,7 +157,10 @@ undergrads:
   - name: "Vitor Cortes Gracindo"
     role: "Undergraduate at IFSP"
     photo: "/assets/images/group/vitor-gracindo.jpg"
-    bio: ""
+    bio: "Vitor is an undergraduate student in Physics at Instituto Federal
+          de São Paulo. Supported by a FUSP scholarship, his research compares 
+          SWOT products ... in Santos Basin.
+"
 
 alumni_graduate_students:
   - name: "Mackenzie Blanusa"
@@ -174,6 +173,9 @@ alumni_graduate_students:
     current_position: "Climate modeler at Université Paris-Saclay"
 
 alumni_undergrads:
+  - name: "Murilo Vaz Caetité"
+    role: "Undergraduate researcher at USP"
+    years: "2023-2026"
   - name: "Pâmela Batista dos Anjos"
     role: "Undergraduate researcher at USP"
     years: "2024-2025"
