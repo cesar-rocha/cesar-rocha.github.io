@@ -8,7 +8,6 @@ header:
 
 [[Google Scholar](https://scholar.google.com/citations?user=7U3g940AAAAJ&hl=pt-BR&oi=ao), [ORCID](https://orcid.org/0000-0003-4063-5468), [Web of Science](https://www.webofscience.com/wos/author/record/AAH-9720-2019), [Scopus](https://www.scopus.com/authid/detail.uri?authorId=55804468100)]
 
-
 <!-- ### Submitted -->
 
 <!-- [Calibration of a wind-drift model using remote-sensing and in-situ observations][s8] I. Leyba, R. Samelson, J. T. Farrar, **C. Rocha**, E. Rodriguez, A. Shcherbina, *Journal of Atmospheric and Oceanic Technology* (submitted) -->
@@ -16,9 +15,6 @@ header:
 <!-- [South Atlantic abyssal temperature variability and trends at 34.5S][10] M. R. Rocha, E. J. D. Campos, A. Piola, M. van Caspel, P. S. Polito, **C. Rocha**, *Progress in Oceanography* (submitted) -->
 
 <!-- [Changes in Ocean Heat, Carbon Content, Ventilation and Biology: A review of the Second Decade of GO-SHIP Global Repeat Hydrography][11]  E. McDonagh, L. Barbero, M. Kramp, S. G. Purkey, A. Hernández-Guerra, B. Carter, L. Cimoli, X. Davila, M. Ishii, B. M. Sloyan, K. Schroeder, Y. Firing, K. Stocks, M. Álvarez, C. Arumi, L. Bodrossy, V. Caínzos, V. Cardin, L. I. Carracedo, L. N. Chomiak, G. Civitarese, Z. K. Erickson, D. Fernandez, A. Foppert, G. Gebbie, M. Hoppema, E. Jeansson, G. C. Johnson, L. Juranek, S. K. Lauvset, A. C. Martiny, H. Mercier, T. Nunoura, E. Raes, **C. Rocha**, R. Steinfeldt, M. Shigemitsu, L. D. Talley, T. Tanhua, L. Thompson, B. Williams, Q. Wu, T. Yokokawa, *Annual Reviews of Marine Science* (aceppted) -->
-
-<!-- 0. [Thermohaline gradients and frontal regimes in the northwestern Tropical Atlantic][s7]
-    D. Napolitano, J. Gula, S. Coadou-Chaventon, S. Speich, **C. Rocha**, J. McWilliams, D. Zhang, X. Carton, *Ocean Science (submitted)* -->
 
 <!-- 0. [Temporal trends and causes of deoxygenation in the northwest Atlantic shelf ][s2]  
    <u>H. Nguyen</u>, S. Siedlecki, **C. B. Rocha**, Z. Chen, E. Curchitser, *Journal of Geophysical Research Oceans (submitted)* -->
@@ -31,6 +27,9 @@ header:
 ### Peer-reviewed publications
 
 [Students and postdocs are underscored.]
+
+0. [Thermohaline gradients and frontal regimes in the northwestern Tropical Atlantic][37]
+    D. Napolitano, J. Gula, S. Coadou-Chaventon, S. Speich, **C. Rocha**, J. McWilliams, D. Zhang, X. Carton, *Ocean Science (2026)*
 
 0. [Hydrodynamic control over shallow ferromanganese crust deposits in the West Rio Grande Rise][36] 
    <u>P. W. M. Souza-Neto</u>, M. B. Hassan, J. P. M. Amorim, M. Borges-Silva, **C. B. Rocha**, I. C. A. da Silveira, *Regional Studies in Marine Science* (2026).
@@ -198,6 +197,7 @@ S. T. Gille, R. Abernathey, T. Chereskin, B. Cornuelle, P. Heimbach, M. Mazloff,
 [34]: https://journals.ametsoc.org/view/journals/phoc/aop/JPO-D-25-0038.1/JPO-D-25-0038.1.xml
 [35]: https://journals.ametsoc.org/view/journals/atot/aop/JTECH-D-24-0114.1/JTECH-D-24-0114.1.xml
 [36]: https://www.sciencedirect.com/science/article/pii/S2352485526000885?via%3Dihub
+[37]: https://os.copernicus.org/articles/22/2425/2026/
 
 [g1]: https://escholarship.org/content/qt4m893890/qt4m893890.pdf
 
@@ -207,7 +207,6 @@ S. T. Gille, R. Abernathey, T. Chereskin, B. Cornuelle, P. Heimbach, M. Mazloff,
 [s4]: https://www.researchsquare.com/article/rs-3609456/v1
 [s5]:https://
 [s6]:https://
-[s7]: https://egusphere.copernicus.org/preprints/2026/egusphere-2026-2092/
 [s8]:https://
 [s9]:https://
 
