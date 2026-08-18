@@ -10,11 +10,15 @@ header:
 
 <!-- ### Submitted -->
 
-<!-- [Calibration of a wind-drift model using remote-sensing and in-situ observations][s8] I. Leyba, R. Samelson, J. T. Farrar, **C. Rocha**, E. Rodriguez, A. Shcherbina, *Journal of Atmospheric and Oceanic Technology* (submitted) -->
+<!-- [Temporal patterns and causes of deoxygenation in the Northwest Atlantic Shelf – an observation approach][s7] H. Nguyen,S. A. Siedlecki, **C. B. Rocha**, Z. Chen, E. Curchitser, *Environmental Research Letters* (submitted) -->
 
-<!-- [South Atlantic abyssal temperature variability and trends at 34.5S][10] M. R. Rocha, E. J. D. Campos, A. Piola, M. van Caspel, P. S. Polito, **C. Rocha**, *Progress in Oceanography* (submitted) -->
+<!-- [A Generalizable Lie Autoencoder for Emulating1Barotropic Turbulence][s6] I. Gorenstein, I. Wainer, **C. B. Rocha**, P. S. Peixoto, *JGR: Machine Learning and Computation* (submitted) -->
 
-<!-- [Changes in Ocean Heat, Carbon Content, Ventilation and Biology: A review of the Second Decade of GO-SHIP Global Repeat Hydrography][11]  E. McDonagh, L. Barbero, M. Kramp, S. G. Purkey, A. Hernández-Guerra, B. Carter, L. Cimoli, X. Davila, M. Ishii, B. M. Sloyan, K. Schroeder, Y. Firing, K. Stocks, M. Álvarez, C. Arumi, L. Bodrossy, V. Caínzos, V. Cardin, L. I. Carracedo, L. N. Chomiak, G. Civitarese, Z. K. Erickson, D. Fernandez, A. Foppert, G. Gebbie, M. Hoppema, E. Jeansson, G. C. Johnson, L. Juranek, S. K. Lauvset, A. C. Martiny, H. Mercier, T. Nunoura, E. Raes, **C. Rocha**, R. Steinfeldt, M. Shigemitsu, L. D. Talley, T. Tanhua, L. Thompson, B. Williams, Q. Wu, T. Yokokawa, *Annual Reviews of Marine Science* (aceppted) -->
+<!-- [Calibration of a wind-drift model using remote-sensing and in-situ observations][s5] I. Leyba, R. Samelson, J. T. Farrar, **C. Rocha**, E. Rodriguez, A. Shcherbina, *Journal of Atmospheric and Oceanic Technology* (submitted) -->
+
+<!-- [South Atlantic abyssal temperature variability and trends at 34.5S][s4] M. R. Rocha, E. J. D. Campos, A. Piola, M. van Caspel, P. S. Polito, **C. Rocha**, *Progress in Oceanography* (submitted) -->
+
+<!-- [Changes in Ocean Heat, Carbon Content, Ventilation and Biology: A review of the Second Decade of GO-SHIP Global Repeat Hydrography][s3]  E. McDonagh, L. Barbero, M. Kramp, S. G. Purkey, A. Hernández-Guerra, B. Carter, L. Cimoli, X. Davila, M. Ishii, B. M. Sloyan, K. Schroeder, Y. Firing, K. Stocks, M. Álvarez, C. Arumi, L. Bodrossy, V. Caínzos, V. Cardin, L. I. Carracedo, L. N. Chomiak, G. Civitarese, Z. K. Erickson, D. Fernandez, A. Foppert, G. Gebbie, M. Hoppema, E. Jeansson, G. C. Johnson, L. Juranek, S. K. Lauvset, A. C. Martiny, H. Mercier, T. Nunoura, E. Raes, **C. Rocha**, R. Steinfeldt, M. Shigemitsu, L. D. Talley, T. Tanhua, L. Thompson, B. Williams, Q. Wu, T. Yokokawa, *Annual Reviews of Marine Science* (aceppted) -->
 
 <!-- 0. [Temporal trends and causes of deoxygenation in the northwest Atlantic shelf ][s2]  
    <u>H. Nguyen</u>, S. Siedlecki, **C. B. Rocha**, Z. Chen, E. Curchitser, *Journal of Geophysical Research Oceans (submitted)* -->
@@ -42,7 +46,6 @@ header:
 
 0. [Second-order velocity structure functions at submesoscales][34]
     D. Hypolite, K. Srinivasan, J. C. McWilliams, R. Barkan, E. Rodriguez, A. Wineteer, M. J. Molemaker, H. Torres, **C. Rocha**, *Journal of Physical Oceanography* (2026).
-
 
 0. [Grain Size Response to Hydrodynamics in the Continental Slope of Santos Basin, Southwestern Atlantic Margin][32]
     M. M. Mahiques, **C. B. Rocha**, P. A. L. Ferreira, S. C. Goya, L. S. Nunes, R. C. L. Figueira,                               *Journal of Sedimentary Environments* (2026)
