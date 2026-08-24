@@ -18,9 +18,6 @@ header:
 
 <!-- [Changes in Ocean Heat, Carbon Content, Ventilation and Biology: A review of the Second Decade of GO-SHIP Global Repeat Hydrography][s3]  E. McDonagh, L. Barbero, M. Kramp, S. G. Purkey, A. Hernández-Guerra, B. Carter, L. Cimoli, X. Davila, M. Ishii, B. M. Sloyan, K. Schroeder, Y. Firing, K. Stocks, M. Álvarez, C. Arumi, L. Bodrossy, V. Caínzos, V. Cardin, L. I. Carracedo, L. N. Chomiak, G. Civitarese, Z. K. Erickson, D. Fernandez, A. Foppert, G. Gebbie, M. Hoppema, E. Jeansson, G. C. Johnson, L. Juranek, S. K. Lauvset, A. C. Martiny, H. Mercier, T. Nunoura, E. Raes, **C. Rocha**, R. Steinfeldt, M. Shigemitsu, L. D. Talley, T. Tanhua, L. Thompson, B. Williams, Q. Wu, T. Yokokawa, *Annual Reviews of Marine Science* (aceppted) -->
 
-<!-- 0. [Temporal trends and causes of deoxygenation in the northwest Atlantic shelf ][s2]  
-   <u>H. Nguyen</u>, S. Siedlecki, **C. B. Rocha**, Z. Chen, E. Curchitser, *Journal of Geophysical Research Oceans (submitted)* -->
-
 <!-- 0. [Nusselt Number Scaling in Horizontal Convection: Boundary Conditions and Dimensionality][s1]  
    N. Constantinou, **C. B. Rocha**, S. G. Llewellyn Smith, & W. R. Young, *Journal of Fluid Mechanics (submitted)* 
 {: reversed="reversed"} -->
@@ -30,9 +27,9 @@ header:
 
 [Students and postdocs are underscored.]
 
-0. [Temporal patterns and causes of deoxygenation in the Northwest Atlantic Shelf – an observation approach][38] <u>H. Nguyen</u>, S. A. Siedlecki, **C. B. Rocha**, Z. Chen, E. Curchitser, *Environmental Research Letters* (in press).
+0. [Temporal patterns and causes of deoxygenation in the Northwest Atlantic Shelf – an observation approach][39] <u>H. Nguyen</u>, S. A. Siedlecki, **C. B. Rocha**, Z. Chen, E. Curchitser, *Environmental Research Letters* (in press).
 
-0. [Depositional processes on the outer shelf and upper slope of the Santos Bifurcation (SW Atlantic margin)][39] M. Mahiques, R. Nagai, **C. B. Rocha**, P. L. Ferreira, M. Matos, R. Ramos, M. Saraiva, N. Torquato, R. Figueira, R. Dias, M. Maly, L. A. Souza, *Regional Studies in Marine Science* (in press).
+0. [Depositional processes on the outer shelf and upper slope of the Santos Bifurcation (SW Atlantic margin)][38] M. Mahiques, R. Nagai, **C. B. Rocha**, P. L. Ferreira, M. Matos, R. Ramos, M. Saraiva, N. Torquato, R. Figueira, R. Dias, M. Maly, L. A. Souza, *Regional Studies in Marine Science* (in press).
 
 0. [Thermohaline gradients and frontal regimes in the northwestern Tropical Atlantic][37]
     D. Napolitano, J. Gula, S. Coadou-Chaventon, S. Speich, **C. Rocha**, J. McWilliams, D. Zhang, X. Carton, *Ocean Science (2026)*
@@ -203,6 +200,8 @@ S. T. Gille, R. Abernathey, T. Chereskin, B. Cornuelle, P. Heimbach, M. Mazloff,
 [35]: https://journals.ametsoc.org/view/journals/atot/aop/JTECH-D-24-0114.1/JTECH-D-24-0114.1.xml
 [36]: https://www.sciencedirect.com/science/article/pii/S2352485526000885?via%3Dihub
 [37]: https://os.copernicus.org/articles/22/2425/2026/
+[38]: https://.
+[39]: https://.
 
 [g1]: https://escholarship.org/content/qt4m893890/qt4m893890.pdf
 
