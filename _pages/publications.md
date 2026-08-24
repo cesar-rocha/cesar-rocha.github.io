@@ -10,8 +10,6 @@ header:
 
 <!-- ### Submitted -->
 
-<!-- [Temporal patterns and causes of deoxygenation in the Northwest Atlantic Shelf – an observation approach][s7] H. Nguyen,S. A. Siedlecki, **C. B. Rocha**, Z. Chen, E. Curchitser, *Environmental Research Letters* (submitted) -->
-
 <!-- [A Generalizable Lie Autoencoder for Emulating1Barotropic Turbulence][s6] I. Gorenstein, I. Wainer, **C. B. Rocha**, P. S. Peixoto, *JGR: Machine Learning and Computation* (submitted) -->
 
 <!-- [Calibration of a wind-drift model using remote-sensing and in-situ observations][s5] I. Leyba, R. Samelson, J. T. Farrar, **C. Rocha**, E. Rodriguez, A. Shcherbina, *Journal of Atmospheric and Oceanic Technology* (submitted) -->
@@ -31,6 +29,10 @@ header:
 ### Peer-reviewed publications
 
 [Students and postdocs are underscored.]
+
+0. [Temporal patterns and causes of deoxygenation in the Northwest Atlantic Shelf – an observation approach][38] <u>H. Nguyen</u>, S. A. Siedlecki, **C. B. Rocha**, Z. Chen, E. Curchitser, *Environmental Research Letters* (in press).
+
+0. [Depositional processes on the outer shelf and upper slope of the Santos Bifurcation (SW Atlantic margin)][39] M. Mahiques, R. Nagai, **C. B. Rocha**, P. L. Ferreira, M. Matos, R. Ramos, M. Saraiva, N. Torquato, R. Figueira, R. Dias, M. Maly, L. A. Souza, *Regional Studies in Marine Science* (in press).
 
 0. [Thermohaline gradients and frontal regimes in the northwestern Tropical Atlantic][37]
     D. Napolitano, J. Gula, S. Coadou-Chaventon, S. Speich, **C. Rocha**, J. McWilliams, D. Zhang, X. Carton, *Ocean Science (2026)*
