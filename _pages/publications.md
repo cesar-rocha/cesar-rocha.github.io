@@ -27,9 +27,9 @@ header:
 
 [Students and postdocs are underscored.]
 
-0. [Temporal patterns and causes of deoxygenation in the Northwest Atlantic Shelf – an observation approach][39] <u>H. Nguyen</u>, S. A. Siedlecki, **C. B. Rocha**, Z. Chen, E. Curchitser, *Environmental Research Letters* (in press).
+0. [Temporal patterns and causes of deoxygenation in the Northwest Atlantic Shelf – an observation approach][39] <u>H. Nguyen</u>, S. A. Siedlecki, **C. B. Rocha**, Z. Chen, E. Curchitser, *Environmental Research Letters* (2026).
 
-0. [Depositional processes on the outer shelf and upper slope of the Santos Bifurcation (SW Atlantic margin)][38] M. Mahiques, R. Nagai, **C. B. Rocha**, P. L. Ferreira, M. Matos, R. Ramos, M. Saraiva, N. Torquato, R. Figueira, R. Dias, M. Maly, L. A. Souza, *Regional Studies in Marine Science* (in press).
+0. [Depositional processes on the outer shelf and upper slope of the Santos Bifurcation (SW Atlantic margin)][38] M. Mahiques, R. Nagai, **C. B. Rocha**, P. L. Ferreira, M. Matos, R. Ramos, M. Saraiva, N. Torquato, R. Figueira, R. Dias, M. Maly, L. A. Souza, *Regional Studies in Marine Science* (2026).
 
 0. [Thermohaline gradients and frontal regimes in the northwestern Tropical Atlantic][37]
     D. Napolitano, J. Gula, S. Coadou-Chaventon, S. Speich, **C. Rocha**, J. McWilliams, D. Zhang, X. Carton, *Ocean Science (2026)*
