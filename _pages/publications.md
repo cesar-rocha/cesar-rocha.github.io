@@ -201,7 +201,7 @@ S. T. Gille, R. Abernathey, T. Chereskin, B. Cornuelle, P. Heimbach, M. Mazloff,
 [36]: https://www.sciencedirect.com/science/article/pii/S2352485526000885?via%3Dihub
 [37]: https://os.copernicus.org/articles/22/2425/2026/
 [38]: https://.
-[39]: https://.
+[39]: https://iopscience.iop.org/article/10.1088/1748-9326/ae9e4c
 
 [g1]: https://escholarship.org/content/qt4m893890/qt4m893890.pdf
 
