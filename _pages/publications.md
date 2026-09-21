@@ -16,7 +16,6 @@ header:
 
 <!-- [South Atlantic abyssal temperature variability and trends at 34.5S][s4] M. R. Rocha, E. J. D. Campos, A. Piola, M. van Caspel, P. S. Polito, **C. Rocha**, *Progress in Oceanography* (submitted) -->
 
-<!-- [Changes in Ocean Heat, Carbon Content, Ventilation and Biology: A review of the Second Decade of GO-SHIP Global Repeat Hydrography][s3]  E. McDonagh, L. Barbero, M. Kramp, S. G. Purkey, A. Hernández-Guerra, B. Carter, L. Cimoli, X. Davila, M. Ishii, B. M. Sloyan, K. Schroeder, Y. Firing, K. Stocks, M. Álvarez, C. Arumi, L. Bodrossy, V. Caínzos, V. Cardin, L. I. Carracedo, L. N. Chomiak, G. Civitarese, Z. K. Erickson, D. Fernandez, A. Foppert, G. Gebbie, M. Hoppema, E. Jeansson, G. C. Johnson, L. Juranek, S. K. Lauvset, A. C. Martiny, H. Mercier, T. Nunoura, E. Raes, **C. Rocha**, R. Steinfeldt, M. Shigemitsu, L. D. Talley, T. Tanhua, L. Thompson, B. Williams, Q. Wu, T. Yokokawa, *Annual Reviews of Marine Science* (aceppted) -->
 
 <!-- 0. [Nusselt Number Scaling in Horizontal Convection: Boundary Conditions and Dimensionality][s1]  
    N. Constantinou, **C. B. Rocha**, S. G. Llewellyn Smith, & W. R. Young, *Journal of Fluid Mechanics (submitted)* 
@@ -26,6 +25,9 @@ header:
 ### Peer-reviewed publications
 
 [Students and postdocs are underscored.]
+
+[Changes in Ocean Heat, Carbon Content, Ventilation and Biology: A review of the Second Decade of GO-SHIP Global Repeat Hydrography][40]  E. McDonagh, L. Barbero, M. Kramp, S. G. Purkey, A. Hernández-Guerra, B. Carter, L. Cimoli, X. Davila, M. Ishii, B. M. Sloyan, K. Schroeder, Y. Firing, K. Stocks, M. Álvarez, C. Arumi, L. Bodrossy, V. Caínzos, V. Cardin, L. I. Carracedo, L. N. Chomiak, G. Civitarese, Z. K. Erickson, D. Fernandez, A. Foppert, G. Gebbie, M. Hoppema, E. Jeansson, G. C. Johnson, L. Juranek, S. K. Lauvset, A. C. Martiny, H. Mercier, T. Nunoura, E. Raes, **C. Rocha**, R. Steinfeldt, M. Shigemitsu, L. D. Talley, T. Tanhua, L. Thompson, B. Williams, Q. Wu, T. Yokokawa, *Annual Reviews of Marine Science* (2027, early publication).
+
 
 0. [Temporal patterns and causes of deoxygenation in the Northwest Atlantic Shelf – an observation approach][39] <u>H. Nguyen</u>, S. A. Siedlecki, **C. B. Rocha**, Z. Chen, E. Curchitser, *Environmental Research Letters* (2026).
 
@@ -202,6 +204,7 @@ S. T. Gille, R. Abernathey, T. Chereskin, B. Cornuelle, P. Heimbach, M. Mazloff,
 [37]: https://os.copernicus.org/articles/22/2425/2026/
 [38]: https://doi.org/10.1016/j.rsma.2026.105375
 [39]: https://iopscience.iop.org/article/10.1088/1748-9326/ae9e4c
+[40]: https://www.annualreviews.org/content/journals/10.1146/annurev-marine-040725-022155
 
 [g1]: https://escholarship.org/content/qt4m893890/qt4m893890.pdf
 
