@@ -41,8 +41,43 @@ const serie = (label, data, cor, marcador, traco) => ({
   borderWidth: 2, borderDash: traco, spanGaps: false, tension: 0
 });
 
+// Marcos institucionais: linha vertical + rotulo na vertical (plugin proprio, sem dependencias)
+const marcos = [
+  ['2007', 'bônus Inclusp'],
+  ['2016', 'USP entra no Sisu'],
+  ['2018', 'início das cotas'],
+  ['2021', 'Pandemia COVID-19']
+];
+const linhasVerticais = {
+  id: 'linhasVerticais',
+  beforeDatasetsDraw(chart) {
+    const { ctx, chartArea: area, scales: { x } } = chart;
+    ctx.save();
+    ctx.font = '11px system-ui, sans-serif';
+    ctx.textAlign = 'right';
+    ctx.textBaseline = 'bottom';
+    for (const [ano, txt] of marcos) {
+      const px = x.getPixelForValue(anos.indexOf(ano));
+      ctx.strokeStyle = '#bfbfbf';
+      ctx.lineWidth = 1;
+      ctx.beginPath();
+      ctx.moveTo(px, area.top);
+      ctx.lineTo(px, area.bottom);
+      ctx.stroke();
+      ctx.save();
+      ctx.translate(px - 3, area.top + 4);
+      ctx.rotate(-Math.PI / 2);
+      ctx.fillStyle = '#666';
+      ctx.fillText(txt, 0, 0);
+      ctx.restore();
+    }
+    ctx.restore();
+  }
+};
+
 new Chart(document.getElementById('cv'), {
   type: 'line',
+  plugins: [linhasVerticais],
   data: { labels: anos, datasets: [
     serie('Total', [15.35,16.28,13.48,22.35,17.7,12.73,10.93,9.8,8.25,9.88,7.45,6.98,7.65,7.45,8.07,8.29,7.39,6.21,6.75,5.86,4.39,4.25,3.48,4.34,3.76,5.24], '#2a78d6', 'circle', []),
     serie('Ampla concorrência', pre.concat([6.33,6.72,6.44,4.88,4.44,3.61,4.94,3.44,5.39]),
@@ -62,7 +97,7 @@ new Chart(document.getElementById('cv'), {
     },
     scales: {
       x: { grid: { display: false }, ticks: { autoSkip: false, maxRotation: 60 } },
-      y: { min: 0, title: { display: true, text: 'Candidatos por vaga' } }
+      y: { min: 0, max: 25, title: { display: true, text: 'Candidatos por vaga' } }
     }
   }
 });
