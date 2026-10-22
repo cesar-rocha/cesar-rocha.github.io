@@ -1,0 +1,115 @@
+---
+layout: null
+permalink: /misc/oceanografia-nota-corte-fuvest/
+sitemap: false
+search: false
+---
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>Oceanografia USP – nota de corte Fuvest</title>
+<style>
+  body { font-family: system-ui, sans-serif; margin: 24px; color: #222; background: #fff; }
+  .legenda { display: flex; flex-wrap: wrap; gap: 16px; font-size: 12px; color: #555; margin-bottom: 8px; }
+  .legenda span { display: flex; align-items: center; gap: 6px; }
+  .caixa { position: relative; width: 100%; max-width: 900px; height: 420px; }
+  .nota { font-size: 12px; color: #666; max-width: 900px; margin-top: 10px; line-height: 1.5; }
+</style>
+</head>
+<body>
+<h3>Oceanografia USP – nota de corte da 1ª fase da Fuvest, 2002–2026</h3>
+<div class="legenda">
+  <span><span style="width:14px;height:10px;background:#ebebeb;border-top:1.5px dashed #8c8c8c"></span>Zona de eliminação (abaixo do piso)</span>
+  <span><span style="width:10px;height:10px;border-radius:50%;background:#2a78d6"></span>Nota de corte (vaga única)</span>
+  <span><span style="width:10px;height:10px;background:#eb6834"></span>Ampla concorrência</span>
+  <span><span style="width:0;height:0;border-left:6px solid transparent;border-right:6px solid transparent;border-bottom:10px solid #1baf7a"></span>Escola pública</span>
+  <span><span style="width:9px;height:9px;background:#6250d6;transform:rotate(45deg)"></span>PPI</span>
+</div>
+<div class="caixa"><canvas id="corte"></canvas></div>
+<p class="nota">Nota de corte = menor pontuação entre os convocados para a 2ª fase, em % da
+pontuação máxima da 1ª fase (160 pontos em 2002, 100 em 2003–2007, 90 em 2008–2026).
+Abaixo do piso o candidato é eliminado; nota de corte igual ao piso significa que todos
+os presentes não eliminados foram convocados. Fonte: Fuvest, "Notas de corte".</p>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.js"></script>
+<script>
+// Gerado por gerar_pagina_corte.py a partir de corte_oceanografia.csv
+const D = {"anos": ["2002", "2003", "2004", "2005", "2006", "2007", "2008", "2009", "2010", "2011", "2012", "2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020", "2021", "2022", "2023", "2024", "2025", "2026"], "piso": [null, 25.0, 25.0, 25.0, 25.0, 22.0, 24.4, 24.4, 24.4, 24.4, 30.0, 30.0, 30.0, 30.0, 30.0, 30.0, 30.0, 30.0, 30.0, 30.0, 30.0, 30.0, 30.0, 30.0, 30.0], "total": [50.0, 53.0, 56.0, 63.0, 56.0, 50.0, 56.7, 56.7, 50.0, 44.4, 51.1, 45.6, 44.4, 51.1, 48.9, 45.6, 45.6, null, null, null, null, null, null, null, null], "ac": [null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, 37.8, 46.7, 44.4, 38.9, 51.1, 40.0, 48.9, 42.2], "ep": [null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, 36.7, 38.9, 37.8, 33.3, 32.2, 31.1, 31.1, 30.0], "ppi": [null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, 30.0, 30.0, 32.2, 42.2, 30.0, 30.0, 30.0, 30.0], "pts": {"total": [80, 53, 56, 63, 56, 50, 51, 51, 45, 40, 46, 41, 40, 46, 44, 41, 41, null, null, null, null, null, null, null, null], "ac": [null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, 34, 42, 40, 35, 46, 36, 44, 38], "ep": [null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, 33, 35, 34, 30, 29, 28, 28, 27], "ppi": [null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, 27, 27, 29, 38, 27, 27, 27, 27]}, "questoes": [160, 100, 100, 100, 100, 100, 90, 90, 90, 90, 90, 90, 90, 90, 90, 90, 90, 90, 90, 90, 90, 90, 90, 90, 90]};
+
+const marcos = [
+  ['2007', 'bônus Inclusp'],
+  ['2008', '1ª fase: 100 → 90 questões'],
+  ['2016', 'USP entra no Sisu'],
+  ['2018', 'início das cotas'],
+  ['2019', '4 convocados por vaga'],
+  ['2021', 'Pandemia COVID-19']
+];
+const linhasVerticais = {
+  id: 'linhasVerticais',
+  beforeDatasetsDraw(chart) {
+    const { ctx, chartArea: area, scales: { x } } = chart;
+    ctx.save();
+    ctx.font = '11px system-ui, sans-serif';
+    ctx.textAlign = 'right';
+    ctx.textBaseline = 'bottom';
+    for (const [ano, txt] of marcos) {
+      const px = x.getPixelForValue(D.anos.indexOf(ano));
+      ctx.strokeStyle = '#bfbfbf';
+      ctx.lineWidth = 1;
+      ctx.beginPath(); ctx.moveTo(px, area.top); ctx.lineTo(px, area.bottom); ctx.stroke();
+      ctx.save();
+      ctx.translate(px - 3, area.top + 4);
+      ctx.rotate(-Math.PI / 2);
+      ctx.fillStyle = '#666';
+      ctx.fillText(txt, 0, 0);
+      ctx.restore();
+    }
+    ctx.restore();
+  }
+};
+
+const serie = (chave, label, cor, marcador, traco) => ({
+  chave, label, data: D[chave], borderColor: cor, backgroundColor: cor,
+  pointStyle: marcador, pointRadius: marcador === 'triangle' ? 6 : 5,
+  pointBorderColor: '#fff', pointBorderWidth: 1.5,
+  borderWidth: 2, borderDash: traco, spanGaps: false, tension: 0
+});
+const fmt = v => v.toFixed(1).replace('.', ',');
+
+new Chart(document.getElementById('corte'), {
+  type: 'line',
+  plugins: [linhasVerticais],
+  data: { labels: D.anos, datasets: [
+    { chave: 'piso', label: 'Piso de eliminação', data: D.piso, stepped: 'middle',
+      borderColor: '#8c8c8c', borderWidth: 1.5, borderDash: [4, 3],
+      backgroundColor: '#ebebeb', fill: 'origin', pointRadius: 0, pointHoverRadius: 0 },
+    serie('total', 'Nota de corte', '#2a78d6', 'circle', []),
+    serie('ac', 'Ampla concorrência', '#eb6834', 'rect', [6, 4]),
+    serie('ep', 'Escola pública', '#1baf7a', 'triangle', [2, 3]),
+    serie('ppi', 'PPI', '#6250d6', 'rectRot', [8, 3, 2, 3])
+  ]},
+  options: {
+    responsive: true, maintainAspectRatio: false,
+    interaction: { mode: 'index', intersect: false },
+    plugins: {
+      legend: { display: false },
+      tooltip: { callbacks: { label: c => {
+        if (c.raw == null) return null;
+        const k = c.dataset.chave, i = c.dataIndex;
+        if (k === 'piso') return `Piso: ${fmt(c.raw)}%`;
+        const p = D.pts[k][i];
+        return `${c.dataset.label}: ${fmt(c.raw)}% (${p} de ${D.questoes[i]} pontos)`;
+      } } }
+    },
+    scales: {
+      x: { grid: { display: false }, ticks: { autoSkip: false, maxRotation: 60 } },
+      y: { min: 0, max: 100, title: { display: true, text: 'Nota de corte (% da pontuação da 1ª fase)' } }
+    }
+  }
+});
+</script>
+</body>
+</html>
