@@ -1,0 +1,116 @@
+---
+layout: null
+permalink: /misc/oceanografia-nota-maxima-fuvest/
+sitemap: false
+search: false
+---
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>Oceanografia USP – nota máxima Fuvest</title>
+<style>
+  body { font-family: system-ui, sans-serif; margin: 24px; color: #222; background: #fff; }
+  .legenda { display: flex; flex-wrap: wrap; gap: 16px; font-size: 12px; color: #555; margin-bottom: 8px; }
+  .legenda span { display: flex; align-items: center; gap: 6px; }
+  .caixa { position: relative; width: 100%; max-width: 900px; height: 420px; }
+  .nota { font-size: 12px; color: #666; max-width: 900px; margin-top: 10px; line-height: 1.5; }
+</style>
+</head>
+<body>
+<h3>Oceanografia USP – maior nota na 1ª fase da Fuvest, 2002–2026</h3>
+<div class="legenda">
+  <span><span style="width:16px;border-top:2px dotted #999"></span>Maior nota da Fuvest</span>
+  <span><span style="width:16px;border-top:2px solid #737373"></span>Mediana das notas máximas das carreiras</span>
+  <span><span style="width:10px;height:10px;border-radius:50%;background:#2a78d6"></span>Oceanografia</span>
+  <span><span style="width:10px;height:10px;background:#eb6834"></span>Ampla concorrência</span>
+  <span><span style="width:0;height:0;border-left:6px solid transparent;border-right:6px solid transparent;border-bottom:10px solid #1baf7a"></span>Escola pública</span>
+  <span><span style="width:9px;height:9px;background:#6250d6;transform:rotate(45deg)"></span>PPI</span>
+</div>
+<div class="caixa"><canvas id="maxima"></canvas></div>
+<p class="nota">Maior pontuação entre os convocados para a 2ª fase, em % da pontuação máxima
+da 1ª fase (160 pontos em 2002, 100 em 2003–2007, 90 em 2008–2026). As referências da Fuvest
+inteira excluem treineiros; a mediana das notas máximas das carreiras acompanha a dificuldade
+da prova. Desde 2019 a maior nota de Oceanografia é sempre a da ampla concorrência.
+Fonte: Fuvest, "Notas de corte".</p>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.js"></script>
+<script>
+// Gerado por gerar_pagina_max.py a partir de corte_oceanografia.csv
+const D = {"anos": ["2002", "2003", "2004", "2005", "2006", "2007", "2008", "2009", "2010", "2011", "2012", "2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020", "2021", "2022", "2023", "2024", "2025", "2026"], "fuvest": [93.8, 93.0, 98.0, 96.0, 91.0, 87.0, 97.8, 97.8, 98.9, 94.4, 95.6, 96.7, 95.6, 100.0, 100.0, 98.9, null, 95.6, 97.8, 100.0, 97.8, 97.8, 97.8, 97.8, 98.9], "mediana": [78.1, 78.0, 83.0, 84.0, 75.0, 74.0, 83.3, 84.4, 82.2, 76.7, 78.9, 77.8, 75.6, 78.9, 78.9, 76.7, null, 74.4, 81.7, 85.6, 85.6, 85.6, 86.7, 86.7, 88.3], "total": [80.0, 76.0, 96.0, 84.0, 73.0, 73.0, 88.9, 85.6, 75.6, 84.4, 77.8, 87.8, 75.6, 80.0, 78.9, 80.0, 72.2, 70.0, 77.8, 88.9, 83.3, 78.9, 96.7, 84.4, 76.7], "ac": [null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, 70.0, 77.8, 88.9, 83.3, 78.9, 96.7, 84.4, 76.7], "ep": [null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, 60.0, 65.6, 64.4, 74.4, 76.7, 63.3, 67.8, 74.4], "ppi": [null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, 38.9, 60.0, 64.4, 54.4, 56.7, 56.7, 43.3, 61.1], "pts": {"fuvest": [150.0, 93.0, 98.0, 96.0, 91.0, 87.0, 88.0, 88.0, 89.0, 85.0, 86.0, 87.0, 86.0, 90.0, 90.0, 89.0, null, 86.0, 88.0, 90.0, 88.0, 88.0, 88.0, 88.0, 89.0], "mediana": [125.0, 78.0, 83.0, 84.0, 75.0, 74.0, 75.0, 76.0, 74.0, 69.0, 71.0, 70.0, 68.0, 71.0, 71.0, 69.0, null, 67.0, 73.5, 77.0, 77.0, 77.0, 78.0, 78.0, 79.5], "total": [128.0, 76.0, 96.0, 84.0, 73.0, 73.0, 80.0, 77.0, 68.0, 76.0, 70.0, 79.0, 68.0, 72.0, 71.0, 72.0, 65.0, 63.0, 70.0, 80.0, 75.0, 71.0, 87.0, 76.0, 69.0], "ac": [null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, 63.0, 70.0, 80.0, 75.0, 71.0, 87.0, 76.0, 69.0], "ep": [null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, 54.0, 59.0, 58.0, 67.0, 69.0, 57.0, 61.0, 67.0], "ppi": [null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, 35.0, 54.0, 58.0, 49.0, 51.0, 51.0, 39.0, 55.0]}, "questoes": [160, 100, 100, 100, 100, 100, 90, 90, 90, 90, 90, 90, 90, 90, 90, 90, 90, 90, 90, 90, 90, 90, 90, 90, 90]};
+
+const marcos = [
+  ['2007', 'bônus Inclusp'],
+  ['2008', '1ª fase: 100 → 90 questões'],
+  ['2016', 'USP entra no Sisu'],
+  ['2018', 'início das cotas'],
+  ['2019', '4 convocados por vaga'],
+  ['2021', 'Pandemia COVID-19']
+];
+const linhasVerticais = {
+  id: 'linhasVerticais',
+  beforeDatasetsDraw(chart) {
+    const { ctx, chartArea: area, scales: { x } } = chart;
+    ctx.save();
+    ctx.font = '11px system-ui, sans-serif';
+    ctx.textAlign = 'left';
+    ctx.textBaseline = 'bottom';
+    for (const [ano, txt] of marcos) {
+      const px = x.getPixelForValue(D.anos.indexOf(ano));
+      ctx.strokeStyle = '#d0d0d0';
+      ctx.lineWidth = 1;
+      ctx.beginPath(); ctx.moveTo(px, area.top); ctx.lineTo(px, area.bottom); ctx.stroke();
+      ctx.save();
+      ctx.translate(px - 3, area.bottom - 4);
+      ctx.rotate(-Math.PI / 2);
+      ctx.fillStyle = '#666';
+      ctx.fillText(txt, 0, 0);
+      ctx.restore();
+    }
+    ctx.restore();
+  }
+};
+
+const serie = (chave, label, cor, marcador, traco, largura = 2, raio = 5) => ({
+  chave, label, data: D[chave], borderColor: cor, backgroundColor: cor,
+  pointStyle: marcador, pointRadius: marcador === 'triangle' ? raio + 1 : raio,
+  pointBorderColor: '#fff', pointBorderWidth: 1.5,
+  borderWidth: largura, borderDash: traco, spanGaps: false, tension: 0
+});
+const fmt = v => v.toFixed(1).replace('.', ',');
+
+new Chart(document.getElementById('maxima'), {
+  type: 'line',
+  plugins: [linhasVerticais],
+  data: { labels: D.anos, datasets: [
+    serie('fuvest', 'Maior nota da Fuvest', '#999999', 'circle', [2, 3], 1.5, 2),
+    serie('mediana', 'Mediana das máximas das carreiras', '#737373', 'circle', [], 1.5, 2),
+    serie('total', 'Oceanografia', '#2a78d6', 'circle', []),
+    serie('ac', 'Ampla concorrência', '#eb6834', 'rect', [6, 4]),
+    serie('ep', 'Escola pública', '#1baf7a', 'triangle', [2, 3]),
+    serie('ppi', 'PPI', '#6250d6', 'rectRot', [8, 3, 2, 3])
+  ]},
+  options: {
+    responsive: true, maintainAspectRatio: false,
+    interaction: { mode: 'index', intersect: false },
+    plugins: {
+      legend: { display: false },
+      tooltip: { callbacks: { label: c => {
+        if (c.raw == null) return null;
+        const k = c.dataset.chave, i = c.dataIndex;
+        const p = D.pts[k][i];
+        const pts = Number.isInteger(p) ? p : fmt(p);
+        return `${c.dataset.label}: ${fmt(c.raw)}% (${pts} de ${D.questoes[i]} pontos)`;
+      } } }
+    },
+    scales: {
+      x: { grid: { display: false }, ticks: { autoSkip: false, maxRotation: 60 } },
+      y: { min: 0, max: 100, title: { display: true, text: 'Nota máxima (% da pontuação da 1ª fase)' } }
+    }
+  }
+});
+</script>
+</body>
+</html>
