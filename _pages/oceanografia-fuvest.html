@@ -1,0 +1,199 @@
+---
+layout: null
+permalink: /misc/oceanografia-fuvest/
+sitemap: false
+search: false
+---
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>Oceanografia USP na Fuvest</title>
+<style>
+  body { font-family: system-ui, sans-serif; margin: 0; color: #222; background: #fff; line-height: 1.55; }
+  main { max-width: 920px; margin: 0 auto; padding: 24px 16px 48px; }
+  h1 { font-size: 22px; font-weight: 600; margin: 0 0 6px; }
+  h2 { font-size: 17px; font-weight: 600; margin: 40px 0 4px; }
+  .sub { color: #555; font-size: 14px; margin: 0 0 8px; }
+  nav { font-size: 14px; margin: 12px 0 0; display: flex; flex-wrap: wrap; gap: 6px 16px; }
+  nav a { color: #2a78d6; text-decoration: none; }
+  .legenda { display: flex; flex-wrap: wrap; gap: 6px 16px; font-size: 12px; color: #555; margin: 10px 0 6px; }
+  .legenda span { display: flex; align-items: center; gap: 6px; }
+  .caixa { position: relative; width: 100%; height: 400px; }
+  .nota { font-size: 12.5px; color: #666; margin-top: 8px; }
+  footer { font-size: 12px; color: #777; margin-top: 40px; border-top: 1px solid #e5e5e5; padding-top: 12px; }
+  .q { width: 10px; height: 10px; display: inline-block; }
+  @media (max-width: 600px) { .caixa { height: 340px; } }
+</style>
+</head>
+<body>
+<main>
+<h1>Oceanografia USP na Fuvest, 2002–2027</h1>
+<p class="sub">Procura, nota de corte e maior nota na 1ª fase do vestibular para o Bacharelado
+em Oceanografia (Instituto Oceanográfico, USP), desde o primeiro vestibular do curso.</p>
+<nav>
+  <a href="#cv">1. Candidatos por vaga</a>
+  <a href="#corte">2. Nota de corte</a>
+  <a href="#maxima">3. Maior nota</a>
+</nav>
+
+<h2 id="cv">1. Relação candidato/vaga</h2>
+<div class="legenda">
+  <span><span class="q" style="border-radius:50%;background:#2a78d6"></span>Total</span>
+  <span><span class="q" style="background:#eb6834"></span>Ampla concorrência</span>
+  <span><span style="width:0;height:0;border-left:6px solid transparent;border-right:6px solid transparent;border-bottom:10px solid #1baf7a"></span>Escola pública</span>
+  <span><span style="width:9px;height:9px;background:#6250d6;transform:rotate(45deg)"></span>PPI</span>
+</div>
+<div class="caixa"><canvas id="g-cv"></canvas></div>
+<p class="nota">Inscritos na 1ª fase divididos pelas vagas oferecidas pela Fuvest (a partir de 2016,
+parte das vagas do curso passou ao Sisu, hoje Enem-USP e Provão Paulista). Por modalidade de
+concorrência a partir de 2019.</p>
+
+<h2 id="corte">2. Nota de corte da 1ª fase</h2>
+<div class="legenda">
+  <span><span style="width:14px;height:10px;background:#ebebeb;border-top:1.5px dashed #8c8c8c"></span>Zona de eliminação (abaixo do piso)</span>
+  <span><span class="q" style="border-radius:50%;background:#2a78d6"></span>Nota de corte (vaga única)</span>
+  <span><span class="q" style="background:#eb6834"></span>Ampla concorrência</span>
+  <span><span style="width:0;height:0;border-left:6px solid transparent;border-right:6px solid transparent;border-bottom:10px solid #1baf7a"></span>Escola pública</span>
+  <span><span style="width:9px;height:9px;background:#6250d6;transform:rotate(45deg)"></span>PPI</span>
+</div>
+<div class="caixa"><canvas id="g-corte"></canvas></div>
+<p class="nota">Menor pontuação entre os convocados para a 2ª fase, em % da pontuação máxima da
+1ª fase. Abaixo do piso o candidato é eliminado; nota de corte igual ao piso significa que todos
+os presentes não eliminados foram convocados.</p>
+
+<h2 id="maxima">3. Maior nota da 1ª fase</h2>
+<div class="legenda">
+  <span><span style="width:16px;border-top:2px dotted #999"></span>Maior nota da Fuvest</span>
+  <span><span style="width:16px;border-top:2px solid #737373"></span>Mediana das notas máximas das carreiras</span>
+  <span><span class="q" style="border-radius:50%;background:#2a78d6"></span>Oceanografia</span>
+  <span><span class="q" style="background:#eb6834"></span>Ampla concorrência</span>
+  <span><span style="width:0;height:0;border-left:6px solid transparent;border-right:6px solid transparent;border-bottom:10px solid #1baf7a"></span>Escola pública</span>
+  <span><span style="width:9px;height:9px;background:#6250d6;transform:rotate(45deg)"></span>PPI</span>
+</div>
+<div class="caixa"><canvas id="g-max"></canvas></div>
+<p class="nota">Maior pontuação entre os convocados para a 2ª fase, em % da prova. A mediana das
+notas máximas das carreiras serve de referência para a dificuldade da prova. Desde 2019 a maior
+nota de Oceanografia é sempre a da ampla concorrência.</p>
+
+<footer>
+Pontuação máxima da 1ª fase: 160 pontos em 2002, 100 em 2003–2007, 90 em 2008–2026 e 80 em 2027.
+Linhas verticais marcam mudanças de regra. Passe o mouse (ou toque) sobre o gráfico para ver os
+valores. Fonte: Fuvest (inscritos por opção de curso e por região, relação candidato/vaga e notas
+de corte de cada ano).
+</footer>
+</main>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.js"></script>
+<script>
+// Gerado por gerar_pagina_unica.py a partir de serie_extraida.csv e corte_oceanografia.csv
+const D = {"anos": ["2002", "2003", "2004", "2005", "2006", "2007", "2008", "2009", "2010", "2011", "2012", "2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020", "2021", "2022", "2023", "2024", "2025", "2026", "2027"], "questoes": [160, 100, 100, 100, 100, 100, 90, 90, 90, 90, 90, 90, 90, 90, 90, 90, 90, 90, 90, 90, 90, 90, 90, 90, 90, 80], "cv": {"total": [15.35, 16.28, 13.48, 22.35, 17.7, 12.73, 10.93, 9.8, 8.25, 9.88, 7.45, 6.98, 7.65, 7.45, 8.07, 8.29, 7.39, 6.21, 6.75, 5.86, 4.39, 4.25, 3.48, 4.34, 3.76, 5.24], "ac": [null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, 6.33, 6.72, 6.44, 4.88, 4.44, 3.61, 4.94, 3.44, 5.39], "ep": [null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, 8.17, 7.29, 6.38, 4.75, 5.0, 4.0, 4.43, 5.0, 5.86], "ppi": [null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, 2.75, 5.67, 2.5, 1.75, 2.0, 2.0, 1.5, 3.0, 3.5]}, "cv_n": {"total": [614, 651, 539, 894, 708, 509, 437, 392, 330, 395, 298, 279, 306, 298, 242, 232, 207, 174, 189, 164, 123, 119, 101, 126, 109, 152], "ac": [null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, 114, 121, 103, 78, 71, 65, 89, 62, 97], "ep": [null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, 49, 51, 51, 38, 40, 28, 31, 35, 41], "ppi": [null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, 11, 17, 10, 7, 8, 8, 6, 12, 14]}, "nc": {"piso": [null, 25.0, 25.0, 25.0, 25.0, 22.0, 24.4, 24.4, 24.4, 24.4, 30.0, 30.0, 30.0, 30.0, 30.0, 30.0, 30.0, 30.0, 30.0, 30.0, 30.0, 30.0, 30.0, 30.0, 30.0, 30.0], "total": [50.0, 53.0, 56.0, 63.0, 56.0, 50.0, 56.7, 56.7, 50.0, 44.4, 51.1, 45.6, 44.4, 51.1, 48.9, 45.6, 45.6, null, null, null, null, null, null, null, null, null], "ac": [null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, 37.8, 46.7, 44.4, 38.9, 51.1, 40.0, 48.9, 42.2, 47.5], "ep": [null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, 36.7, 38.9, 37.8, 33.3, 32.2, 31.1, 31.1, 30.0, 30.0], "ppi": [null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, 30.0, 30.0, 32.2, 42.2, 30.0, 30.0, 30.0, 30.0, 30.0]}, "nc_pts": {"piso": [null, 25, 25, 25, 25, 22, 22, 22, 22, 22, 27, 27, 27, 27, 27, 27, 27, 27, 27, 27, 27, 27, 27, 27, 27, 24], "total": [80, 53, 56, 63, 56, 50, 51, 51, 45, 40, 46, 41, 40, 46, 44, 41, 41, null, null, null, null, null, null, null, null, null], "ac": [null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, 34, 42, 40, 35, 46, 36, 44, 38, 38], "ep": [null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, 33, 35, 34, 30, 29, 28, 28, 27, 24], "ppi": [null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, 27, 27, 29, 38, 27, 27, 27, 27, 24]}, "mx": {"fuvest": [93.8, 93.0, 98.0, 96.0, 91.0, 87.0, 97.8, 97.8, 98.9, 94.4, 95.6, 96.7, 95.6, 100.0, 100.0, 98.9, null, 95.6, 97.8, 100.0, 97.8, 97.8, 97.8, 97.8, 98.9, 96.3], "mediana": [78.1, 78.0, 83.0, 84.0, 75.0, 74.0, 83.3, 84.4, 82.2, 76.7, 78.9, 77.8, 75.6, 78.9, 78.9, 76.7, null, 74.4, 81.7, 85.6, 85.6, 85.6, 86.7, 86.7, 88.3, 83.8], "total": [80.0, 76.0, 96.0, 84.0, 73.0, 73.0, 88.9, 85.6, 75.6, 84.4, 77.8, 87.8, 75.6, 80.0, 78.9, 80.0, 72.2, 70.0, 77.8, 88.9, 83.3, 78.9, 96.7, 84.4, 76.7, 77.5], "ac": [null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, 70.0, 77.8, 88.9, 83.3, 78.9, 96.7, 84.4, 76.7, 77.5], "ep": [null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, 60.0, 65.6, 64.4, 74.4, 76.7, 63.3, 67.8, 74.4, 68.8], "ppi": [null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, 38.9, 60.0, 64.4, 54.4, 56.7, 56.7, 43.3, 61.1, 50.0]}, "mx_pts": {"fuvest": [150.0, 93.0, 98.0, 96.0, 91.0, 87.0, 88.0, 88.0, 89.0, 85.0, 86.0, 87.0, 86.0, 90.0, 90.0, 89.0, null, 86.0, 88.0, 90.0, 88.0, 88.0, 88.0, 88.0, 89.0, 77.0], "mediana": [125.0, 78.0, 83.0, 84.0, 75.0, 74.0, 75.0, 76.0, 74.0, 69.0, 71.0, 70.0, 68.0, 71.0, 71.0, 69.0, null, 67.0, 73.5, 77.0, 77.0, 77.0, 78.0, 78.0, 79.5, 67.0], "total": [128.0, 76.0, 96.0, 84.0, 73.0, 73.0, 80.0, 77.0, 68.0, 76.0, 70.0, 79.0, 68.0, 72.0, 71.0, 72.0, 65.0, 63.0, 70.0, 80.0, 75.0, 71.0, 87.0, 76.0, 69.0, 62.0], "ac": [null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, 63.0, 70.0, 80.0, 75.0, 71.0, 87.0, 76.0, 69.0, 62.0], "ep": [null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, 54.0, 59.0, 58.0, 67.0, 69.0, 57.0, 61.0, 67.0, 55.0], "ppi": [null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, 35.0, 54.0, 58.0, 49.0, 51.0, 51.0, 39.0, 55.0, 40.0]}};
+
+const marcosCV = [
+  ['2007', 'bônus Inclusp'], ['2016', 'USP entra no Sisu'],
+  ['2018', 'início das cotas'], ['2021', 'Pandemia COVID-19']
+];
+const marcosNotas = [
+  ['2007', 'bônus Inclusp'], ['2008', '1ª fase: 100 → 90 questões'],
+  ['2016', 'USP entra no Sisu'], ['2018', 'início das cotas'],
+  ['2019', '4 convocados por vaga'], ['2021', 'Pandemia COVID-19'],
+  ['2027', '1ª fase: 90 → 80 questões']
+];
+const linhasVerticais = (marcos, embaixo) => ({
+  id: 'linhasVerticais',
+  beforeDatasetsDraw(chart) {
+    const { ctx, chartArea: area, scales: { x } } = chart;
+    ctx.save();
+    ctx.font = '11px system-ui, sans-serif';
+    ctx.textAlign = embaixo ? 'left' : 'right';
+    ctx.textBaseline = 'bottom';
+    for (const [ano, txt] of marcos) {
+      const i = D.anos.indexOf(ano);
+      if (i < 0) continue;
+      const px = x.getPixelForValue(i);
+      ctx.strokeStyle = '#cfcfcf'; ctx.lineWidth = 1;
+      ctx.beginPath(); ctx.moveTo(px, area.top); ctx.lineTo(px, area.bottom); ctx.stroke();
+      ctx.save();
+      ctx.translate(px - 3, embaixo ? area.bottom - 4 : area.top + 4);
+      ctx.rotate(-Math.PI / 2);
+      ctx.fillStyle = '#666';
+      ctx.fillText(txt, 0, 0);
+      ctx.restore();
+    }
+    ctx.restore();
+  }
+});
+
+const linha = (chave, data, label, cor, marcador, traco, largura = 2, raio = 5) => ({
+  chave, label, data, borderColor: cor, backgroundColor: cor,
+  pointStyle: marcador, pointRadius: marcador === 'triangle' ? raio + 1 : raio,
+  pointBorderColor: '#fff', pointBorderWidth: 1.5,
+  borderWidth: largura, borderDash: traco, spanGaps: false, tension: 0
+});
+const fmt = (v, c = 1) => v.toFixed(c).replace('.', ',');
+const pts = p => Number.isInteger(p) ? p : fmt(p);
+const opcoes = (ytitulo, ymax, rotulo) => ({
+  responsive: true, maintainAspectRatio: false,
+  interaction: { mode: 'index', intersect: false },
+  plugins: { legend: { display: false }, tooltip: { callbacks: { label: rotulo } } },
+  scales: {
+    x: { grid: { display: false }, ticks: { autoSkip: false, maxRotation: 60 } },
+    y: { min: 0, max: ymax, title: { display: true, text: ytitulo } }
+  }
+});
+const AZ = '#2a78d6', LA = '#eb6834', VE = '#1baf7a', RO = '#6250d6';
+
+new Chart(document.getElementById('g-cv'), {
+  type: 'line', plugins: [linhasVerticais(marcosCV, false)],
+  data: { labels: D.anos, datasets: [
+    linha('total', D.cv.total, 'Total', AZ, 'circle', []),
+    linha('ac', D.cv.ac, 'Ampla concorrência', LA, 'rect', [6, 4]),
+    linha('ep', D.cv.ep, 'Escola pública', VE, 'triangle', [2, 3]),
+    linha('ppi', D.cv.ppi, 'PPI', RO, 'rectRot', [8, 3, 2, 3])
+  ]},
+  options: opcoes('Candidatos por vaga', 25, c => {
+    if (c.raw == null) return null;
+    const n = D.cv_n[c.dataset.chave][c.dataIndex];
+    return `${c.dataset.label}: ${fmt(c.raw, 2)} (${n} inscritos)`;
+  })
+});
+
+new Chart(document.getElementById('g-corte'), {
+  type: 'line', plugins: [linhasVerticais(marcosNotas, false)],
+  data: { labels: D.anos, datasets: [
+    { chave: 'piso', label: 'Piso de eliminação', data: D.nc.piso, stepped: 'middle',
+      borderColor: '#8c8c8c', borderWidth: 1.5, borderDash: [4, 3],
+      backgroundColor: '#ebebeb', fill: 'origin', pointRadius: 0, pointHoverRadius: 0 },
+    linha('total', D.nc.total, 'Nota de corte', AZ, 'circle', []),
+    linha('ac', D.nc.ac, 'Ampla concorrência', LA, 'rect', [6, 4]),
+    linha('ep', D.nc.ep, 'Escola pública', VE, 'triangle', [2, 3]),
+    linha('ppi', D.nc.ppi, 'PPI', RO, 'rectRot', [8, 3, 2, 3])
+  ]},
+  options: opcoes('Nota de corte (% da prova)', 100, c => {
+    if (c.raw == null) return null;
+    const k = c.dataset.chave, i = c.dataIndex;
+    return `${c.dataset.label}: ${fmt(c.raw)}% (${pts(D.nc_pts[k][i])} de ${D.questoes[i]} pontos)`;
+  })
+});
+
+new Chart(document.getElementById('g-max'), {
+  type: 'line', plugins: [linhasVerticais(marcosNotas, true)],
+  data: { labels: D.anos, datasets: [
+    linha('fuvest', D.mx.fuvest, 'Maior nota da Fuvest', '#999999', 'circle', [2, 3], 1.5, 2),
+    linha('mediana', D.mx.mediana, 'Mediana das máximas das carreiras', '#737373', 'circle', [], 1.5, 2),
+    linha('total', D.mx.total, 'Oceanografia', AZ, 'circle', []),
+    linha('ac', D.mx.ac, 'Ampla concorrência', LA, 'rect', [6, 4]),
+    linha('ep', D.mx.ep, 'Escola pública', VE, 'triangle', [2, 3]),
+    linha('ppi', D.mx.ppi, 'PPI', RO, 'rectRot', [8, 3, 2, 3])
+  ]},
+  options: opcoes('Nota máxima (% da prova)', 100, c => {
+    if (c.raw == null) return null;
+    const k = c.dataset.chave, i = c.dataIndex;
+    return `${c.dataset.label}: ${fmt(c.raw)}% (${pts(D.mx_pts[k][i])} de ${D.questoes[i]} pontos)`;
+  })
+});
+</script>
+</body>
+</html>
