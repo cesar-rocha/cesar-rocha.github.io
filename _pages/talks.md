@@ -16,6 +16,14 @@ header:
 <p></p>
 <p></p>
 
+**II Workshop O Talude Continental da Bacia de Santos, June 2026: "Uma perspectiva sobre a circulação intermediária do Atlântico Sudoeste"**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YYzwBPGkYg8?si=w4_xqLufFdFisxT7&amp;start=1233" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<p></p>
+<p></p>
+<p></p>
+
 
 **Colóquio do Departamento de Ciências Atmosféricas, April 2025: "Interação entre escoamento geostróficos e ondas internas no oceano"**
 
