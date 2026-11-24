@@ -10,12 +10,13 @@ header:
 
 <!-- ### Submitted -->
 
+<!-- [Convergence, Strain, and Cross-Scale Kinetic Energy Flux at Submesoscale Fronts in the California Current System][s7] P. Bhuyan, L. Romero, **C. B. Rocha**, J. T. Farrar, Journal of Physical Oceanography (submitted) -->
+
 <!-- [A Generalizable Lie Autoencoder for Emulating1Barotropic Turbulence][s6] I. Gorenstein, I. Wainer, **C. B. Rocha**, P. S. Peixoto, *JGR: Machine Learning and Computation* (submitted) -->
 
 <!-- [Calibration of a wind-drift model using remote-sensing and in-situ observations][s5] I. Leyba, R. Samelson, J. T. Farrar, **C. Rocha**, E. Rodriguez, A. Shcherbina, *Journal of Atmospheric and Oceanic Technology* (submitted) -->
 
 <!-- [South Atlantic abyssal temperature variability and trends at 34.5S][s4] M. R. Rocha, E. J. D. Campos, A. Piola, M. van Caspel, P. S. Polito, **C. Rocha**, *Progress in Oceanography* (submitted) -->
-
 
 <!-- 0. [Nusselt Number Scaling in Horizontal Convection: Boundary Conditions and Dimensionality][s1]  
    N. Constantinou, **C. B. Rocha**, S. G. Llewellyn Smith, & W. R. Young, *Journal of Fluid Mechanics (submitted)* 
