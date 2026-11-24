@@ -16,6 +16,17 @@ header:
 <p></p>
 <p></p>
 
+
+**Colóquio do Departamento de Ciências Atmosféricas, April 2025: "Interação entre escoamento geostróficos e ondas internas no oceano"**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB_uhm3bo38?si=4bXPNuIi9bGOH7no&amp;start=309" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<p></p>
+<p></p>
+<p></p>
+
+
+
 **FEBRACE, March 2025: "Mudanças Climáticas: como entender as transformações do planeta?"**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KzNBlsKzJ9A?si=2YarGbyKLAzaoDk-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
